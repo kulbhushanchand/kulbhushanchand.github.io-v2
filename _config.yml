@@ -12,22 +12,22 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My Personal Website"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : &name "Kulbhushan Chand"
+description              : &description "Welcome to my personal website."
+url                      : https://kulbhushan-chand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,7 +39,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"
   commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -54,18 +54,18 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6LfUCm4UAAAAAC_kKxRUMp47XzUuvOvFSzo2j4oj"
+  secret                 : "wUIG50npG0ICmpIjAaxd+KpXTVp1GMx7DJp0JzzkkQrpeRlm68ELVbbwYj+hK8YGr6vUwHzI7NAjhVR7R/s0Ypv+bWjwK7UxR4eokL7f+6Us+nyy96VP/b2xlR0LPLrjrp736aHaZyzlDNj07w6dN6wjw2OwweTEgs7syTwj7Fk="
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true #true, false (default)
+search_full_content      : true #true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : NLCZAU4SPV # YOUR_APPLICATION_ID
+  index_name             : my_personal_website # YOUR_INDEX_NAME
+  search_only_api_key    : 11526d7bfa3cf379cfbe8d761764b33f # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -77,59 +77,61 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "ChandKulbhushan"
 facebook:
-  username               :
+  username               : &facebook "kulbhushan.chand.007"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/site-logo.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/ChandKulbhushan"
+    - "https://facebook.com/kulbhushan.chand.007"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "GTM-MFRMJTK"
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kulbhushan Chand"
+  avatar           : "/assets/images/kulbhushan-chand.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "India"
   email            :
-  uri              :
+  uri              : "https://kulbhushan-chand.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : *facebook
   foursquare       :
-  github           :
+  github           : "Kulbhushan-Chand"
   gitlab           :
-  google_plus      :
+  google_plus      : "+KulbhushanChand"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "kulbhushan-chand" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCmBeYOOZ0BwXSCiUGKNMPwA" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -266,6 +268,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
