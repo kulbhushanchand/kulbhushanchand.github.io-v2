@@ -1,7 +1,23 @@
-<!--
+{% if author.quora %}
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    <a href="https://www.quora.com/profile/{{ author.quora }}" itemprop="sameAs">
+      <i class="fab fa-fw fa-quora" aria-hidden="true"></i> Quora
     </a>
   </li>
--->
+{% endif %}
+
+{% if author.orcid %}  
+  <li>
+    <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+      <i class="fab fa-fw fa-quora" aria-hidden="true"></i> ORCID
+    </a>
+  </li>
+{% endif %}
+
+{% if author.osf %}  
+  <li>
+    <a href="https://osf.io/{{ author.osf }}" itemprop="sameAs">
+      <i class="fab fa-fw fa-quora" aria-hidden="true"></i> OSF
+    </a>
+  </li>
+{% endif %}

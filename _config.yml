@@ -91,6 +91,11 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/ChandKulbhushan"
     - "https://facebook.com/kulbhushan.chand.007"
+    - "https://plus.google.com/+KulbhushanChand"
+    - "https://www.linkedin.com/in/kulbhushan-chand/"
+    - "https://github.com/Kulbhushan-Chand"
+    - "https://www.youtube.com/user/erkulbhushan"
+
 
 # Analytics
 analytics:
@@ -131,8 +136,10 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCmBeYOOZ0BwXSCiUGKNMPwA" # "https://youtube.com/c/MichaelRoseDesign"
-
+  youtube          : "https://www.youtube.com/user/erkulbhushan" # "https://youtube.com/c/MichaelRoseDesign"
+  quora            : "Kulbhushan-Chand"
+  orcid            : "0000-0001-6502-0748"
+  osf              : "wxqdj"
 
 # Reading Files
 include:
