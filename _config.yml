@@ -94,10 +94,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtm" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag" ,"custom"
   google:
-    tracking_id          : "GTM-MFRMJTK" #"UA-123577698-1" #"GTM-MFRMJTK"
-    anonymize_ip         : true # true, false (default)
+    tracking_id          : "UA-123577698-1" #"UA-123577698-1" #"GTM-MFRMJTK"
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
