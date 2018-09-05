@@ -140,6 +140,7 @@ author:
   quora            : "Kulbhushan-Chand"
   orcid            : "0000-0001-6502-0748"
   osf              : "wxqdj"
+  reddit           : "KulbhushanChand"
 
 # Reading Files
 include:
@@ -197,16 +198,19 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 collections:
+
   pages:
     output: true
     permalink: /:collection/:title/
-  posts:
-    output: true
-    permalink: /blog/:collection/:year/:month/:day/:title/
+
+#  posts:
+#    output: true
+#    permalink: /blog/:categories/:year/:month/:day/:title/
 
 
-# Defaults
+# Front Matter Defaults
 defaults:
   # _posts
   - scope:
@@ -219,6 +223,46 @@ defaults:
       comments: true
       share: true
       related: true
+
+# articles
+  - scope:
+      path: "_posts/articles"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      permalink: /blog/articles/:title/
+  
+    # deltaX
+  - scope:
+      path: "_posts/deltaX"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      permalink: /blog/deltaX/:title/
+
+    # tutorials
+  - scope:
+      path: "_posts/tutorials"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      permalink: /blog/tutorials/:title/
+  
   # _pages
   - scope:
       path: "_pages"
@@ -226,18 +270,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+
+
+
+
+      
+ 
   
 
 # Sass/SCSS
@@ -250,7 +288,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

@@ -1,22 +1,22 @@
 ---
-title: The insufferable environment at hostel
+title: <i class="fab fa-readme"></i> The insufferable environment at hostel
+toc: true
+toc_sticky: true
+toc_label: #"Unique Title"
+toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 categories:
-  - Edge Case
+  - articles
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-  - hostel
   - arduino
   - project
+author_profile: #false
+last_modified_at: 2018-09-05T20:11:06+05:30
+header:
+  teaser: assets/images/posts/articles/hostel.jpg
 ---
 
-  
-  
- 
 
+## Environment at my hostel
 In Punjab state, the weather ranges from *scorching summers* to *shivery winters*. At the beginning of rainy season (here we have 5 seasons in a year, diversity at its best), if it not raining, it is very humid. 
 
 

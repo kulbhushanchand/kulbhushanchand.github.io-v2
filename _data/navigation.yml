@@ -1,5 +1,7 @@
 # main links
 main:
+#  - title: "delta X"
+#    url: /deltaX/
   - title: "Blog"
     url: /blog/
   - title: "About"

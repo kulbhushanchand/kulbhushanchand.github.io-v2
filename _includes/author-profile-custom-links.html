@@ -6,10 +6,18 @@
   </li>
 {% endif %}
 
+{% if author.reddit %}  
+  <li>
+    <a href="https://www.reddit.com/user/{{ author.reddit }}" itemprop="sameAs">
+      <i class="fab fa-fw fa-reddit" aria-hidden="true"></i> Reddit
+    </a>
+  </li>
+{% endif %}
+
 {% if author.orcid %}  
   <li>
     <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
-      <i class="fab fa-fw fa-quora" aria-hidden="true"></i> ORCID
+      <i class="orcid-icon-temp fas fa-fw fa-id-badge" aria-hidden="true"></i> ORCID
     </a>
   </li>
 {% endif %}
@@ -17,7 +25,7 @@
 {% if author.osf %}  
   <li>
     <a href="https://osf.io/{{ author.osf }}" itemprop="sameAs">
-      <i class="fab fa-fw fa-quora" aria-hidden="true"></i> OSF
+      <i class="osf-icon-temp fas fa-fw fa-snowflake" aria-hidden="true"></i> OSF
     </a>
   </li>
 {% endif %}
