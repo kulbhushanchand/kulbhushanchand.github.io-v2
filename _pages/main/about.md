@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "About me."
+title: "About me"
+excerpt: "tl;dr -- autodidact, introvert, curious, researcher, open source supporter"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -13,14 +13,17 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 #last_modified_at: 2018-09-05T12:08:06-04:00
-toc: true
+toc: #true
+header:
+  overlay_image: /assets/images/pages/main/unsplash-image-1.jpg
+  overlay_filter: rgba(0, 128, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+classes: wide
 ---
 
-
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
-[Hello](https://www.google.com){: .btn .btn--success .btn--large}
-
+## <i class="fas fa-user-circle"></i> Brief profile
 
 ---

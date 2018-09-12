@@ -1,20 +1,14 @@
 ---
-layout: 
 title: <i class="fas fa-info-circle"></i> Participant's information page
-excerpt: "Information page for participants taking part in the trials."
+excerpt: "about trials"
 author_profile: false
 comments: true
 published: true
 last_modified_at: 2018-09-07T04:15:00+05:30
 toc: true
+toc_label: #"Table of Contents"
+toc_icon: #"hand-paper" #font awesome icon name
 toc_sticky: true
-sidebar:
-  - title: "Information about trials"
-    image: http://placehold.it/350x250
-    image_alt: "trials-small"
-    text: "This page is for information to participants taking part in the trials."
-  - title: "Researcher"
-    text: "[Kulbhushan Chand](/about)"
 gallery1:
   - url:  http://placehold.it/600x300.jpeg
     image_path: http://placehold.it/600x300.jpeg
@@ -31,7 +25,14 @@ gallery1:
   - url:  http://placehold.it/600x300.jpeg
     image_path: http://placehold.it/600x300.jpeg
     alt: "Skin temperature acquisition from the skin surface"
-    title: "Skin temperature acquisition from the skin surface"    
+    title: "Skin temperature acquisition from the skin surface"  
+header:
+  overlay_image: /assets/images/pages/main/projects-header.jpg
+  overlay_filter: rgba(0, 128, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"  
 ---
 
 This page is for information to participants taking part in the trials.   

@@ -58,8 +58,8 @@ reCaptcha:
   secret                 : "wUIG50npG0ICmpIjAaxd+KpXTVp1GMx7DJp0JzzkkQrpeRlm68ELVbbwYj+hK8YGr6vUwHzI7NAjhVR7R/s0Ypv+bWjwK7UxR4eokL7f+6Us+nyy96VP/b2xlR0LPLrjrp736aHaZyzlDNj07w6dN6wjw2OwweTEgs7syTwj7Fk="
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true #true, false (default)
-search_full_content      : true #true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : NLCZAU4SPV # YOUR_APPLICATION_ID
@@ -70,7 +70,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "F4Qc7BNQPVkGnB62-j10JYgQO924mFENz7yrSvG07xE"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -88,7 +88,7 @@ og_image                 : "/assets/images/site-logo.jpg" # Open Graph/Twitter d
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social media profiles - For Google Knowledge panel in some searches. 
     - "https://twitter.com/ChandKulbhushan"
     - "https://facebook.com/kulbhushan.chand.007"
     - "https://plus.google.com/+KulbhushanChand"
@@ -110,37 +110,98 @@ author:
   name             : "Kulbhushan Chand"
   avatar           : "/assets/images/kulbhushan-chand.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Autodidact"
-  location         : "India"
+  location         : "Jalandhar, India"
   email            :
-  uri              : "https://kulbhushan-chand.github.io"
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : *facebook
-  foursquare       :
-  github           : "Kulbhushan-Chand"
-  gitlab           :
-  google_plus      : "+KulbhushanChand"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "kulbhushan-chand" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : *twitter
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/user/erkulbhushan" # "https://youtube.com/c/MichaelRoseDesign"
-  quora            : "Kulbhushan-Chand"
-  orcid            : "0000-0001-6502-0748"
-  osf              : "wxqdj"
-  reddit           : "KulbhushanChand"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://kulbhushan-chand.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ChandKulbhushan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/kulbhushan.chand.007"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Kulbhushan-Chand"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"  
+    - label: "Google+"
+      icon: "fab fa-fw fa-google-plus-square"
+      url: "https://plus.google.com/+KulbhushanChand"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kulbhushan-chand"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/erkulbhushan"            
+    - label: "Quora"
+      icon: "fab fa-fw fa-quora"
+      url: "https://www.quora.com/profile/Kulbhushan-Chand"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/KulbhushanChand"
+    - label: "ORCID"
+      icon: "orcid-icon-temp fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0000-0001-6502-0748"      
+    - label: "OSF"
+      icon: "osf-icon-temp fas fa-fw fa-snowflake"
+      url: "https://osf.io/wxqdj"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Kulbhushan-Chand"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
+
+  #uri              : "https://kulbhushan-chand.github.io"
+  #home             : # null (default), "absolute or relative url to link to author home"
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         : *facebook
+  #foursquare       :
+
+
+
+  #keybase          :
+  #instagram        :
+  #lastfm           :
+  
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  #steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  #tumblr           :
+ 
+  #vine             :
+  #weibo            :
+  #xing             :
+ 
 
 # Reading Files
 include:

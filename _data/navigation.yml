@@ -4,6 +4,8 @@ main:
 #    url: /deltaX/
   - title: "Blog"
     url: /blog/
+#  - title: "Projects"
+#    url: /projects/
   - title: "About"
     url: /about/
   - title: "Quick-Start Guide"
