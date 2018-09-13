@@ -2,6 +2,7 @@
 title: <i class="fas fa-info-circle"></i> Participant's information page
 excerpt: "about trials"
 author_profile: false
+layout: single
 comments: true
 published: true
 last_modified_at: 2018-09-07T04:15:00+05:30
