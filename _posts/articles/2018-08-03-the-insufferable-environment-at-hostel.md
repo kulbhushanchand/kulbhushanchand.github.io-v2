@@ -1,5 +1,6 @@
 ---
 title: <i class="fab fa-readme"></i> The insufferable environment at hostel
+comments: true
 toc: true
 toc_sticky: true
 toc_label: #"Unique Title"

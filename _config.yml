@@ -9,7 +9,7 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
+# environment: production
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    :  "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -22,7 +22,7 @@ name                     : &name "Kulbhushan Chand"
 description              : &description "Welcome to my personal website."
 url                      : https://kulbhushan-chand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Kulbhushan-Chand/Kulbhushan-Chand.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -54,8 +54,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LfUCm4UAAAAAC_kKxRUMp47XzUuvOvFSzo2j4oj"
-  secret                 : "wUIG50npG0ICmpIjAaxd+KpXTVp1GMx7DJp0JzzkkQrpeRlm68ELVbbwYj+hK8YGr6vUwHzI7NAjhVR7R/s0Ypv+bWjwK7UxR4eokL7f+6Us+nyy96VP/b2xlR0LPLrjrp736aHaZyzlDNj07w6dN6wjw2OwweTEgs7syTwj7Fk="
+  siteKey                : "6LfxC3AUAAAAAHtS4AnkcMm1WPqOY0wVzQBqMJBd"
+  secret                 : "dPL2DG9v/k28wLgYPXYopf2TDwPHM/uYT05s9YE/RgadXbFrYrgW1KDPYligT4xEqvv4kELEg6Ak7B1SV9QRXhiyK/DfEVGwF2H0z6ouAKndUNm/wb6Kwtb/l6Lu1oZnpBAIosuVKVZ1E4YrdAM2dPv1tY1rVcPu8G/aY7U3yws="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -331,6 +331,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
 
 
 
