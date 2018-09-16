@@ -3,47 +3,34 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install Now"
-      url: "/docs/quick-start-guide/"
-  caption: test caption kb
-excerpt: 'Welcome.
- <br /> 
- <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.12.2">Latest release v4.12.2</a></small>
- <br />
- <br />
- {::nomarkdown}
- <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Kulbhushan-Chand&repo=Kulbhushan-Chand.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Kulbhushan-Chand&repo=Kulbhushan-Chand.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
- {:/nomarkdown}'
+  overlay_image: # /assets/images/mm-home-page-feature.jpg
+title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
+excerpt: 'Welcome to my personal website...
+<br>
+<br>
+'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "My Blog"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/KulbhushanChand){: .btn .btn--primary}'
+  - image_path: https://placehold.it/600x350.jpeg
+    alt: "biofeedback trials"
+    title: "Biofeedback Trials"
+    excerpt: "We are conducting **biofeedback trials** as a part of my PhD research. In case you are the **participant** or want to know about the trials, click below to know more..."
+    url: "/pages/trials/"
+    btn_class: "btn--primary btn--x-large"
+    btn_label: "Trials"
+  - image_path: https://placehold.it/600x350.jpeg
+    alt: "blog"
+    title: "Blog"
+    excerpt: "In case you ~~are a spy~~ **came with a purpose** or landed on this website ~~mistakenly~~ **out of curiosity**, I recommend reading the only available article in my blog..."
+    url: "/blog/"
+    btn_class: "btn--success btn--x-large"
+    btn_label: "Blog"
+  - image_path: https://placehold.it/600x350.jpeg
+    alt: "about"
+    title: "About me"
+    excerpt: "In case you ~~don't cares~~ **want to know** about me, keep going... There are tons of topics we can discuss, except ones I consider my achilles heel "
+    url: "/about/"
+    btn_class: "btn--warning btn--x-large"
+    btn_label: "About me"
 ---
-
-[Trials]({{ "/pages/trials/" | relative_url }}){: .btn .btn--success .btn--large}
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}

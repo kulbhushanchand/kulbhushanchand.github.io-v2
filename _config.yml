@@ -297,6 +297,8 @@ defaults:
       share: true
       related: true
       permalink: /blog/articles/:title/
+      categories:
+        - articles
   
     # deltaX
   - scope:
@@ -310,6 +312,8 @@ defaults:
       share: true
       related: true
       permalink: /blog/deltaX/:title/
+      categories:
+        - deltaX
 
     # tutorials
   - scope:
@@ -323,6 +327,8 @@ defaults:
       share: true
       related: true
       permalink: /blog/tutorials/:title/
+      categories:
+        - tutorials
   
   # _pages
   - scope:

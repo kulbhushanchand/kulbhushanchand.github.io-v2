@@ -1,6 +1,6 @@
 ---
 title: <i class="fas fa-info-circle"></i> Participant's information page
-excerpt: "about trials"
+excerpt: "For biofeedback trials"
 author_profile: false
 layout: single
 comments: true
@@ -28,18 +28,15 @@ gallery1:
     alt: "Skin temperature acquisition from the skin surface"
     title: "Skin temperature acquisition from the skin surface"  
 header:
-  overlay_image: /assets/images/pages/main/projects-header.jpg
-  overlay_filter: rgba(0, 128, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"  
+  overlay_image: # /assets/images/pages/main/projects-header.jpg
+  overlay_color: "#333"
 ---
 
-This page is for information to participants taking part in the trials.   
+This page is for information to participants taking part in the biofeedback[^1] trials.   
 The motive of this page to make people aware of the general aspects of our study and about trials in which they are going to take part.  
 
 ## <i class="fas fa-user-circle"></i> Resource Persons
+
 These trials are part of ongoing PhD work of -
 
 ![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/Kulbhushan_Chand.jpg){: .align-right}{:height="136px" width="115px"}
@@ -64,6 +61,7 @@ These trials are part of ongoing PhD work of -
 ---
 
 ## <i class="fab fa-readme"></i> Introduction to the Research Work
+
 In this fast paced life -- stress is something to avoid at all cost. Studies conformed that stress is a risk factor to cardiovascular diseases which are the leading cause of deaths in India. 
 
 One can avoid piling up stress, simply by achieving a state of mental relaxation -- which is the stress free state of mind in which the brain triggers the parasympathetic nervous system.  
@@ -74,37 +72,45 @@ Thus the greater benefit of having a state of mental relaxation is avoiding many
 
 This research work aims to achieve the following goals –  
 
-- Promoting a healthy lifestyle among the people by learning relaxation techniques for stress management  
+- Promoting a healthy lifestyle among the people by learning relaxation techniques for stress management 
 - Use of alternate form of medication called biofeedback which has no side effects as compared to medicines for stress management  
 
 ## About the trials
+
 The trials are conducted to gather data for the study. Following is the basic information regarding the trials. People are requested to read, and in case of doubt -- contact the [researcher](https://kulbhushan-chand.github.io/about)  
 
 ### <i class="fas fa-question-circle"></i> How the trials takes place?
+
 After selecting and finalizing the participants the trials will began. Following is the overview of the schedule -
 - The participant will come for session to the venue as per his/her schedule
 - Research team will record the data of the participant 
 - After the completion of set number of sessions, the trials are over for the participant
 - We will analyse the data and share findings will the participant 
+
 During the trials we will record data from the participants during several sessions. The data may recorded will be -- *physiological parameters*, *questionnaire* and *interviews*.
 
 ### <i class="fas fa-fingerprint"></i> What physiological parameters will be recorded?
+
 The different physiological parameters like *Heart Rate*, *Breathing Rate*, *Skin Conductance* and *Skin Temperature* of the participants will be measured. 
 
 ### <i class="fas fa-stopwatch"></i> How parameters will be recorded?
+
 The process is very simple and quick. The parameters will be recorded from the following locations on the body --  
 - *Heart Rate* from the earlobe
 - *Breathing Rate* from the torso
 - *Skin conductance* from the finger tips
 - *Skin temperature* from the skin surface
+
 The following images are the near-approximation of the way we will record data.
 
 {% include gallery id="gallery1" layout="half" caption="Data acquisition sample images. From top-left-clockwise -- heart rate, breathing rate, skin conductance, skin temperature -- measurement." %}
 
 ### <i class="fas fa-question-circle"></i> What is a session?
+
 A session is the interaction period of the single participant with the research team. In a session, we will record the data from a single participant only. Only participant and research team will be present during the session. 
 
 ### <i class="fas fa-clock"></i> What are the timings of a session?
+
 The participants may choose the time as per their wish. We try to resolve the conflicts so that the study and other activities of the participant will not affected. A single session is of minimum 30 mins.
 
 ### <i class="fas fa-calendar-alt"></i> How long the trials takes place?
@@ -112,15 +118,18 @@ The participants may choose the time as per their wish. We try to resolve the co
 - The total time of the trials may span at least 2 months
 
 ### <i class="fas fa-map-marker-alt"></i> Where the trials takes place?
+
 *Digital Signal Processing Lab*  
 *Department of Electronics and Communication Engineering*  
 *Dr B R Ambedkar National Institute of Technology Jalandhar*  
 *India*
 
 ### <i class="fas fa-exclamation-triangle"></i> Are there any risks involved in the trials?
+
 There are no physical or mental risks involved with the trials. On the other hand, after the trials, a participant may feel better at handling stress in everyday situation.
 
 ## Benefits to the participants
+
 The participants can have the opportunity to be a part of the research study. Some of the benefits are -
 - Learning how to reduce stress and achieve mental relaxation
 - Learning the data acquisition process in the biomedical research
@@ -128,8 +137,16 @@ The participants can have the opportunity to be a part of the research study. So
 - The participants can adopt the outcomes of the study in their daily lives to have less stress and healthy living. 
 
 ## Will my personal details be shared?
+
 Absolutely not. The private information of the participant in records and data will be treated as confidential information and will not be made public anywhere. The access to records/data will be limited to research team only.
 
 ## Guidelines followed
+
 - The ethical clearance form is submitted for approval to the Ethical Clearance Committee of NIT Jalandhar. 
 - The ethical guidelines followed in the study are in accordance with the [*ICMR Ethical Guidelines 2017*](https://icmr.nic.in/guidelines).
+
+## Footnotes
+
+[^1]: Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate.
+
+*[ICMR]: Indian Council of Medical Research
