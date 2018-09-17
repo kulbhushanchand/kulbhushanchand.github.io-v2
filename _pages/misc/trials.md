@@ -1,6 +1,11 @@
 ---
 title: <i class="fas fa-info-circle"></i> Participant's information page
-excerpt: "For biofeedback trials"
+excerpt: "This page is for information to participants taking part in the biofeedback trials.
+<br>
+<br>
+<br>
+<br>
+<br>"
 author_profile: false
 layout: single
 comments: true
@@ -28,11 +33,11 @@ gallery1:
     alt: "Skin temperature acquisition from the skin surface"
     title: "Skin temperature acquisition from the skin surface"  
 header:
-  overlay_image: # /assets/images/pages/main/projects-header.jpg
-  overlay_color: "#333"
+  overlay_image: /assets/images/pages/misc/biofeedback-trials.jpeg
+  overlay_filter: rgba(34, 34, 34, 0.6)
 ---
 
-This page is for information to participants taking part in the biofeedback[^1] trials.   
+Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate. 
 The motive of this page to make people aware of the general aspects of our study and about trials in which they are going to take part.  
 
 ## <i class="fas fa-user-circle"></i> Resource Persons
@@ -42,15 +47,14 @@ These trials are part of ongoing PhD work of -
 ![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/Kulbhushan_Chand.jpg){: .align-right}{:height="136px" width="115px"}
 [**Kulbhushan Chand**](/about)  
 *PhD Research Scholar*  
-.  
-.  
+<br>  
+<br> 
 
----
 ![Prof. Arun Khosla]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/Arun_Khosla.jpg){: .align-right}{:height="136px" width="115px"}
 [**Prof. Arun Khosla**](http://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38)  
 *Research Guide*  
-.  
-.  
+<br>
+<br>
 
 ---
 [**Emerging Technologies Lab**](http://www.nitj.ac.in/ece/)  
@@ -146,7 +150,5 @@ Absolutely not. The private information of the participant in records and data w
 - The ethical guidelines followed in the study are in accordance with the [*ICMR Ethical Guidelines 2017*](https://icmr.nic.in/guidelines).
 
 ## Footnotes
-
-[^1]: Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate.
 
 *[ICMR]: Indian Council of Medical Research
