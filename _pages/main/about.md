@@ -5,6 +5,7 @@ excerpt: "**tl;dr** -- *autodidact, introvert, curious, researcher, open source 
 last_modified_at: 2018-09-05T12:08:06-04:00
 toc: # true
 classes: wide
+author_profile: true
 header:
   overlay_color: "#333"
 gallery1:

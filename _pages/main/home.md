@@ -20,7 +20,7 @@ feature_row:
   - image_path: https://placehold.it/600x350.jpeg
     alt: "blog"
     title: "Blog"
-    excerpt: "In case you ~~are a spy~~ **came with a purpose** or landed on this website ~~mistakenly~~ **out of curiosity**, I recommend reading the only available article in my blog..."
+    excerpt: "In case you ~~are a spy~~ **came with a purpose** or landed on this website ~~mistakenly~~ **out of curiosity**, I recommend reading the articles in my blog..."
     url: "/blog/"
     btn_class: "btn--success btn--x-large"
     btn_label: "Blog"

@@ -1,6 +1,5 @@
 ---
 title: <i class="fab fa-readme"></i> The insufferable environment at hostel
-comments: true
 toc: true
 toc_sticky: true
 toc_label: #"Unique Title"
@@ -8,7 +7,6 @@ toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 tags:
   - arduino
   - project
-author_profile: #false
 last_modified_at: 2018-09-05T20:11:06+05:30
 header:
   teaser: assets/images/posts/articles/hostel.jpg
