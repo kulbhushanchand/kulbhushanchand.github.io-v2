@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/pages/main/home.jpg
+  overlay_image: /assets/images/pages/main/home-header.jpg
   overlay_filter: rgba(34, 34, 34, 0.6)
 title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
 excerpt: 'Welcome to my personal website...
