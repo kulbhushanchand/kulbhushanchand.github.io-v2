@@ -12,36 +12,45 @@ header:
 gallery1:
   - url:  https://in.mathworks.com/products/matlab.html
     image_path: /assets/images/pages/main/matlab-logo-small.png
-    alt: "MATLAB"
-    title: "Heart rate acquisition from earlobe"  
+    alt: "matlab-logo-small"
+    title: "MATLAB"  
   - url:  https://github.com/
     image_path: /assets/images/pages/main/github-logo-small.png
-    alt: "GitHub"
-    title: "Breathing Rate acquisition from the torso"  
+    alt: "github-logo-small"
+    title: "GitHub"  
   - url:  https://unity3d.com/
     image_path: /assets/images/pages/main/unity-logo-small.png
-    alt: "unity"
-    title: "Skin conductance acquisition from the finger tips"  
-  - url:  https://www.arduino.cc/
-    image_path: /assets/images/pages/main/arduino-logo-small.png
-    alt: "arduino"
-    title: "Skin temperature acquisition from the skin surface"  
+    alt: "unity-logo-small"
+    title: "Unity"
   - url:  https://code.visualstudio.com/
     image_path: /assets/images/pages/main/vscode-logo-small.png
-    alt: "vscode"
-    title: "Skin temperature acquisition from the skin surface"
+    alt: "vscode-logo-small"
+    title: "VSCode"  
+  - url:  https://jekyllrb.com/
+    image_path: /assets/images/pages/main/jekyll-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "Jekyll"   
+  - url:  https://www.arduino.cc/
+    image_path: /assets/images/pages/main/arduino-logo-small.png
+    alt: "arduino-logo-small"
+    title: "Arduino"
+  - url:  https://zenodo.org/
+    image_path: /assets/images/pages/main/zenodo-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "Zenodo" 
+  - url:  https://osf.io/
+    image_path: /assets/images/pages/main/osf-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "OSF"       
   - url:  https://www.gitkraken.com/
     image_path: /assets/images/pages/main/gitkraken-logo-small.png
-    alt: "GitKraken"
-    title: "Skin temperature acquisition from the skin surface"
-  - url:  https://www.mendeley.com/
-    image_path: /assets/images/pages/main/mendeley-logo-small.png
-    alt: "Mendeley"
-    title: "Skin temperature acquisition from the skin surface"
-  - url:  https://www.mendeley.com/
-    image_path: /assets/images/pages/main/jekyll-logo-small.png
-    alt: "Jekyll"
-    title: "Skin temperature acquisition from the skin surface"
+    alt: "gitkraken-logo-small"
+    title: "GitKraken"
+  - url:  http://www.algodoo.com/
+    image_path: /assets/images/pages/main/algodoo-logo-small.png
+    alt: "algodoo-logo-small"
+    title: "Algodoo"  
+ 
 ---
 
 **_Hmm..._**  
@@ -82,13 +91,13 @@ Some of the projects I have worked on or currently working. Some of the projects
 ## <i class="fas fa-wrench"></i> Tools and Technologies that I use
 Most of the tools and technologies I use are Open Source and/or free. Here are some I use most of the times.   
 
-{% include gallery id="gallery1" layout="fourth" caption="Tools and technologies I use" %}
+
+{% include gallery id="gallery1" layout="fifth" caption="Tools and technologies I use" %}
 
 
 
 
 
-<!--
 [MATLAB](https://in.mathworks.com/products/matlab.html){: .btn .btn--primary}
 &nbsp;
 [Arduino](https://www.arduino.cc/){: .btn .btn--success}
@@ -102,46 +111,4 @@ Most of the tools and technologies I use are Open Source and/or free. Here are s
 [GitKraken](https://www.gitkraken.com/){: .btn .btn--warning}
 &nbsp;
 [Fritzing](http://fritzing.org/home/){: .btn .btn--primary}
-
-
-
-
--->   
-
-
-
-<!--
-[![matlab logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/matlab_logo.png "MATLAB"){: .align-left}{:height="25%" width="25%"}](https://in.mathworks.com/products/matlab.html)
-
-[![arduino logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/arduino_logo.png "Arduino"){: .align-left}{:height="15%" width="15%"}](https://www.arduino.cc/)
-
-[![unity logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/unity_logo.png "Unity"){: .align-left}{:height="25%" width="25%"}](https://unity3d.com/)
-
-[![github logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/github_logo.png "GitHub"){: .align-left}{:height="20%" width="20%"}](https://github.com/)
-
-<br>
-<br>
-<br>
-
-[![vscode logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/vscode_logo.png "VSCode"){: .align-left}{:height="25%" width="25%"}](https://code.visualstudio.com/)
-
-[![gitkraken logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/gitkraken_logo.png "GitKraken"){: .align-left}{:height="15%" width="15%"}](https://www.gitkraken.com/)
-
-[![fritzing logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/fritzing_logo.png "Fritzing"){: .align-left}{:height="10%" width="10%"}](http://fritzing.org/home/)
-
-[![jekyll logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/jekyll_logo.png "Jekyll"){: .align-left}{:height="30%" width="30%"}](https://jekyllrb.com/)
-
-<br>
-<br>
-<br>
-<br>
-
-[![algodoo logo]({{ site.url }}{{ site.baseurl }}/assets/images/pages/main/algodoo_logo.png "Algodoo"){: .align-left}{:height="20%" width="20%"}](http://www.algodoo.com/)
-
-<br>
-<br>
-<br>
--->
-
-
 
