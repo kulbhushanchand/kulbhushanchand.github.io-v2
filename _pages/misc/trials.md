@@ -44,13 +44,13 @@ The motive of this page to make people aware of the general aspects of our study
 
 These trials are part of ongoing PhD work of -
 
-![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/Kulbhushan_Chand.jpg){: .align-right}{:height="136px" width="115px"}
+![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/kulbhushan-chand.jpg){: .align-right}{:height="136px" width="115px"}
 [**Kulbhushan Chand**](/about)  
 *PhD Research Scholar*  
 <br>  
 <br> 
 
-![Prof. Arun Khosla]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/Arun_Khosla.jpg){: .align-right}{:height="136px" width="115px"}
+![Prof. Arun Khosla]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/arun-khosla.jpg){: .align-right}{:height="136px" width="115px"}
 [**Prof. Arun Khosla**](http://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38)  
 *Research Guide*  
 <br>
