@@ -8,54 +8,72 @@ classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/pages/main/about-me.jpg
-  overlay_filter: rgba(34, 34, 34, 0.6)
-gallery1:
+  overlay_filter: rgba(0, 0, 0, 0.5)
+gallery-development:
   - url:  https://in.mathworks.com/products/matlab.html
     image_path: /assets/images/pages/main/matlab-logo-small.png
     alt: "matlab-logo-small"
-    title: "MATLAB"  
-  - url:  https://github.com/
-    image_path: /assets/images/pages/main/github-logo-small.png
-    alt: "github-logo-small"
-    title: "GitHub"  
-  - url:  https://unity3d.com/
-    image_path: /assets/images/pages/main/unity-logo-small.png
-    alt: "unity-logo-small"
-    title: "Unity"
-  - url:  https://code.visualstudio.com/
-    image_path: /assets/images/pages/main/vscode-logo-small.png
-    alt: "vscode-logo-small"
-    title: "VSCode"  
-  - url:  https://jekyllrb.com/
-    image_path: /assets/images/pages/main/jekyll-logo-small.png
-    alt: "jekyll-logo-small"
-    title: "Jekyll"   
+    title: "MATLAB"
+
   - url:  https://www.arduino.cc/
     image_path: /assets/images/pages/main/arduino-logo-small.png
     alt: "arduino-logo-small"
     title: "Arduino"
-  - url:  https://zenodo.org/
-    image_path: /assets/images/pages/main/zenodo-logo-small.png
-    alt: "zenodo-logo-small"
-    title: "Zenodo" 
-  - url:  https://osf.io/
-    image_path: /assets/images/pages/main/osf-logo-small.png
-    alt: "zenodo-logo-small"
-    title: "OSF"       
-  - url:  https://www.gitkraken.com/
-    image_path: /assets/images/pages/main/gitkraken-logo-small.png
-    alt: "gitkraken-logo-small"
-    title: "GitKraken"
+
+  - url:  https://unity3d.com/
+    image_path: /assets/images/pages/main/unity-logo-small.png
+    alt: "unity-logo-small"
+    title: "Unity" 
+
   - url:  http://www.algodoo.com/
     image_path: /assets/images/pages/main/algodoo-logo-small.png
     alt: "algodoo-logo-small"
     title: "Algodoo"  
+
+  - url:  https://code.visualstudio.com/
+    image_path: /assets/images/pages/main/vscode-logo-small.png
+    alt: "vscode-logo-small"
+    title: "VSCode"
+
+  - url:  https://www.gitkraken.com/
+    image_path: /assets/images/pages/main/gitkraken-logo-small.png
+    alt: "gitkraken-logo-small"
+    title: "GitKraken"
+
+  - url:  https://github.com/
+    image_path: /assets/images/pages/main/github-logo-small.png
+    alt: "github-logo-small"
+    title: "GitHub"  
  
+  - url:  https://zenodo.org/
+    image_path: /assets/images/pages/main/zenodo-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "Zenodo" 
+
+  - url:  https://osf.io/
+    image_path: /assets/images/pages/main/osf-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "OSF"   
+
+  - url:  https://jekyllrb.com/
+    image_path: /assets/images/pages/main/jekyll-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "Jekyll"   
+
+  - url:  https://www.microsoft.com/net/download/dotnet-framework-runtime
+    image_path: /assets/images/pages/main/ms-dotnet-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "MS .NET"  
+
+  - url:  https://www.mendeley.com/
+    image_path: /assets/images/pages/main/mendeley-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "Mendeley" 
 ---
 
 **_Hmm..._**  
   
-If **carefully provoked**, I can talk on any topic for any length, be it the `time jitter control in data acquisition devices` or the `journey of Po in becoming Kung-Fu panda`.  
+If **correctly provoked**, I can talk on any topic for any length, be it the `time jitter control in data acquisition devices` or the `journey of Po in becoming Kung-Fu panda`.  
  
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
 
@@ -92,23 +110,8 @@ Some of the projects I have worked on or currently working. Some of the projects
 Most of the tools and technologies I use are Open Source and/or free. Here are some I use most of the times.   
 
 
-{% include gallery id="gallery1" layout="fifth" caption="Tools and technologies I use" %}
+{% include gallery id="gallery-development" layout="fifth" caption="Tools and technologies I use" %}
 
 
 
-
-
-[MATLAB](https://in.mathworks.com/products/matlab.html){: .btn .btn--primary}
-&nbsp;
-[Arduino](https://www.arduino.cc/){: .btn .btn--success}
-&nbsp;
-[Unity](https://unity3d.com/){: .btn .btn--warning}
-&nbsp;
-[GitHub](https://github.com/){: .btn .btn--danger}
-&nbsp;
-[VSCode](https://code.visualstudio.com/){: .btn .btn--info}
-&nbsp;
-[GitKraken](https://www.gitkraken.com/){: .btn .btn--warning}
-&nbsp;
-[Fritzing](http://fritzing.org/home/){: .btn .btn--primary}
 

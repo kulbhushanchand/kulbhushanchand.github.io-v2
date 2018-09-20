@@ -15,7 +15,7 @@ last_modified_at: 2018-09-17T10:00:04+05:30  #datetime in ISO8601 format
 header:
   teaser: /assets/images/posts/articles/shree_ram_and_sita.jpg
   overlay_image: /assets/images/posts/articles/shree_ram_and_sita.jpg
-  overlay_filter: rgba(0, 50, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.5)
   caption: "Shree Ram and Sita"
   actions:
     - label: "Shree Ramchritmanas"

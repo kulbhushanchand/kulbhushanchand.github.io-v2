@@ -1,11 +1,10 @@
 ---
-title: <i class="fas fa-info-circle"></i> Participant's information page
-excerpt: "This page is for information to participants taking part in the biofeedback trials.
+permalink: /pages/trials/
+title: <i class="fas fa-info-circle"></i> Participant information page
+excerpt: "What, why, where and other doubts... then this page is for you
 <br>
 <br>
-<br>
-<br>
-<br>"
+**tl;dr** -- We will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you"
 author_profile: false
 layout: single
 comments: true
@@ -34,7 +33,7 @@ gallery1:
     title: "Skin temperature acquisition from the skin surface"  
 header:
   overlay_image: /assets/images/pages/misc/biofeedback-trials.jpeg
-  overlay_filter: rgba(34, 34, 34, 0.6)
+  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
 Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate. 
@@ -152,3 +151,4 @@ Absolutely not. The private information of the participant in records and data w
 ## Footnotes
 
 *[ICMR]: Indian Council of Medical Research
+

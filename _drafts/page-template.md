@@ -4,7 +4,7 @@ title: Teaching
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 comments: true
 published: true
-last_modified_at: 2018-09-06T10:00:04+05:30
+last_modified_at: 2018-09-01T10:00:04+05:30
 toc: true
 header:
   overlay_image: /assets/images/pages/main/unsplash-image-1.jpg

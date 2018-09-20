@@ -1,4 +1,5 @@
 ---
+permalink: 
 title: Teaching
 subtitle: Teaching is my passion...
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."

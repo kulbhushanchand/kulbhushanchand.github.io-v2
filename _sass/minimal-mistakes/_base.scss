@@ -284,6 +284,50 @@ figure {
     width: 100%;
   }
 }
+
+&.half-preserve {
+  > a,
+  > img {
+    width: calc(50% - 0.5em);
+  }
+  
+  figcaption {
+    width: 100%;
+  }
+}
+
+&.third-preserve {
+  > a,
+  > img {
+    width: calc(33.3333% - 0.5em);
+  }
+  
+  figcaption {
+    width: 100%;
+  }
+}
+
+&.fourth-preserve {
+  > a,
+  > img {
+    width: calc(25% - 0.5em);
+  }
+  
+  figcaption {
+    width: 100%;
+  }
+}
+
+&.fifth-preserve {
+  > a,
+  > img {
+    width: calc(20% - 0.5em);
+  }
+  
+  figcaption {
+    width: 100%;
+  }
+}
 }
 
 

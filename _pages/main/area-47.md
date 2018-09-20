@@ -1,10 +1,20 @@
 ---
-permalink: /testing-area/
-title: Testing area
-subtitle: Nothing meaningful here
+permalink: /area-47/
+title: Area-47
+excerpt: "Nothing to worry about. I am not a conspiracy theorist..
+<br>
+<br>
+I am a beginner in web programming and need a safe place to test the code. 
+<br>
+This page thus safely contain any ~~hazardous code~~ silly code, ~~radiation spills~~ content misalignments and who knows what ... "
 author_profile: false
+last_modified_at: 2018-09-20T04:15:00+05:30
+classes: wide
+header:
+  overlay_image: /assets/images/pages/misc/biofeedback-trials.jpeg
+  overlay_filter: rgba(0, 0, 0, 0.5)
 tags:
-  - testing
+  - testing area
 #published: true
 #ext-lib:
 #  - academicon
@@ -15,6 +25,20 @@ tags:
 #  - mermaid
 #  - chartjs
 ---
+
+
+<h2>
+
+```diff
+- red
++ green
+! orange
+# gray
+```
+
+</h2>
+
+
 
 
 

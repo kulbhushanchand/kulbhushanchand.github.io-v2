@@ -3,18 +3,19 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/pages/main/home-header.jpg
-  overlay_filter: rgba(34, 34, 34, 0.8)
+  overlay_filter: rgba(0, 0, 0, 0.5)
 title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
 excerpt: 'I am a PhD scholar @NIT Jalandhar, India. My research area is **biofeedback**.
 <br>'
-feature_row:
+feature_row1:
   - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpeg
     alt: "biofeedback trials"
     title: "Biofeedback Trials"
-    excerpt: "We are conducting **biofeedback trials** as a part of my PhD research. In case you are the **participant** or want to know about the trials, click below to know more..."
+    excerpt: "We are conducting **biofeedback trials** as a part of my PhD research. For this we require your participation and welcome anyone one from NIT Jalandhar to be a part of the research. We assure that it will be an **awesome learning experience** for you too. In case you want to be the participant or want to know about the trials, ***click below to know more...***"
     url: "/pages/trials/"
     btn_class: "btn--primary btn--x-large"
     btn_label: "Trials"
+feature_row2:
   - image_path: /assets/images/pages/main/blog-small.jpeg
     alt: "blog"
     title: "Blog"
@@ -22,6 +23,7 @@ feature_row:
     url: "/blog/"
     btn_class: "btn--success btn--x-large"
     btn_label: "Blog"
+feature_row3:
   - image_path: /assets/images/pages/main/about-me-small.jpg
     alt: "about"
     title: "About me"
@@ -29,6 +31,11 @@ feature_row:
     url: "/about/"
     btn_class: "btn--warning btn--x-large"
     btn_label: "About me"
+
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
