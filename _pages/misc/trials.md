@@ -4,13 +4,14 @@ title: <i class="fas fa-info-circle"></i> Participant information page
 excerpt: "What, why, where and other doubts... then this page is for you
 <br>
 <br>
-**tl;dr** -- We will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you"
+In short, we will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you"
 author_profile: false
 layout: single
+classes: wide
 comments: true
 published: true
 last_modified_at: 2018-09-07T04:15:00+05:30
-toc: true
+toc: # true
 toc_label: #"Table of Contents"
 toc_icon: #"hand-paper" #font awesome icon name
 toc_sticky: true
@@ -33,8 +34,15 @@ gallery1:
     title: "Skin temperature acquisition from the skin surface"  
 header:
   overlay_image: /assets/images/pages/misc/biofeedback-trials.jpeg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.6)
+  actions:
+    - label: "Fill form"
+      url: "/pages/trials/"
 ---
+
+**If you are interested, kindly fill the google form -**
+[Link to Form]({{ "/pages/trials/" | relative_url }}){: .btn .btn--primary .btn--large}
+
 
 Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate. 
 The motive of this page to make people aware of the general aspects of our study and about trials in which they are going to take part.  

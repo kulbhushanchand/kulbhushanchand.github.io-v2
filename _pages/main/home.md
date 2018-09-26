@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/pages/main/home-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.7)
 title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
-excerpt: 'I am a PhD scholar @NIT Jalandhar, India. My research area is **biofeedback**.
+excerpt: 'This is my personal website and blog. You can find articles, tutorials and brief excerpts (deltaX) pertaining to different topics like electronics, arduino, mythology, physics, humour, personal experience etc.. I hope you enjoy reading them. 
 <br>'
 feature_row1:
   - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpeg
