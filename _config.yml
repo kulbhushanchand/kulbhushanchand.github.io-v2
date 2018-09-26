@@ -264,7 +264,7 @@ collections:
 
   pages:
     output: true
-#    permalink: /:collection/:title/
+    permalink: /:collection/:title/
 
 #  posts:
 #    output: true
@@ -332,13 +332,13 @@ defaults:
   
   # _pages
   - scope:
-      path: "_pages/misc"
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: false
       comments: true
-      permalink: /pages/:title/
+      permalink: /:collection/:title/
 
 
 
