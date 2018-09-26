@@ -206,7 +206,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+#  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -264,7 +264,7 @@ collections:
 
   pages:
     output: true
-    permalink: /:collection/:title/
+#    permalink: /:collection/:title/
 
 #  posts:
 #    output: true
@@ -332,13 +332,15 @@ defaults:
   
   # _pages
   - scope:
-      path: "_pages"
+      path: "_pages/misc"
       type: pages
     values:
       layout: single
       author_profile: false
       comments: true
-      permalink: 
+      permalink: /pages/:title/
+
+
 
 
 # Sass/SCSS

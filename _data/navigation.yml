@@ -8,8 +8,8 @@ main:
 #    url: /projects/
   - title: "About"
     url: /about/
-  - title: "Area-47"
-    url: /area-47/
+  - title: "Area-51"
+    url: /area-51/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "Sitemap"
