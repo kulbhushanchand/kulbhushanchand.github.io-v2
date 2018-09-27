@@ -33,7 +33,7 @@ gallery1:
     alt: "Skin temperature acquisition from the skin surface"
     title: "Skin temperature acquisition from the skin surface"  
 header:
-  overlay_image: /assets/images/pages/misc/biofeedback-trials.jpeg
+  overlay_image: /assets/images/pages/misc/biofeedback-trials1.jpg
   overlay_filter: rgba(0, 0, 0, 0.6)
 #  actions:
 #    - label: "Fill form"
