@@ -41,7 +41,7 @@ header:
 ---
 
 **If you are interested, kindly fill the google form -**
-[Link to Form]({{ "https://goo.gl/forms/SOhGwDjTOAPeLWEb2" | relative_url }}){: .btn .btn--primary .btn--large}
+[<i class="fas fa-link"></i> Link to Form]({{ "https://goo.gl/forms/SOhGwDjTOAPeLWEb2" | relative_url }}){: .btn .btn--primary .btn--large}
 
 Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate. 
 The motive of this page to make people aware of the general aspects of our study and about trials in which they are going to take part.  

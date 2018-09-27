@@ -27,6 +27,66 @@ feature_row:
     btn_label: "Learn More"
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/KulbhushanChand){: .btn .btn--primary}'
+gallery-development:
+  - url:  https://in.mathworks.com/products/matlab.html
+    image_path: /assets/images/pages/main/matlab-logo-small.png
+    alt: "matlab-logo-small"
+    title: "MATLAB"
+
+  - url:  https://www.arduino.cc/
+    image_path: /assets/images/pages/main/arduino-logo-small.png
+    alt: "arduino-logo-small"
+    title: "Arduino"
+
+  - url:  https://unity3d.com/
+    image_path: /assets/images/pages/main/unity-logo-small.png
+    alt: "unity-logo-small"
+    title: "Unity" 
+
+  - url:  http://www.algodoo.com/
+    image_path: /assets/images/pages/main/algodoo-logo-small.png
+    alt: "algodoo-logo-small"
+    title: "Algodoo"  
+
+  - url:  https://code.visualstudio.com/
+    image_path: /assets/images/pages/main/vscode-logo-small.png
+    alt: "vscode-logo-small"
+    title: "VSCode"
+
+  - url:  https://www.gitkraken.com/
+    image_path: /assets/images/pages/main/gitkraken-logo-small.png
+    alt: "gitkraken-logo-small"
+    title: "GitKraken"
+
+  - url:  https://github.com/
+    image_path: /assets/images/pages/main/github-logo-small.png
+    alt: "github-logo-small"
+    title: "GitHub"  
+ 
+  - url:  https://zenodo.org/
+    image_path: /assets/images/pages/main/zenodo-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "Zenodo" 
+
+  - url:  https://osf.io/
+    image_path: /assets/images/pages/main/osf-logo-small.png
+    alt: "zenodo-logo-small"
+    title: "OSF"   
+
+  - url:  https://jekyllrb.com/
+    image_path: /assets/images/pages/main/jekyll-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "Jekyll"   
+
+  - url:  https://www.microsoft.com/net/download/dotnet-framework-runtime
+    image_path: /assets/images/pages/main/ms-dotnet-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "MS .NET"  
+
+  - url:  https://www.mendeley.com/
+    image_path: /assets/images/pages/main/mendeley-logo-small.png
+    alt: "jekyll-logo-small"
+    title: "Mendeley" 
 ---
 
 [Trials]({{ "/pages/trials/" | relative_url }}){: .btn .btn--success .btn--large}
@@ -43,3 +103,26 @@ intro:
     url: "/blog/"
     btn_class: "btn--success btn--x-large"
     btn_label: "Support me"
+
+
+  
+
+
+## <i class="fas fa-cog"></i> Projects - Completed / In progress
+Some of the projects I have worked on or currently working. Some of the projects are part of my PhD research work which I may release after publication.  
+
+- Teaching assistant in Gamification course
+- Designed Gamification class leaderboard
+- Arduino workshop for kids
+- Multichannel arduino data acquisition
+- Arduino library for MCP4251 digital potentiometer
+- PID controller DAQ and visualizer 
+- Self stabilizing platform
+
+---
+## <i class="fas fa-wrench"></i> Tools and Technologies that I use
+Most of the tools and technologies I use are Open Source and/or free. Here are some I use most of the times.   
+
+
+
+{% include gallery id="gallery-development" layout="fifth" caption="Tools and technologies I use" %}
