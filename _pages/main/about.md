@@ -7,8 +7,8 @@ toc: # true
 classes: wide
 author_profile: true
 header:
-  overlay_image: /assets/images/pages/main/about-me.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+ overlay_image: /assets/images/pages/main/about-me.jpg
+ overlay_filter: rgba(0, 0, 0, 0.5)
 gallery-development:
   - url:  https://in.mathworks.com/products/matlab.html
     image_path: /assets/images/pages/main/matlab-logo-small.png

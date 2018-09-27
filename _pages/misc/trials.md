@@ -1,6 +1,6 @@
 ---
 permalink: /pages/trials/
-title: <i class="fas fa-info-circle"></i> Participant information page
+title: <i class="fas fa-info-circle"></i> Participant Information Page
 excerpt: "**What**, **Why**, **Where** and other doubts?... then this page is for you
 <br>
 <br>
@@ -16,20 +16,20 @@ toc_label: #"Table of Contents"
 toc_icon: #"hand-paper" #font awesome icon name
 toc_sticky: true
 gallery1:
-  - url:  http://placehold.it/600x300.jpeg
-    image_path: http://placehold.it/600x300.jpeg
+  - url:  /assets/images/pages/misc/ear-clip-heart-rate-sensor1.jpg
+    image_path: /assets/images/pages/misc/ear-clip-heart-rate-sensor1.jpg
     alt: "Heart rate acquisition from earlobe"
     title: "Heart rate acquisition from earlobe"  
-  - url:  http://placehold.it/600x300.jpeg
-    image_path: http://placehold.it/600x300.jpeg
+  - url:  /assets/images/pages/misc/chest-strap-breathing-rate-sensor1.jpg
+    image_path: /assets/images/pages/misc/chest-strap-breathing-rate-sensor1.jpg
     alt: "Breathing Rate acquisition from the torso"
     title: "Breathing Rate acquisition from the torso"  
-  - url:  http://placehold.it/600x300.jpeg
-    image_path: http://placehold.it/600x300.jpeg
+  - url:  /assets/images/pages/misc/finger-tips-gsr-sensor.jpg
+    image_path: /assets/images/pages/misc/finger-tips-gsr-sensor.jpg
     alt: "Skin conductance acquisition from the finger tips"
     title: "Skin conductance acquisition from the finger tips"  
-  - url:  http://placehold.it/600x300.jpeg
-    image_path: http://placehold.it/600x300.jpeg
+  - url:  /assets/images/pages/misc/hand-skin-temperature-sensor.jpg
+    image_path: /assets/images/pages/misc/hand-skin-temperature-sensor.jpg
     alt: "Skin temperature acquisition from the skin surface"
     title: "Skin temperature acquisition from the skin surface"  
 header:
