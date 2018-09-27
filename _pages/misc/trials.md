@@ -33,7 +33,7 @@ gallery1:
     alt: "Skin temperature acquisition from the skin surface"
     title: "Skin temperature acquisition from the skin surface"  
 header:
-  overlay_image: /assets/images/pages/misc/biofeedback-trials1.jpg
+  overlay_image: /assets/images/pages/misc/biofeedback-trials-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.6)
 #  actions:
 #    - label: "Fill form"
@@ -50,13 +50,13 @@ The motive of this page to make people aware of the general aspects of our study
 
 These trials are part of ongoing PhD work of -
 
-![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/kulbhushan-chand.jpg){: .align-right}{:height="136px" width="115px"}
+![Kulbhushan Chand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/kulbhushan-chand-small.jpg){: .align-right}
 [**Kulbhushan Chand**](/about)  
 *PhD Research Scholar*  
 <br>  
 <br> 
 
-![Prof. Arun Khosla]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/arun-khosla.jpg){: .align-right}{:height="136px" width="115px"}
+![Prof. Arun Khosla]({{ site.url }}{{ site.baseurl }}/assets/images/pages/misc/arun-khosla-small.jpg){: .align-right}
 [**Prof. Arun Khosla**](http://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38)  
 *Research Guide*  
 <br>

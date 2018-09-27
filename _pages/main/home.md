@@ -2,13 +2,13 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/pages/main/home-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.7)
+  overlay_image: /assets/images/pages/main/home-header.png
+  overlay_filter: rgba(0, 0, 0, 0.6)
 title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
 excerpt: 'This is my personal website and blog. You can find articles, tutorials and brief excerpts (deltaX) pertaining to different topics like electronics, arduino, mythology, physics, humour, personal experience etc.. I hope you enjoy reading them. 
 <br>'
 feature_row1:
-  - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpeg
+  - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpg
     alt: "biofeedback trials"
     title: "Biofeedback Trials"
     excerpt: "We are conducting **biofeedback trials** as a part of my PhD research. For this we require your participation and welcome anyone one from NIT Jalandhar to be a part of the research. We assure that it will be an **awesome learning experience** for you too. In case you want to be the participant or want to know about the trials, ***click below to know more...***"
@@ -16,7 +16,7 @@ feature_row1:
     btn_class: "btn--primary btn--x-large"
     btn_label: "Trials"
 feature_row2:
-  - image_path: /assets/images/pages/main/blog-small.jpeg
+  - image_path: /assets/images/pages/main/blog-small.jpg
     alt: "blog"
     title: "Blog"
     excerpt: "In case you ~~are a spy~~ **came with a purpose** or landed on this website ~~mistakenly~~ **out of curiosity**, I recommend reading the articles in my blog..."

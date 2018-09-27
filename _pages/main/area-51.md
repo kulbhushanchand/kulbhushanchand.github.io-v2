@@ -9,7 +9,7 @@ author_profile: false
 last_modified_at: 2018-09-20T04:15:00+05:30
 classes: wide
 header:
-  overlay_image: /assets/images/pages/main/area-51.jpg
+  overlay_image: /assets/images/pages/main/area-51-header.jpg
   overlay_filter: rgba(0, 37, 0, 0.7)
   actions:
     - label: "Download"
