@@ -63,7 +63,7 @@ search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : NLCZAU4SPV # YOUR_APPLICATION_ID
-  index_name             : personal_website # YOUR_INDEX_NAME
+  index_name             : personal-website # YOUR_INDEX_NAME
   search_only_api_key    : 2afb110c516262e32cab2c2abe3802c8 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
 google:
