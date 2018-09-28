@@ -28,7 +28,7 @@ tags:
 #  - mermaid
 #  - chartjs
 ---
-test latest
+test ALGOLIA
 
 <h2>
 
