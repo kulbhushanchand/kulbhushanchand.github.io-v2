@@ -28,7 +28,7 @@ feature_row3:
     alt: "about"
     title: <i class="fas fa-user-circle"></i> About me
     excerpt: "To know more about me, keep going... There are a lot of topics from different fields, we can discuss about or collaborate on projects." 
-    url: "/about/"
+    url: "/about-me/"
     btn_class: "btn--warning btn--x-large"
     btn_label: <i class="fas fa-link"></i>
 

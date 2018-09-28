@@ -280,14 +280,14 @@ collections:
 
 #  posts:
 #    output: true
-#    permalink: /blog/:categories/:year/:month/:day/:title/
+#    permalink: /blog/:categories/:title/
 
 
 # Front Matter Defaults
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -300,58 +300,36 @@ defaults:
 # articles
   - scope:
       path: "_posts/articles"
-      type: posts
     values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      permalink: /blog/articles/:title/
+      permalink: # /blog/articles/:title/
       categories:
         - articles
   
     # deltaX
   - scope:
       path: "_posts/deltaX"
-      type: posts
     values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      permalink: /blog/deltaX/:title/
+      permalink: # /blog/deltaX/:title/
       categories:
         - deltaX
 
     # tutorials
   - scope:
       path: "_posts/tutorials"
-      type: posts
     values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      permalink: /blog/tutorials/:title/
+      permalink: # /blog/tutorials/:title/
       categories:
         - tutorials
   
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: false
       comments: true
-      permalink: /:collection/:title/
-
+ 
 
 
 
@@ -362,7 +340,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num
 timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
