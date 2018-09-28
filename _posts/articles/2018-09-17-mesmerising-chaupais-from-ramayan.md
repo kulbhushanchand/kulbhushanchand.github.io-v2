@@ -1,6 +1,7 @@
 ---
 title: <i class="fab fa-readme"></i> Mesmerising chaupais from Ramayan
 excerpt: 'These are some of the chaupais (quatrain) played in serial -- Sampoorna Ramayan'
+classes: # wide
 toc: false
 toc_sticky: # true
 toc_label: #"Unique Title"
@@ -14,9 +15,9 @@ author_profile: # true
 last_modified_at: 2018-09-17T10:00:04+05:30  #datetime in ISO8601 format
 header:
   teaser: /assets/images/posts/articles/shree-ram-and-sita-teaser.jpg
-  overlay_image: /assets/images/posts/articles/shree-ram-and-sita-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
-  caption: "Shree Ram and Sita"
+  overlay_image: #/assets/images/posts/articles/shree-ram-and-sita-header.jpg
+  overlay_filter: # rgba(0, 0, 0, 0.5)
+  caption: # "Shree Ram and Sita"
   actions:
     - label: "Shree Ramchritmanas"
       url: "http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/"

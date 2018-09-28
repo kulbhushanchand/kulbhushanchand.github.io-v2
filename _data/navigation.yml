@@ -6,8 +6,8 @@ main:
     url: /blog/
 #  - title: "Projects"
 #    url: /projects/
-  - title: "About"
-    url: /about/
+  - title: "About Me"
+    url: /about-me/
   - title: "Area-51"
     url: /area-51/
   - title: "Quick-Start Guide"
