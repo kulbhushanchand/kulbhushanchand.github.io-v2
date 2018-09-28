@@ -29,6 +29,7 @@ tags:
 #  - chartjs
 ---
 test ALGOLIA
+test ALGOLIA 2
 
 <h2>
 
