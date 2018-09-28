@@ -1,22 +1,13 @@
 ---
 permalink: /area-51/
-title: Area-51
-excerpt: "Nothing to worry about. I am not a conspiracy theorist...
-<br>
-<br>
-I am a beginner in web programming and need a safe place for practice and to safely contain any ~~hazardous code~~ silly code"
+title: <i class="fas fa-user-secret"></i> Area-51
+excerpt: "I am not a conspiracy theorist, just a beginner in web programming and need a safe place to test the code"
 author_profile: false
 last_modified_at: 2018-09-20T04:15:00+05:30
 classes: wide
 header:
   overlay_image: /assets/images/pages/main/area-51-header.jpg
   overlay_filter: rgba(0, 37, 0, 0.7)
-  actions:
-    - label: "Download"
-      url: "/area-51/"
-tags:
-  - testing area
-
 
 #published: true
 #ext-lib:
@@ -28,8 +19,12 @@ tags:
 #  - mermaid
 #  - chartjs
 ---
-test ALGOLIA
-test ALGOLIA 2
+**Algolia Build Status - Travis CI** -- [![Build Status](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?branch=master)](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
+
+
+---
+
+[Project page under development](/projects/)
 
 > “Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.”
 >> Ira Glass
