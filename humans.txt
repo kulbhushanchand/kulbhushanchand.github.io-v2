@@ -1,0 +1,20 @@
+---
+---
+_  _ _  _ _    ___  _  _ _  _ ____ _  _ ____ _  _    ____ _  _ ____ _  _ ___  
+|_/  |  | |    |__] |__| |  | [__  |__| |__| |\ | __ |    |__| |__| |\ | |  \ 
+| \_ |__| |___ |__] |  | |__| ___] |  | |  | | \|    |___ |  | |  | | \| |__/ 
+
+
+/* KULBHUSHAN-CHAND.GITHUB.IO */
+
+
+  Designer:     Kulbhushan Chand
+  Twitter:      @ChandKulbhushan
+  Location:     India
+
+  Last updated: {{ site.time }}
+  Language:     English
+  Built with:   Jekyll {{ jekyll.version }} <https://jekyllrb.com>
+                Visual Studio Code <https://code.visualstudio.com>
+                Travis CI <https://travis-ci.org>
+                Algolia <https://www.algolia.com>

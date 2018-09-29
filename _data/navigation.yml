@@ -2,6 +2,8 @@
 main:
 #  - title: "delta X"
 #    url: /deltaX/
+  - title: "t-log"
+    url: /log/
   - title: "Blog"
     url: /blog/
 #  - title: "Projects"

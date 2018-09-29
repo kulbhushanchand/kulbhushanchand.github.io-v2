@@ -155,7 +155,6 @@ Absolutely not. The private information of the participant in records and data w
 - The ethical clearance form is submitted for approval to the Ethical Clearance Committee of NIT Jalandhar. 
 - The ethical guidelines followed in the study are in accordance with the [*ICMR Ethical Guidelines 2017*](https://icmr.nic.in/guidelines).
 
-## Footnotes
 
 *[ICMR]: Indian Council of Medical Research
 
