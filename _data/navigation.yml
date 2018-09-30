@@ -2,8 +2,8 @@
 main:
 #  - title: "delta X"
 #    url: /deltaX/
-  - title: "t-log"
-    url: /log/
+#  - title: "t-log"
+#    url: /log/
   - title: "Blog"
     url: /blog/
 #  - title: "Projects"
@@ -12,8 +12,7 @@ main:
     url: /about-me/
   - title: "Area-51"
     url: /area-51/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
   #- title: "Sitemap"
   #  url: /sitemap/
 

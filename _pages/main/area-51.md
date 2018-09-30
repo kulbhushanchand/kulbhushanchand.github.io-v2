@@ -19,12 +19,18 @@ header:
 #  - mermaid
 #  - chartjs
 ---
+
+[Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+
 **Algolia Build Status - Travis CI** -- [![Build Status](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?branch=master)](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
 
 ---
 
 <!--
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-number.min.css">
+-->
+<!--
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
 <script type="text/javascript">

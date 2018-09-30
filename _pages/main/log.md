@@ -1,6 +1,6 @@
 ---
 permalink: /log/
-title: <i class="fas fa-book"></i> Daily Log 
+title: <i class="fas fa-book"></i> ghost page - daily log
 excerpt: 'baby steps towards being myself... 
 <i class="fas fa-shoe-prints fa-xs"></i>
 <i class="fas fa-shoe-prints fa-sm"></i>
@@ -21,7 +21,14 @@ header:
 
 
 
+## {{ "2018-09-30" | date: dateFormat }}
+
+
 ## {{ "2018-09-29" | date: dateFormat }}
 - Discussion with expert regarding biofeedback trials
 - Got bigfoot.js footer working on personal website
 - started daily log entries on personal website
+
+## {{ "2018-09-28" | date: dateFormat }}
+- Learned using Travis-CI for automating search index building in algolia
+
