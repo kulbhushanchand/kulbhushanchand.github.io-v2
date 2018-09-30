@@ -22,13 +22,15 @@ header:
 
 
 ## {{ "2018-09-30" | date: dateFormat }}
+- Learned using npm[^n1] -- for uglifying javascript files on personal website
 
+[^n1]: node package manager
 
 ## {{ "2018-09-29" | date: dateFormat }}
 - Discussion with expert regarding biofeedback trials
 - Got bigfoot.js footer working on personal website
-- started daily log entries on personal website
+- Started daily log entries on personal website
 
 ## {{ "2018-09-28" | date: dateFormat }}
-- Learned using Travis-CI for automating search index building in algolia
+- Learned using Travis-CI -- for automating search index building in algolia
 
