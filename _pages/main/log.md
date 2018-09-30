@@ -1,7 +1,9 @@
 ---
 permalink: /log/
-title: <i class="fas fa-book"></i> ghost page - daily log
-excerpt: 'baby steps towards being myself... 
+title: <i class="fab fa-snapchat-ghost"></i> ghost log <i class="fas fa-book"></i> 
+excerpt: 'So you have found this ghost page...
+<br>
+log of my small steps of learning... 
 <i class="fas fa-shoe-prints fa-xs"></i>
 <i class="fas fa-shoe-prints fa-sm"></i>
 <i class="fas fa-shoe-prints"></i>
