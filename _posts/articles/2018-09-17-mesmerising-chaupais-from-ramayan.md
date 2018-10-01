@@ -76,6 +76,6 @@ header:
 ```
 
 ## Footnotes
-[^1]: [Ahlilya's salvation ](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/40.htm)
+[^1]: [Ahlilya's salvation - now this footnote is long enough to overflow out of viewport](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/40.htm)
 [^2]: [Vishvamitra's command](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)
 [^3]: [Bow breaking](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)
