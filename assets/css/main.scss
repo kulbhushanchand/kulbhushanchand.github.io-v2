@@ -4,6 +4,11 @@
 
 @charset "utf-8";
 
+.mfp-close:focus {
+    outline: none;
+  }
+  
 /* $link-color: #00638a; */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
