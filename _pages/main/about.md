@@ -1,5 +1,5 @@
 ---
-permalink: /about-me/
+permalink: /about/
 title: Just being myself... 
 excerpt: <i class="fas fa-fingerprint"></i>  #Just being myself <i class="fas fa-fingerprint"></i> 
 last_modified_at: 2018-09-27T10:30:00+05:30
@@ -11,6 +11,8 @@ header:
  overlay_image: /assets/images/pages/main/about-me-header.jpg
  overlay_filter: rgba(0, 0, 0, 0.6)
 ---
+
+## About Me
 
 <i class="fa fa-graduation-cap about-icon"></i> &nbsp; I am presently a **PhD research scholar** in ECE department at [NITJ](http://www.nitj.ac.in). My research area is signal processing, healthcare and biofeedback. My master thesis was on developing `a new approach for ECG signal denoising using Adaptive Filtering`    
   

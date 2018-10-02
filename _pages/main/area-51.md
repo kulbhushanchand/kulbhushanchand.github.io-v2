@@ -27,11 +27,13 @@ header:
 
 ---
 
+[google](www.google.com)
+
+## [**link2**](www.github.com)
 
 test[^kb]
 
 [^kb]: nothing but a link, what else can it be... oh.. yes - a footnote
-
 
 
 [Project page under development](/projects/)
@@ -106,7 +108,7 @@ graph TD;
 </div>
 
 
-<canvas id="bar-chart-horizontal" width="800" height="450"></canvas>
+<canvas id="bar-chart-horizontal" width="100" height="100"></canvas>
 <script>
 new Chart(document.getElementById("bar-chart-horizontal"), {
     type: 'horizontalBar',
