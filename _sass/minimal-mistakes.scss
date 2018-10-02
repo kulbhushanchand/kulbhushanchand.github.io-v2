@@ -12,7 +12,7 @@
 @include breakpoint-set("to ems", true);
 @import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
 @import "minimal-mistakes/vendor/susy/susy";
-@import "minimal-mistakes/vendor/bigfoot/bigfoot-default.scss";
+@import "minimal-mistakes/vendor/bigfoot/bigfoot-number.scss";
 @import "minimal-mistakes/mixins";
 
 /* Core CSS */
