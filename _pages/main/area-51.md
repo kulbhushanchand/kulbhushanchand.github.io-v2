@@ -1,7 +1,7 @@
 ---
 permalink: /area-51/
 title: <i class="fas fa-user-secret"></i> Area-51
-excerpt: "I am not a conspiracy theorist, just a beginner in web programming and need a safe place to test the code"
+excerpt: "just a beginner in web programming and need a separate place to test the code"
 author_profile: false
 last_modified_at: 2018-09-20T04:15:00+05:30
 classes: wide
