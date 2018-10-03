@@ -7,8 +7,15 @@
 .mfp-close:focus {
     outline: none;
   }
-  
-/* $link-color: #00638a; */
+
+// $link-color: #004680;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+
+
+
+
 

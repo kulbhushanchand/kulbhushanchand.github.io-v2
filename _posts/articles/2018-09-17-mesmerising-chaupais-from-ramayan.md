@@ -23,11 +23,20 @@ header:
       url: "http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/"
 ---
 
+## Ramayan Title Hymn (रामायण शीर्षक-भजन)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-title.mp3" controls preload></audio>
 
+```
+सीता राम चरित अति पावन।
+मधुर सरस अरु अति मनभावन॥
+
+पुनि पुनि कितनेहू सुने सुनाये।
+हिय की प्यास भुजत न भुजाये॥
+
+```
 
 ## Ahlilya's salvation (अहल्या उद्धार)[^1] 
-
-<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan_ahilya_udhaar.mp3" controls preload></audio>
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-ahilya-udhaar.mp3" controls preload></audio>
 
 ```
 परसत पद पावन सोकनसावन प्रगट भई तपपुंज सही।
@@ -44,8 +53,7 @@ header:
 ``` 
 
 ## Vishvamitra's command (विश्वामित्रजी का श्री राम को धनुषभंग के लिए आदेश)[^2]
-
-<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan_vishwamitra_asked_shree_ram_to_break_the_bow.mp3" controls preload></audio>
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-vishwamitra-asked-shree-ram-to-break-the-bow.mp3" controls preload></audio>
 
 ```
 बिस्वामित्र समय सुभ जानी। बोले अति सनेहमय बानी॥
@@ -60,8 +68,7 @@ header:
 ```
 
 ## Shree Ram breaks the bow (श्री राम द्वारा धनुषभंग)[^3]
-
-<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan_shree_ram_breaks_the_bow.mp3" controls preload></audio>
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-shree-ram-breaks-the-bow.mp3" controls preload></audio>
 
 ```
 राम बिलोके लोग सब चित्र लिखे से देखि।

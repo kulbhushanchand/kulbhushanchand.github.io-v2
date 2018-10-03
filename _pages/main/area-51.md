@@ -27,13 +27,16 @@ header:
 
 ---
 
-[google](www.google.com)
 
-debugging bigfoot
+
+
+[test2](http://www.nitj.ac.in)
+[test2](https://www.mademistakes.com)
 
 test[^kb]
 
 [^kb]: nothing but a link, what else can it be... oh.. yes - a footnote
+
 
 
 [Project page under development](/projects/)
