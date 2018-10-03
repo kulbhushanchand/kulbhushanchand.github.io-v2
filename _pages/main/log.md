@@ -22,6 +22,10 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-01" | date: dateFormat }}
+
+
+
+## {{ "2018-10-01" | date: dateFormat }}
 - Found weird bug in bigfoot.js on personal-website. Failed attempt at debugging
 - Disspointment - The electronic components procurement may not be successful. How can I prepare dish without raw materials?
 - Hopeful - Workstation may get much needed RAM upgrade

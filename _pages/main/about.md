@@ -31,7 +31,7 @@ header:
 [*The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) --- Movie, 2006
 {: .small}
 
-# 
+
 
 
 
