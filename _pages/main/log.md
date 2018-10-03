@@ -21,6 +21,13 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-02" | date: dateFormat }}
+- Read about basic workflow of automation in jekyll using npm, gulp and travis-CI, however in the end decide not to go for it because of 
+  - time investment required to learn in more detail
+  - Preference for build in GitHub pages
+  - Added plugins leads to more complexity and possible bugs
+  - Planned to use ImageOptim for optimizing images locally
+
 ## {{ "2018-10-01" | date: dateFormat }}
 
 
