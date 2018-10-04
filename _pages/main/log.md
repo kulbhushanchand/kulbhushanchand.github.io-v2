@@ -21,9 +21,12 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-04" | date: dateFormat }}
+- using mp3directcut for mp3 files splitting|joining
+- Giffen’s paradox
+
 ## {{ "2018-10-03" | date: dateFormat }}
 - Cloudflare account setup, but needed a domain name
-
 
 ## {{ "2018-10-02" | date: dateFormat }}
 - Read about basic workflow of automation in jekyll using npm, gulp and travis-CI, however in the end decide not to go for it because of 
