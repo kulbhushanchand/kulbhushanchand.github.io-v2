@@ -21,8 +21,11 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-05" | date: dateFormat }}
+
+
 ## {{ "2018-10-04" | date: dateFormat }}
-- using mp3directcut for mp3 files splitting|joining
+- using mp3directcut for mp3 files splitting/joining
 - Giffen’s paradox
 
 ## {{ "2018-10-03" | date: dateFormat }}
