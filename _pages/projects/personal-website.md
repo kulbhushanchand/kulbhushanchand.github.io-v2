@@ -38,7 +38,7 @@ header:
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/issues?q=is%3Aissue+is%3Aclosed)
 
 
-[![GitHub license](https://img.shields.io/github/license/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/blob/master/LICENSE.md)
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)
 
