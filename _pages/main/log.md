@@ -21,6 +21,12 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-07" | date: dateFormat }}
+- NULL
+
+## {{ "2018-10-06" | date: dateFormat }}
+- NULL
+
 ## {{ "2018-10-05" | date: dateFormat }}
 - Research work extention presentation
 - Started using shields.io badges
