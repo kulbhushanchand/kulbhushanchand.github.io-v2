@@ -21,6 +21,11 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-09" | date: dateFormat }}
+
+## {{ "2018-10-08" | date: dateFormat }}
+- learned more about shield.io badges
+
 ## {{ "2018-10-07" | date: dateFormat }}
 - NULL
 
