@@ -105,6 +105,11 @@ $(document).ready(function() {
   });
 
 // bigfoot initialization
-
+	var bigfoot = $.bigfoot(
+		{
+		actionOriginalFN: "hide",
+		positionContent: "true"
+		}
+    );
 
 });
