@@ -28,14 +28,66 @@ header:
 ---
 
 
-
-
-[test2](http://www.nitj.ac.in)
-[test2](https://www.mademistakes.com)
-
 test[^kb]
 
 [^kb]: nothing but a link, what else can it be... oh.. yes - a footnote
+
+
+
+## GitHub User Badges
+
+![GitHub followers](https://img.shields.io/github/followers/Kulbhushan-Chand.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+
+
+## GitHub Repo Badges
+
+[![GitHub stars](https://img.shields.io/github/stars/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/stargazers)
+&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/network)
+&nbsp;
+[![GitHub watchers](https://img.shields.io/github/watchers/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/watchers)
+&nbsp;
+[![GitHub open issues](https://img.shields.io/github/issues-raw/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/issues)
+&nbsp;
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/issues?q=is%3Aissue+is%3Aclosed)
+&nbsp;
+[![GitHub license](https://img.shields.io/github/license/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/blob/master/LICENSE.md)
+&nbsp;
+[![GitHub commits](https://img.shields.io/github/last-commit/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/commits)
+&nbsp;
+[![GitHub open pulls](https://img.shields.io/github/issues-pr-raw/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/pulls)
+&nbsp;
+[![GitHub closed pulls](https://img.shields.io/github/issues-pr-closed-raw/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/pulls?q=is%3Apr+is%3Aclosed)
+&nbsp;
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![Github All Releases](https://img.shields.io/github/downloads/Kulbhushan-Chand/Kulbhushan-Chand.github.io/total.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub contributors](https://img.shields.io/github/contributors/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub language count](https://img.shields.io/github/languages/count/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub top language](https://img.shields.io/github/languages/top/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![GitHub release](https://img.shields.io/github/release/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+![Github All Releases](https://img.shields.io/github/downloads/Kulbhushan-Chand/Kulbhushan-Chand.github.io/total.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=3600)
+&nbsp;
+
+[![Travis (.org)](https://img.shields.io/travis/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=travis&maxAge=3600)](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
+
+
+## Social Badges
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=twitter&maxAge=3600)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)
+&nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChandKulbhushan.svg?longCache=true&style=for-the-badge&label=Follow&logo=twitter&maxAge=3600)](https://twitter.com/intent/follow?screen_name=ChandKulbhushan)
+&nbsp;
+![Website](https://img.shields.io/website-up-down-green-red/http/kulbhushan-chand.github.io.svg?label=my-website&longCache=true&style=for-the-badge)
 
 
 

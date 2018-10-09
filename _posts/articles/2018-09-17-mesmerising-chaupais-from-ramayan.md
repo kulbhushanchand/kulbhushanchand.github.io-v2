@@ -29,8 +29,45 @@ header:
 ```
 सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
 पुनि पुनि कितनेहू सुने सुनाये। हिय की प्यास भुजत न भुजाये॥
+```
+
+## Ramayan Praise
+
+### By Balmiki in sanskrit (वाल्मीकि द्वारा संस्कृत में)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-sanskrit.mp3" controls preload></audio>
 
 ```
+यावत्स्थास्यन्ति गिरयः सरितश्च महीतले | 
+तावद्रामायणकथा लोकेषु प्रचरिष्यति || 
+```
+### By Tulsidas in avadhi (तुलसीदास द्वारा अवधी में)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-awadhi-1.mp3" controls preload></audio>  
+
+```
+सारद सेस महेस बिधि आगम निगम पुरान।
+नेति नेति कहि जासु गुन करहिं निरंतर गान॥
+```
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-awadhi-2.mp3" controls preload></audio>
+
+```
+सब जानत प्रभु प्रभुता सोई। तदपि कहें बिनु रहा न कोई॥
+
+सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
+```
+
+### By Ranganatha in telegu (रंगनाथ द्वारा तेलुगू में)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-telegu.mp3" controls preload></audio>
+
+### By Krittibas in bengali (कृत्तिवास द्वारा बंगाली में)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-bengali.mp3" controls preload></audio>
+
+### By ?? (in marathi language)
+<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-marathi.mp3" controls preload></audio>
+
+
+
+
+
 
 ## Ahlilya's salvation (अहल्या उद्धार)[^1] 
 <audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-ahilya-udhaar.mp3" controls preload></audio>
