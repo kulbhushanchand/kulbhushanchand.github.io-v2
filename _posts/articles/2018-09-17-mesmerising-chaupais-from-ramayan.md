@@ -49,7 +49,6 @@ header:
 <audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-stuti-awadhi-2.mp3" controls preload></audio>
 ```
 सब जानत प्रभु प्रभुता सोई। तदपि कहें बिनु रहा न कोई॥
-
 सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
 ```
 ### By Ranganatha in telegu (रंगनाथ द्वारा तेलुगू में)
@@ -150,7 +149,7 @@ header:
 गुरहि प्रनामु मनहिं मन कीन्हा। अति लाघवँ उठाइ धनु लीन्हा॥
 ```
 
-## Footnotes
+
 [^1]: [Ahlilya's salvation - now this footnote is long enough to overflow out of viewport](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/40.htm)
 [^2]: [Vishvamitra's command](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)
 [^3]: [Bow breaking](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)
