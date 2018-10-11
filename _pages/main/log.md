@@ -21,7 +21,19 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+
+
+## {{ "2018-10-11" | date: dateFormat }}
+- Implemented basic working of LSL in MATLAB 👍
+- Unfortunately neuromore and Open BCI does not support incoming LSL stream, instead they supports OSC protocol for input stream 🤦‍♂
+- OpenVibe supports incomin LSL stream, however it is more suited for EEG signal analysis (not much of use, I'm not using EEG)
+
+## {{ "2018-10-10" | date: dateFormat }}
+- Pilot trials planning
+- Learning LSL protocol - [GitHub repo](https://github.com/sccn/labstreaminglayer)
+
 ## {{ "2018-10-09" | date: dateFormat }}
+- Pilot trials planning
 
 ## {{ "2018-10-08" | date: dateFormat }}
 - learned more about shield.io badges
