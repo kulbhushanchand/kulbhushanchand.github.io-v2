@@ -21,7 +21,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-
+## {{ "2018-10-11" | date: dateFormat }}
+- Exploring [OSC protocol](https://www.aboehler.at/doku/doku.php/blog:2009:0727_install_osc_for_matlab_on_windows)
 
 ## {{ "2018-10-11" | date: dateFormat }}
 - Implemented basic working of LSL in MATLAB 👍
