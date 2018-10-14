@@ -23,7 +23,7 @@ header:
 
 ## {{ "2018-10-14" | date: dateFormat }}
 - Exploring [OpenViBE](http://openvibe.inria.fr/)
-- Communication sucessful between OpenViBE(OSC send only) -- neuromore (OSC receiver)
+- Communication successful between OpenViBE(OSC send only) -- neuromore (OSC receiver)
 - Neuromore community version has limited features and unsupported HRV analysis module 
 - OpenViBE has OSC tranmitter only
 - So many trade-offs, and so little time...
