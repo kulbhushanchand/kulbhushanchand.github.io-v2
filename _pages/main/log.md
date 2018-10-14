@@ -21,8 +21,11 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-## {{ "2018-10-13" | date: dateFormat }}
+## {{ "2018-10-14" | date: dateFormat }}
 
+
+## {{ "2018-10-13" | date: dateFormat }}
+- NULl
 
 ## {{ "2018-10-12" | date: dateFormat }}
 - Exploring [OSC protocol](https://www.aboehler.at/doku/doku.php/blog:2009:0727_install_osc_for_matlab_on_windows)
