@@ -25,7 +25,7 @@ header:
 
 
 ## {{ "2018-10-13" | date: dateFormat }}
-- NULl
+- NULL
 
 ## {{ "2018-10-12" | date: dateFormat }}
 - Exploring [OSC protocol](https://www.aboehler.at/doku/doku.php/blog:2009:0727_install_osc_for_matlab_on_windows)
