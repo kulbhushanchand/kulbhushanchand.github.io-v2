@@ -21,6 +21,9 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-15" | date: dateFormat }}
+
+
 ## {{ "2018-10-14" | date: dateFormat }}
 - Exploring [OpenViBE](http://openvibe.inria.fr/)
 - Communication successful between OpenViBE(OSC send only) -- neuromore (OSC receiver)
