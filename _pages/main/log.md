@@ -21,6 +21,9 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-16" | date: dateFormat }}
+
+
 ## {{ "2018-10-15" | date: dateFormat }}
 - Implimented OSC outstream in daq-MATLAB and verified & analysed receiving stream in neuromore
 
