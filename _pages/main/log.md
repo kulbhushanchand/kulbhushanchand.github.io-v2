@@ -21,6 +21,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-17" | date: dateFormat }}
+
 ## {{ "2018-10-16" | date: dateFormat }}
 - Exploring [puredata](https://puredata.info/)
 
