@@ -22,6 +22,11 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-17" | date: dateFormat }}
+- Exploring [BrainBay](http://www.shifz.org/brainbay/)
+- VirtualMidiSynth + soundfont installed in WS[^n2]
+
+[^n2]: Workstation
+
 
 ## {{ "2018-10-16" | date: dateFormat }}
 - Exploring [puredata](https://puredata.info/)
