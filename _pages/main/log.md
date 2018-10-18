@@ -26,6 +26,7 @@ header:
 ## {{ "2018-10-17" | date: dateFormat }}
 - Exploring [BrainBay](http://www.shifz.org/brainbay/)
 - VirtualMidiSynth + soundfont installed in WS[^n2]
+- WS RAM upgraded to 20GB (finally.. got the required performance for my work) 👍 
 
 [^n2]: Workstation
 
