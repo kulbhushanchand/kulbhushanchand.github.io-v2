@@ -22,6 +22,7 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-18" | date: dateFormat }}
+- Exploring open source methods of sonification
 
 ## {{ "2018-10-17" | date: dateFormat }}
 - Exploring [BrainBay](http://www.shifz.org/brainbay/)
