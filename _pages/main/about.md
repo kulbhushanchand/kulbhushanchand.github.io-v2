@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about-me/
 title: Just being myself... 
 excerpt: <i class="fas fa-fingerprint"></i>  #Just being myself <i class="fas fa-fingerprint"></i> 
 last_modified_at: 2018-09-27T10:30:00+05:30
