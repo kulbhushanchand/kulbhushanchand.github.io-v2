@@ -1,5 +1,5 @@
 ---
-permalink: /log/
+permalink: /ghost-log/
 title: <i class="fab fa-snapchat-ghost"></i> ghost log <i class="fas fa-book"></i> 
 excerpt: 'So you have found this ghost page...
 <br>
@@ -20,6 +20,9 @@ header:
 ---
 
 {% assign dateFormat = '%B %d, %Y' %}
+
+## {{ "2018-10-21" | date: dateFormat }}
+- NULL
 
 ## {{ "2018-10-20" | date: dateFormat }}
 - NULL
