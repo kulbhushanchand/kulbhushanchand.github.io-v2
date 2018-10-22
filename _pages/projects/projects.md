@@ -11,5 +11,6 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
-## Personal Website [<i class="fas fa-link"></i>](/projects/personal-website)
+## [Personal Website <i class="fas fa-link" style="color:#28B463"></i>](/projects/personal-website)
 I am actively developing and maintaning my personal website. Mostly I have used free tools like Jekyll, Algolia, VSCode, Travis-CI etc. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
+

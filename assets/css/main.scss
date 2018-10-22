@@ -8,7 +8,7 @@
     outline: none;
   }
 
-// $link-color: #004680;
+// $link-color: #0099e5;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

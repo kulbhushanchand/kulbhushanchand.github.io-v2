@@ -23,11 +23,6 @@ header:
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 
-**Algolia Build Status - Travis CI** -- [![Build Status](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?branch=master)](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
-
----
-
-
 test[^kb]
 
 [^kb]: nothing but a link, what else can it be... oh.. yes - a footnote
