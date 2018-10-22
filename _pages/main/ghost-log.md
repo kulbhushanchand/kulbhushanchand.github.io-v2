@@ -21,6 +21,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-22" | date: dateFormat }}
+
 ## {{ "2018-10-21" | date: dateFormat }}
 - NULL
 
