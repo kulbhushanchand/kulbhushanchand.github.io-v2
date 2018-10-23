@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_image: /assets/images/pages/main/home-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.4)
-title: Home #Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
+title: Hi... I am Kulbhushan Chand <i class="far fa-smile"></i>
 excerpt: 'This is my personal website and blog. You can find articles, tutorials and brief excerpts pertaining to different topics like electronics, arduino, mythology, physics, humour, personal experience etc.. I hope you enjoy reading them. 
 <br>'
 feature_row1:
