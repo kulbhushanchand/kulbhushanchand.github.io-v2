@@ -21,3 +21,14 @@ header:
 ---
 
 
+[![GitHub stars](https://img.shields.io/github/stars/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/stargazers)
+&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/network)
+&nbsp;
+[![GitHub watchers](https://img.shields.io/github/watchers/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/watchers)
+&nbsp;
+[![GitHub license](https://img.shields.io/github/license/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/blob/master/LICENSE.md)
+&nbsp;
+[![GitHub commits](https://img.shields.io/github/last-commit/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/commits)
+&nbsp;
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=twitter&maxAge=86400)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)

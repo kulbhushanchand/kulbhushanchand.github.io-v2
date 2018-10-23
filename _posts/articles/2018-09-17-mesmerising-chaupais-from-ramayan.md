@@ -115,7 +115,7 @@ header:
 ```
 
 ---
-## Vishvamitra's command (विश्वामित्रजी का श्री राम को धनुषभंग के लिए आदेश)[^2]
+## Vishvamitra's command (विश्वामित्रजी का श्री राम को धनुषभंग के लिए आदेश)
 <audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-vishwamitra-asked-shree-ram-to-break-the-bow.mp3" controls preload></audio>
 ```
 बिस्वामित्र समय सुभ जानी। बोले अति सनेहमय बानी॥
@@ -130,7 +130,7 @@ header:
 ```
 
 ---
-## Shree Ram breaks the bow (श्री राम द्वारा धनुषभंग)[^3]
+## Shree Ram breaks the bow (श्री राम द्वारा धनुषभंग)
 <audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-shree-ram-breaks-the-bow.mp3" controls preload></audio>
 ```
 राम बिलोके लोग सब चित्र लिखे से देखि।
@@ -147,5 +147,3 @@ header:
 
 
 [^1]: [Ahlilya's salvation - now this footnote is long enough to overflow out of viewport](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/40.htm)
-[^2]: [Vishvamitra's command](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)
-[^3]: [Bow breaking](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/49.htm)

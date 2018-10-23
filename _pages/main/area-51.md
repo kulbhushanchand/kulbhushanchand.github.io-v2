@@ -60,7 +60,7 @@ test[^kb]
 &nbsp;
 ![Github All Releases](https://img.shields.io/github/downloads/Kulbhushan-Chand/Kulbhushan-Chand.github.io/total.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
 &nbsp;
-![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
+![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
 &nbsp;
 ![GitHub contributors](https://img.shields.io/github/contributors/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
 &nbsp;
@@ -70,8 +70,7 @@ test[^kb]
 &nbsp;
 ![GitHub release](https://img.shields.io/github/release/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
 &nbsp;
-![Github All Releases](https://img.shields.io/github/downloads/Kulbhushan-Chand/Kulbhushan-Chand.github.io/total.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)
-&nbsp;
+
 
 [![Travis (.org)](https://img.shields.io/travis/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=travis&maxAge=86400)](https://travis-ci.org/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
 

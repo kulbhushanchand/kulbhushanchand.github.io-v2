@@ -14,7 +14,8 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -26,6 +27,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 #   gem "jekyll-feed"
 #   gem "jemoji"
 #   gem "jekyll-data"
+#   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
