@@ -22,6 +22,7 @@ header:
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
+Theme updated from master branch of minimal-mistakes upto commits-22-Oct-2018
 
 test[^kb]
 
