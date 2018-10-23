@@ -1,7 +1,9 @@
 ---
 permalink: /about-me/
-title: Just being myself... 
-excerpt: <i class="fas fa-fingerprint"></i>  #Just being myself <i class="fas fa-fingerprint"></i> 
+title: About Me
+excerpt: '<i class="fas fa-fingerprint"></i> Just being myself
+<br>
+Jack of all trades, master of some'
 last_modified_at: 2018-09-27T10:30:00+05:30
 toc: # true
 classes: wide
@@ -12,7 +14,7 @@ header:
  overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
-## About Me
+## Brief profile
 
 <i class="fa fa-graduation-cap about-icon"></i> &nbsp; Presently a **PhD research scholar** in ECE department at [NITJ](http://www.nitj.ac.in), researching on biofeedback. My master thesis was on developing `a new approach for ECG signal denoising using Adaptive Filtering`    
   

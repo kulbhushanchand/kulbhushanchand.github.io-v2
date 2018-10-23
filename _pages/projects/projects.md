@@ -1,9 +1,9 @@
 ---
 permalink: /projects/
-title: <i class="fas fa-flask"></i> Projects
-excerpt: "Some of the projects I have worked on and/or currently working"
+title: Projects
+excerpt: <i class="fas fa-flask"></i> Some of the projects I have worked on and/or currently working
 comments: false
-last_modified_at: 2018-09-11T10:00:00+05:30
+last_modified_at: 2018-10-23T10:00:00+05:30
 classes: wide
 author_profile: false
 header:

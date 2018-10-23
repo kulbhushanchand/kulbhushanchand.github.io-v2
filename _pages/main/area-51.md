@@ -1,9 +1,9 @@
 ---
 permalink: /area-51/
-title: <i class="fas fa-user-secret"></i> Area-51
-excerpt: " a rough page to test the code"
+title: Area-51
+excerpt: <i class="fas fa-user-secret"></i> A rough page to test the code
 author_profile: false
-last_modified_at: 2018-09-20T04:15:00+05:30
+last_modified_at: 2018-10-23T04:15:00+05:30
 classes: wide
 header:
   overlay_image: /assets/images/pages/main/area-51-header.jpg

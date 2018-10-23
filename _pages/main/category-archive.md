@@ -1,8 +1,8 @@
 ---
-title: <i class="fas fa-layer-group"></i> Posts by Category
+title: Posts by Category
 layout: categories
 permalink: /categories/
-excerpt: 'All posts in the blog arranges category wise'
+excerpt: <i class="fas fa-layer-group"></i> All posts in the blog arranges category wise
 header:
   overlay_image: /assets/images/pages/main/blog-header.jpg  
   overlay_filter: rgba(0, 0, 0, 0.5)

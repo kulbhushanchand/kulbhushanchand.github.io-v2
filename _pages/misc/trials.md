@@ -1,10 +1,10 @@
 ---
 permalink: /pages/trials/
-title: <i class="fas fa-info-circle"></i> Participant Information Page
-excerpt: "**What**, **Why**, **Where** and other doubts?... then this page is for you
+title: Participant Information Page
+excerpt: '**What**, **Why**, **Where** and other doubts?... then this page is for you
 <br>
 <br>
-In short, we will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you"
+In short, we will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you'
 author_profile: false
 layout: single
 classes: wide
