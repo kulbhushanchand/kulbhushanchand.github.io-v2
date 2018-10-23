@@ -19,7 +19,10 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-23" | date: dateFormat }}
+
 ## {{ "2018-10-22" | date: dateFormat }}
+- Extensive RAM test (memtest86) on HPZ440 - ~5 hrs. - SUCCESS
 
 ## {{ "2018-10-21" | date: dateFormat }}
 - NULL
