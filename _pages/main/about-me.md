@@ -1,17 +1,15 @@
 ---
 permalink: /about-me/
 title: About Me
-excerpt: '<i class="fas fa-fingerprint"></i> Just being myself
-<br>
-Jack of all trades, master of some'
-last_modified_at: 2018-09-27T10:30:00+05:30
+excerpt: 'Jack of all trades, Master of some'
+last_modified_at: 2018-10-24T10:30:00+05:30
 toc: # true
 classes: wide
 author_profile: true
 comments: false
 header:
  overlay_image: /assets/images/pages/main/about-me-header.jpg
- overlay_filter: rgba(0, 0, 0, 0.6)
+ overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
 ## Brief profile

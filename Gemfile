@@ -14,7 +14,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
 
 
 gem "tzinfo-data"
@@ -35,6 +35,9 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
+    gem "jekyll-gist"
+    gem "jemoji"
+#   gem "jekyll-data"       #  JekyllData: Error! This plugin only works with gem-based jekyll-themes. Please disable this plugin to proceed.
     gem "jekyll-include-cache"
     gem "jekyll-algolia"
 end

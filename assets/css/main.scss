@@ -8,7 +8,12 @@
     outline: none;
   }
 
-// $link-color: #0099e5;
+$link-color: #C0392B;
+$link-color-hover: mix(#000, $link-color, 25%);
+$link-color-visited: mix(#fff, $link-color, 25%);
+// $masthead-link-color: $primary-color;
+// $masthead-link-color-hover: mix(#000, $primary-color, 25%);
+// $navicon-link-color-hover: mix(#fff, $primary-color, 75%);
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

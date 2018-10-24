@@ -19,6 +19,9 @@ header:
 #  - mermaid
 #  - chartjs
 ---
+# [not visited](https://www.nitj.ac.in)
+
+# [visited](https://www.google.com)
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
