@@ -20,7 +20,7 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-24" | date: dateFormat }}
-- Exploring Purr-Data[^3]
+- Exploring Purr-Data[^n3]
 - OSC communication sucessful from MATLAB to Purr-Data 👍
 - Created patch for amplitude, frequency and midi control from arduino-sensor value 
 
