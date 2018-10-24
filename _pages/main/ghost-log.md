@@ -19,7 +19,10 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-24" | date: dateFormat }}
+
 ## {{ "2018-10-23" | date: dateFormat }}
+- Updated personal website theme to latest commit 
 
 ## {{ "2018-10-22" | date: dateFormat }}
 - Extensive RAM test (memtest86) on HPZ440 - ~5 hrs. - SUCCESS
