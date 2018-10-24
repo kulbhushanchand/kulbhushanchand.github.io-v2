@@ -20,6 +20,11 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-24" | date: dateFormat }}
+- Exploring Purr-Data[^3]
+- OSC communication sucessful from MATLAB to Purr-Data 👍
+- Created patch for amplitude, frequency and midi control from arduino-sensor value 
+
+[^n3]: Purr-Data is cross-platform application of PureData with additions  
 
 ## {{ "2018-10-23" | date: dateFormat }}
 - Updated personal website theme to latest commit 
