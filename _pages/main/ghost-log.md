@@ -19,6 +19,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-25" | date: dateFormat }}
+
 ## {{ "2018-10-24" | date: dateFormat }}
 - Exploring Purr-Data[^n3]
 - OSC communication sucessful from MATLAB to Purr-Data 👍
