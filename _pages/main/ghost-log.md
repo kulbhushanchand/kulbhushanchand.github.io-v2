@@ -20,6 +20,8 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-25" | date: dateFormat }}
+- Configured Midi instruments in Purr-Data
+- Synthesized music from MATLAB --> Purr-Data --> Midi 👍
 
 ## {{ "2018-10-24" | date: dateFormat }}
 - Exploring Purr-Data[^n3]
