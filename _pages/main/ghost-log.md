@@ -17,9 +17,11 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
-# kulbhushanchand.com
+# [kulbhushanchand.com](https://kulbhushanchand.com)  
+  
 
-# kulbhushan-chand.com
+# [kulbhushan-chand.com](https://kulbhushan-chand.com)  
+
 
 {% assign dateFormat = '%B %d, %Y' %}
 
