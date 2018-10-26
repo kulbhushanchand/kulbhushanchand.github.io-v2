@@ -17,6 +17,10 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
+# kulbhushanchand.com
+
+# kulbhushan-chand.com
+
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-26" | date: dateFormat }}
