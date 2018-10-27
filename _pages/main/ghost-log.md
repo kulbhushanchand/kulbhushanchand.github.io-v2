@@ -17,15 +17,16 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
-# [kulbhushanchand.com](https://kulbhushanchand.com)  
-  
-
-# [kulbhushan-chand.com](https://kulbhushan-chand.com)  
 
 
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-26" | date: dateFormat }}
+- Learning Purr-Data
+- Registered domain - kulbhushan-chand.com
+- Started process of ussing cloudflare as CDN[^n4]
+
+[^n4]: Content Delivery Network
 
 
 ## {{ "2018-10-25" | date: dateFormat }}
