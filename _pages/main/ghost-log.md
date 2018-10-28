@@ -21,6 +21,11 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-28" | date: dateFormat }}
+
+## {{ "2018-10-27" | date: dateFormat }}
+- NULL
+
 ## {{ "2018-10-26" | date: dateFormat }}
 - Learning Purr-Data
 - Registered domain - kulbhushan-chand.com
