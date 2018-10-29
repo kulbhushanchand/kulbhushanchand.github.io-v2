@@ -40,7 +40,7 @@ test[^kb]
 
 ## GitHub Repo Badges
 
-[![GitHub stars](https://img.shields.io/github/stars/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/stargazers)
 &nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?longCache=true&style=for-the-badge&logo=github&logoColor=white&maxAge=86400)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/network)
 &nbsp;
