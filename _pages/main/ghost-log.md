@@ -23,7 +23,9 @@ header:
 
 
 ## {{ "2018-10-29" | date: dateFormat }}
-
+- Updated nameserve and using the available features of cloudflare
+- Website live
+- Performance testing of website
 
 ## {{ "2018-10-28" | date: dateFormat }}
 - NULL
