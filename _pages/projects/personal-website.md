@@ -32,3 +32,38 @@ header:
 [![GitHub commits](https://img.shields.io/github/last-commit/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?style=for-the-badge&logo=github&logoColor=white&maxAge=86400&longCache=true)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/commits)
 &nbsp;
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?style=for-the-badge&logo=twitter&maxAge=86400&longCache=true)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)
+
+
+
+
+
+## Features
+- Static website
+- Light weight
+- Fast
+- Minimal expense
+
+## Technologies used
+- Jekyll
+- GitHub
+- Cloudflare
+
+
+---
+## Performance report
+
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+An impressive score of 93 and 96 for mobile and desktop benchmarking respectively was obtained on Google PageSpeed Insight 
+
+<figure class="half">
+    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.jpg"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.jpg"></a>
+    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.jpg"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.jpg"></a>
+    <figcaption>Google PageSpeed Insights mobile and desktop benchmarks.</figcaption>
+</figure>
+       
+- [GTmetrix](https://gtmetrix.com/)
+Gtmetrix is another widely used website performance becnhmarking tool. The website loads under half second with 99% PageSpeed score.
+
+![Gtmetrix]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/gtmetrix.jpg){: .align-center}
+
+---

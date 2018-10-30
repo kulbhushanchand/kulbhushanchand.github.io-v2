@@ -41,12 +41,12 @@ header:
 ---
 
 **If you are interested, kindly fill the google form -**
-[<i class="fas fa-link"></i> Link to Form]({{ "https://goo.gl/forms/SOhGwDjTOAPeLWEb2" | relative_url }}){: .btn .btn--primary .btn--large}
+[Link to Form]({{ "https://goo.gl/forms/SOhGwDjTOAPeLWEb2" | relative_url }}){: .btn .btn--primary .btn--large}
 
 Biofeedback is a technique you can use to learn to control your body's functions, such as your heart rate. 
 The motive of this page to make people aware of the general aspects of our study and about trials in which they are going to take part.  
 
-## <i class="fas fa-user-circle"></i> Resource Persons
+## 👨‍🏫 Resource Persons
 
 These trials are part of ongoing PhD work of -
 
@@ -70,7 +70,7 @@ These trials are part of ongoing PhD work of -
 
 ---
 
-## <i class="fab fa-readme"></i> Introduction to the Research Work
+## ℹ️ Introduction to the Research Work
 
 In this fast paced life -- stress is something to avoid at all cost. Studies conformed that stress is a risk factor to cardiovascular diseases which are the leading cause of deaths in India. 
 
@@ -85,7 +85,7 @@ This research work aims to achieve the following goals –
 - Promoting a healthy lifestyle among the people by learning relaxation techniques for stress management 
 - Use of alternate form of medication called biofeedback which has no side effects as compared to medicines for stress management  
 
-## <i class="fas fa-question-circle"></i> About the trials
+## ❓ About the trials
 
 The trials are conducted to gather data for the study. Following is the basic information regarding the trials. People are requested to read, and in case of doubt -- contact the [researcher](https://kulbhushan-chand.github.io/about)  
 
@@ -138,7 +138,7 @@ The participants may choose the time as per their wish. We try to resolve the co
 
 There are no physical or mental risks involved with the trials. On the other hand, after the trials, a participant may feel better at handling stress in everyday situation.
 
-## Benefits to the participants
+## 💗 Benefits to the participants
 
 The participants can have the opportunity to be a part of the research study. Some of the benefits are -
 - Learning how to reduce stress and achieve mental relaxation
@@ -146,11 +146,11 @@ The participants can have the opportunity to be a part of the research study. So
 - Be a part of another *on-going/yet-to-come* projects  
 - The participants can adopt the outcomes of the study in their daily lives to have less stress and healthy living. 
 
-## <i class="fas fa-exclamation-triangle"></i> Will my personal details be shared?
+## ⚠️ Will my personal details be shared?
 
 Absolutely not. The private information of the participant in records and data will be treated as confidential information and will not be made public anywhere. The access to records/data will be limited to research team only.
 
-## <i class="fas fa-road"></i> Guidelines followed
+## 🛤 Guidelines followed
 
 - The ethical clearance form is submitted for approval to the Ethical Clearance Committee of NIT Jalandhar. 
 - The ethical guidelines followed in the study are in accordance with the [*ICMR Ethical Guidelines 2017*](https://icmr.nic.in/guidelines).

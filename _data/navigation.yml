@@ -6,8 +6,8 @@ main:
 #    url: /ghost-log/
   - title: "Blog"
     url: /blog/
-#  - title: "Projects"
-#    url: /projects/
+  - title: "Projects"
+    url: /projects/
   - title: "About Me"
     url: /about-me/
   - title: "Area-51"

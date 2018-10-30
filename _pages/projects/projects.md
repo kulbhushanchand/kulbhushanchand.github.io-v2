@@ -12,5 +12,5 @@ header:
 ---
 
 ## [Personal Website](/projects/personal-website) 📺
-I am actively developing and maintaning my personal website. Mostly I have used free tools like Jekyll, Algolia, VSCode, Travis-CI etc. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
+An ultra fast, light weight static website that I am actively developing and maintaning as my personal website. Mostly I have used free and opensource tools. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
 
