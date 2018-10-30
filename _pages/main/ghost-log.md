@@ -21,6 +21,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-30" | date: dateFormat }}
+
 
 ## {{ "2018-10-29" | date: dateFormat }}
 - Updated nameserve and using the available features of cloudflare
