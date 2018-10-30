@@ -32,6 +32,7 @@ test[^kb]
 [^kb]: nothing but a link, what else can it be... oh.. yes - a footnote
 
 
+## <i class="fas fa-link"></i>
 
 ## GitHub User Badges
 
