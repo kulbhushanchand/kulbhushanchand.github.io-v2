@@ -1,7 +1,7 @@
 ---
 permalink: /area-51/
 title: Area-51
-excerpt: <i class="fas fa-user-secret"></i> A rough page to test the code
+excerpt: 👽 A rough page to test the code
 author_profile: false
 last_modified_at: 2018-10-23T04:15:00+05:30
 classes: wide

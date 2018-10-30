@@ -98,7 +98,7 @@ header:
 ```
 
 ---
-## Ahlilya's salvation (अहल्या उद्धार)[^1] 
+## Ahlilya's salvation (अहल्या उद्धार)
 <audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-ahilya-udhaar.mp3" controls preload></audio>
 ```
 परसत पद पावन सोकनसावन प्रगट भई तपपुंज सही।
@@ -145,5 +145,3 @@ header:
 गुरहि प्रनामु मनहिं मन कीन्हा। अति लाघवँ उठाइ धनु लीन्हा॥
 ```
 
-
-[^1]: [Ahlilya's salvation - now this footnote is long enough to overflow out of viewport](http://hindi.webdunia.com/religion/religion/hindu/ramcharitmanas/BalKand/40.htm)

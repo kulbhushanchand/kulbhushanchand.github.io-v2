@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: Projects
-excerpt: <i class="fas fa-flask"></i> Some of the projects I have worked on and/or currently working
+excerpt: Some of the projects I have worked on and/or currently working
 comments: false
 last_modified_at: 2018-10-23T10:00:00+05:30
 classes: wide
@@ -11,6 +11,6 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
-## [Personal Website](/projects/personal-website)
+## [Personal Website](/projects/personal-website) 📺
 I am actively developing and maintaning my personal website. Mostly I have used free tools like Jekyll, Algolia, VSCode, Travis-CI etc. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
 

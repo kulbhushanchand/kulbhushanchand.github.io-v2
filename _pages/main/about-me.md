@@ -14,15 +14,15 @@ header:
 
 ## Brief profile
 
-<i class="fa fa-graduation-cap about-icon"></i> &nbsp; Presently a **PhD research scholar** in ECE department at [NITJ](http://www.nitj.ac.in), researching on biofeedback. My master thesis was on developing `a new approach for ECG signal denoising using Adaptive Filtering`    
+🎓 &nbsp; Presently a **PhD research scholar** in ECE department at [NITJ](http://www.nitj.ac.in), researching on biofeedback. My master thesis was on developing `a new approach for ECG signal denoising using Adaptive Filtering`    
   
-<i class="fas fa-briefcase"></i> &nbsp; Previously worked as **Assistant Professor** and taught `Microcontroller and its applications`, `Digital Signal Processing`, `Probability and Stochastic Theory` and few other     
+💼 &nbsp; Previously worked as **Assistant Professor** and taught `Microcontroller and its applications`, `Digital Signal Processing`, `Probability and Stochastic Theory` and few other     
   
-<i class="fas fa-flask"></i> &nbsp; ❤️ doing hardware and software projects with aim to **solve some real world problem**. Most of the times I am using arduino and MATLAB. I am avid supporter of **Open Source Technologies** and used them for most of my projects. I have planned to open source my PhD work after completion. You can check projects page here (under construction)  
+⚙️ &nbsp; ❤️ doing hardware and software projects with aim to **solve some real world problem**. Most of the times I am using arduino and MATLAB. I am avid supporter of **Open Source Technologies** and used them for most of my projects. I have planned to open source my PhD work after completion. You can check projects page here (under construction)  
 
-<i class="fas fa-gamepad"></i> &nbsp; Also a gamification expert. Along with my research guide, we introduced **Gamification** subject in our institute and probably the ***first and only in India***. Also teaching assistant in `Gamification course`. 
+🎮 &nbsp; Also a gamification expert. Along with my research guide, we introduced **Gamification** subject in our institute and probably the ***first and only in India***. Also teaching assistant in `Gamification course`. 
   
-<i class="fas fa-basketball-ball"></i> &nbsp; An athlete and likes **running**, cycling and playing basketball
+🏃 &nbsp; An athlete and likes **running**, cycling and playing basketball
 
 ---
 

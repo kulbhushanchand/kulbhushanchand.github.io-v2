@@ -1,11 +1,7 @@
 ---
 permalink: /ghost-log/
 title: Ghost Log
-excerpt: 'log of my small steps of learning... 
-<i class="fas fa-shoe-prints fa-xs"></i>
-<i class="fas fa-shoe-prints fa-sm"></i>
-<i class="fas fa-shoe-prints"></i>
-<i class="fas fa-shoe-prints fa-lg"></i>'  
+excerpt: 'log of my small steps of learning...'  
 comments: false
 classes: wide
 author_profile: false
@@ -22,7 +18,7 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-30" | date: dateFormat }}
-
+- Optimized website performance
 
 ## {{ "2018-10-29" | date: dateFormat }}
 - Updated nameserve and using the available features of cloudflare
