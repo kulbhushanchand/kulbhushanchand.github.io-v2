@@ -59,7 +59,7 @@ reCaptcha:
   secret                 : "dPL2DG9v/k28wLgYPXYopf2TDwPHM/uYT05s9YE/RgadXbFrYrgW1KDPYligT4xEqvv4kELEg6Ak7B1SV9QRXhiyK/DfEVGwF2H0z6ouAKndUNm/wb6Kwtb/l6Lu1oZnpBAIosuVKVZ1E4YrdAM2dPv1tY1rVcPu8G/aY7U3yws="
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
