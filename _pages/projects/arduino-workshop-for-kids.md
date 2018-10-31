@@ -13,7 +13,6 @@ header:
 #  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
-
 [![GitHub stars](https://img.shields.io/github/stars/Kulbhushan-Chand/arduino-workshop-for-kids.svg?style=for-the-badge&logo=github&logoColor=white&maxAge=86400&longCache=true)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/stargazers)
 &nbsp;
 [![GitHub license](https://img.shields.io/github/license/Kulbhushan-Chand/arduino-workshop-for-kids.svg?style=for-the-badge&logo=github&logoColor=white&maxAge=86400&longCache=true)](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io/blob/master/LICENSE.md)
@@ -21,13 +20,22 @@ header:
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/arduino-workshop-for-kids.svg?style=for-the-badge&logo=twitter&maxAge=86400&longCache=true)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)
 
 
-# arduino_workshop_for_kids
+In 2017, I have started using arduino for my research work. My research guide and their associates liked the ideas of organizing a arduino workshop for kids. We do not have the information about the exact age limit of kids we like to call for workshop.  
+My task was to handle everything related to technical aspect and delivering presentation at workshop.
+
+Started with the basic idea I end up creating the 15 ready to deploy, generalized arduino projects, with difficulty from easy to hard.
+
+The workshop was successfully conducted in Nov-2017. 
+
+This repository was later made public for anyone who would like to use and get benefited from it.
 
 This  repository contains the presentation, schematics and the arduino code required for conducting the arduino workshop for kids.
 
-The workshop is divided into 15 challenges ranging from simple to complex tasks. Each challence aims to teach some core concepts of arduino and electronics.
 
-The breif summary about the challenges are as follows -
+
+The workshop is divided into 15 challenges ranging from simple to complex tasks. Each challenge aims to teach some core concepts of arduino and electronics.
+
+The brief summary about the challenges are as follows -
 
 ## Challenge 1 - Blinking LED
 
@@ -35,7 +43,7 @@ The LED is made to blink continuously. The on-off time of the LED can be changed
 
 ## Challenge 2 - Fading LED
 
-The LED is made to fade-in and fade-out from between off stste and complete brightness. The time took by LED to fade-in and fade-out can be changed changing the delay value in the code.
+The LED is made to fade-in and fade-out from between off state and complete brightness. The time took by LED to fade-in and fade-out can be changed changing the delay value in the code.
 
 ## Challenge 3 - Coloured LED
 
