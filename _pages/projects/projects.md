@@ -17,5 +17,5 @@ An ultra fast, light weight static website that I am actively developing and mai
 ## [Ramayan hymns](/projects/ramayan-hymns) 🕉🔅
 Collection of mesmerizing hymns from the serial "Sampoorna Ramayan" by Ramananda Sagar'. 
 
-## [Arduino workshop for kids](/project/arduino-workshop-for-kids) 🔌 
+## [Arduino workshop for kids](/projects/arduino-workshop-for-kids) 🔌 
 This project contains the presentation, schematics and the arduino code required for conducting the arduino workshop for kids. I have conducted the workshop in Nov-2017 in Jalandhar city, Punjab, India. 
