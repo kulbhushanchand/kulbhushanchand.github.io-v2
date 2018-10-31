@@ -18,6 +18,8 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-10-31" | date: dateFormat }}
+- Made project public - "arduino workshop for kids" and "ramayan hymns"
+
 
 ## {{ "2018-10-30" | date: dateFormat }}
 - Optimized website performance
