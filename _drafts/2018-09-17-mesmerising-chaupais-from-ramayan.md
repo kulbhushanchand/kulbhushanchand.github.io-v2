@@ -25,7 +25,7 @@ header:
 
 ---
 ## Ramayan Title Hymn (रामायण शीर्षक-भजन)
-<audio src="{{ site.url }}{{ site.baseurl }}/assets/audio/posts/articles/ramayan-title.mp3" controls preload></audio>
+<audio src="{{ site.url }}{{ site.baseurl }} /ramayan-hymns/hymns/ramayan-title.mp3" controls preload></audio>
 ```
 सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
 पुनि पुनि कितनेहू सुने सुनाये। हिय की प्यास भुजत न भुजाये॥
