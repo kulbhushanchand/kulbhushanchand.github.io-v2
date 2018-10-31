@@ -1,5 +1,5 @@
 ---
-permalink: /projects/ramayan-hymns
+permalink: /ramayan-hymns
 title: Ramayan hymns
 excerpt: 'Mesmerising hymns from Ramayan'
 comments: false

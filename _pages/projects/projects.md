@@ -15,3 +15,4 @@ header:
 An ultra fast, light weight static website that I am actively developing and maintaning as my personal website. Mostly I have used free and opensource tools. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
 
 ## [Ramayan hymns](/projects/ramayan-hymns) 🕉🔅
+Collection of mesmerizing hymns from the serial "Sampoorna Ramayan" by Ramananda Sagar'. 
