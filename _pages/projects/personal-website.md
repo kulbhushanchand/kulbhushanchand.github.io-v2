@@ -47,7 +47,7 @@ gallery:
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io.svg?style=for-the-badge&logo=twitter&maxAge=86400&longCache=true)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKulbhushan-Chand%2FKulbhushan-Chand.github.io)
 
 
-
+Mostly I have used free and opensource tools. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
 
 
 
