@@ -17,6 +17,8 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-10-31" | date: dateFormat }}
+
 ## {{ "2018-10-30" | date: dateFormat }}
 - Optimized website performance
 
