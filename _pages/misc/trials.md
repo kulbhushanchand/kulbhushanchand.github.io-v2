@@ -8,7 +8,7 @@ In short, we will record your heart rate, breathing rate etc. and give you some 
 author_profile: false
 layout: single
 classes: wide
-comments: true
+comments: false
 published: true
 last_modified_at: 2018-09-07T04:15:00+05:30
 toc: # true

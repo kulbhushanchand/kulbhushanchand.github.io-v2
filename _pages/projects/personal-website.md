@@ -12,7 +12,7 @@ excerpt: 'It is Open Source and available on GitHub, so nothing personal then
 comments: false
 classes: wide
 author_profile: false
-comments: true
+comments: false
 last_modified_at: 2018-10-05T10:30:00+05:30
 toc: false
 header:
