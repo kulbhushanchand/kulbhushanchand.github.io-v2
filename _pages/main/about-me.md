@@ -18,7 +18,7 @@ header:
   
 💼 &nbsp; Previously worked as **Assistant Professor** and taught `Microcontroller and its applications`, `Digital Signal Processing`, `Probability and Stochastic Theory` and few other     
   
-⚙️ &nbsp; ❤️ doing hardware and software projects with aim to **solve some real world problem**. Most of the times I am using arduino and MATLAB. I am avid supporter of **Open Source Technologies** and used them for most of my projects. I have planned to open source my PhD work after completion. You can check projects page here (under construction)  
+⚙️ &nbsp; ❤️ doing electronics hardware and software projects. I am avid supporter of **Open Source Technologies** and used them for most of my projects. I have planned to open source my PhD work after completion. Visit [projects page](/projects/) to know more
 
 🎮 &nbsp; Also a gamification expert. Along with my research guide, we introduced **Gamification** subject in our institute and probably the ***first and only in India***. Also teaching assistant in `Gamification course`. 
   
