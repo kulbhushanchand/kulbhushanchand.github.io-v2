@@ -10,6 +10,8 @@ main:
     url: /projects/
   - title: "About Me"
     url: /about-me/
+  - title: "Support Me"
+    url: /support-me/    
   - title: "Area-51"
     url: /area-51/
 
