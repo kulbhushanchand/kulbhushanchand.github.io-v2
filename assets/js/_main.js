@@ -106,10 +106,13 @@ $(document).ready(function() {
 
 // bigfoot initialization
 	var bigfoot = $.bigfoot(
-		{
-		actionOriginalFN: "hide",
-		positionContent: "true"
-		}
+	//	{
+	//	actionOriginalFN: "hide",
+	//	positionContent: "true"
+	//	}
     );
+    
+  // SVG for Everybody init
+  svg4everybody();
 
 });

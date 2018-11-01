@@ -17,6 +17,12 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+
+
+
+## {{ "2018-11-01" | date: dateFormat }}
+- Added "Support Me" page on personal website
+
 ## {{ "2018-10-31" | date: dateFormat }}
 - Made project public - "arduino workshop for kids" and "ramayan hymns"
 

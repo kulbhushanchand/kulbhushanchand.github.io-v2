@@ -19,6 +19,10 @@ header:
 #  - mermaid
 #  - chartjs
 ---
+
+ <svg color="blue" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
+
+
 # [not visited](https://www.nitj.ac.in)
 
 # [visited](https://www.google.com)

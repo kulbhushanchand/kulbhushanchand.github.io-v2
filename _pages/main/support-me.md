@@ -18,16 +18,18 @@ However taking `time` out of my research work and `no source of funding` only sl
 
 ## Send a Donation
 
+If you'd like to send a donation my way to fuel my work --- hit the button below.  
+
 [PayPal Tip Me](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
  
-<i class="material-icons">face</i>
 
 ## Buy Something
 
 If you shop on [Amazon.in](https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=1050d8ec861cb7e48bca1b4b6f8d3e3f&language=en_IN), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous.
 
 [Shop Amazon](https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=1050d8ec861cb7e48bca1b4b6f8d3e3f&language=en_IN){: .btn .btn--warning}
-[My Amazon Wish List](https://www.amazon.in/hz/wishlist/ls/9FJ6RVEGKVOX){: .btn .btn--primary}
+&nbsp; &nbsp; &nbsp;
+[My Amazon Wish List](https://www.amazon.in/hz/wishlist/ls/9FJ6RVEGKVOX/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=356306d344d87a9b81db7257980798ea&language=en_IN){: .btn .btn--primary}
 
 
 ## Spread the Word
@@ -55,3 +57,4 @@ The main feed[^feed] for everything on this website.
 
 
 [^feed]: Right click any of the feed links found on this page and add to your feed reader of choice. My favorite is [feedly](https://feedly.com), which syncs your subscriptions across all browsers and mobile devices.
+
