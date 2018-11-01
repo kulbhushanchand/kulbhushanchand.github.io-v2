@@ -20,16 +20,16 @@ However taking `time` out of my research work and `no source of funding` only sl
 
 If you'd like to send a donation my way to fuel my work --- hit the button below.  
 
-[PayPal Tip Me](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
- 
+[<svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
+
 
 ## Buy Something
 
 If you shop on [Amazon.in](https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=1050d8ec861cb7e48bca1b4b6f8d3e3f&language=en_IN), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous.
 
-[Shop Amazon](https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=1050d8ec861cb7e48bca1b4b6f8d3e3f&language=en_IN){: .btn .btn--warning}
+[<svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon](https://www.amazon.in/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=1050d8ec861cb7e48bca1b4b6f8d3e3f&language=en_IN){: .btn .btn--amazon}
 &nbsp; &nbsp; &nbsp;
-[My Amazon Wish List](https://www.amazon.in/hz/wishlist/ls/9FJ6RVEGKVOX/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=356306d344d87a9b81db7257980798ea&language=en_IN){: .btn .btn--primary}
+[<svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List](https://www.amazon.in/hz/wishlist/ls/9FJ6RVEGKVOX/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=ylog0a-21&linkId=356306d344d87a9b81db7257980798ea&language=en_IN){: .btn .btn--amazon}
 
 
 ## Spread the Word

@@ -38,7 +38,7 @@
     "rimraf": "rimraf dist",
     "imageminsvgo": "node imagemin-svgo.js",
     "prebuildsprite": "npm run imageminsvgo",
-    "buildsprite": "svgstore -o assets/icons/icons.svg dist/svg/**/*.svg --inline",
+    "buildsprite": "svgstore -o assets/icons/icons.svg dist/svg/**/*.svg -p icon-",
     
     "start:js": "npm run build:js",
     "start:svg": "npm run rimraf && npm run buildsprite"

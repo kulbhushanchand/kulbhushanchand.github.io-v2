@@ -41,7 +41,9 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
-  (reddit, $reddit-color);
+  (reddit, $reddit-color),
+  (amazon, $amazon-color),
+  (paypal, $paypal-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -95,4 +97,27 @@
   &--small {
     font-size: $type-size-7;
   }
+
+
+  &--group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+
+    @include breakpoint($medium) {
+      flex-direction: row;
+    }
+
+    .btn {
+      margin-bottom: 0.25em;
+    }
+
+    .btn + .btn {
+      @include breakpoint($medium) {
+        margin-left: 0.25em;
+      }
+    }
+  }
+
+
 }

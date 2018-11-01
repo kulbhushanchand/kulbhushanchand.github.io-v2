@@ -22,10 +22,13 @@ header:
 
 ## {{ "2018-11-01" | date: dateFormat }}
 - Added "Support Me" page on personal website
+- Learned using npm script to create svg spritesheet for icon display and performance improvement
+- Added [svg4everybody](https://jonathantneal.github.io/svg4everybody/) for addressing svg icons from spritesheet without loading in the html code 
+- Completely removed fontawesome support for icons, due to added overhead of JS 
+- Removed magnific lightbox & instead implimented [lity lightbox](https://sorgalla.com/lity/)
 
 ## {{ "2018-10-31" | date: dateFormat }}
 - Made project public - "arduino workshop for kids" and "ramayan hymns"
-
 
 ## {{ "2018-10-30" | date: dateFormat }}
 - Optimized website performance

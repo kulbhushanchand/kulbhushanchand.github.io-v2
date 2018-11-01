@@ -20,8 +20,17 @@ header:
 #  - chartjs
 ---
 
- <svg color="blue" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
+ <svg width="60px" height="60px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
+<a href="https://farm9.staticflickr.com/8642/16455005578_0fdfc6c3da_b.jpg" data-lity data-lity-desc="Photo of a flower">Image</a>
+<a href="#inline" data-lity>Inline</a>
+<a href="//www.youtube.com/watch?v=XSGBVzeBUbk" data-lity>iFrame Youtube</a>
+<a href="//vimeo.com/1084537" data-lity>iFrame Vimeo</a>
+<a href="//maps.google.com/maps?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA" data-lity>Google Maps</a>
+
+<div id="inline" style="background:#fff" class="lity-hide">
+Inline content
+</div>
 
 # [not visited](https://www.nitj.ac.in)
 
