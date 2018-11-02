@@ -20,7 +20,9 @@ header:
 #  - chartjs
 ---
 
- <svg width="60px" height="60px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
+ <svg class="icon icon--facebook"  height="210" width="500" ><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
+
+
 
 <a href="https://farm9.staticflickr.com/8642/16455005578_0fdfc6c3da_b.jpg" data-lity data-lity-desc="Photo of a flower">Image</a>
 <a href="#inline" data-lity>Inline</a>

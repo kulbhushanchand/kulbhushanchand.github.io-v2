@@ -1,5 +1,5 @@
 ---
-title: <i class="fab fa-readme"></i> Post template
+title: Post template
 toc: true
 toc_sticky: true
 toc_label: #"Unique Title"
