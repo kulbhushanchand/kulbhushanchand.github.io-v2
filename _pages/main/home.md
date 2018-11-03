@@ -7,23 +7,21 @@ header:
 title: Hi... I am Kulbhushan Chand
 excerpt: 'This is my personal website and blog.
 <br>'
-feature_row1:
+feature_row:
   - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpg
     alt: "biofeedback trials"
     title: Biofeedback Trials
-    excerpt: "We are conducting **biofeedback trials** as a part of my PhD research. For this we require your participation and welcome anyone one from NIT Jalandhar to be a part of the research. We assure that it will be an **awesome learning experience** for you too. In case you want to be the participant or want to know about the trials, ***click below to know more...***"
+    excerpt: "We are conducting **biofeedback trials** and requires participation of anyone from NIT Jalandhar. ***know more...***"
     url: "/pages/trials/"
     btn_class: "btn--primary"
     btn_label: ⏱
-feature_row2:
   - image_path: /assets/images/pages/main/blog-small.jpg
     alt: "blog"
     title: Blog
-    excerpt: "In case you ~~are a spy~~ came with a purpose or landed on this website ~~mistakenly~~ out of curiosity, I recommend reading the articles in my blog..."
+    excerpt: "Currently empty, but posts related to electronics, projects and my personal learning experience are on the way."
     url: "/blog/"
     btn_class: "btn--success"
     btn_label: 🖋
-feature_row3:
   - image_path: /assets/images/pages/main/about-me-small.jpg
     alt: "about"
     title: About me
@@ -34,7 +32,7 @@ feature_row3:
 
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
