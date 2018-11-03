@@ -113,6 +113,8 @@ author:
   bio              : "You can follow me on some of the channels mentioned below -"
   location         : "India"
   email            :
+  twitter          : "https://twitter.com/ChandKulbhushan"  # for showing in footer
+  github           : "https://github.com/Kulbhushan-Chand"   # for showing in footer
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -176,7 +178,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "icon-github"
       url: "https://github.com/Kulbhushan-Chand"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"

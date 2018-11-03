@@ -327,6 +327,23 @@
      Navigation list
      ========================================================================== */
 
+.menu {
+    @include list-unstyled;
+    font-weight: 700;
+    
+    &--title {
+      font-family: $monospace;
+      font-size: 0.8em;
+      font-weight: 400;
+      margin-bottom: 1em;
+    }
+    
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+
 .nav__list {
   margin-bottom: 1.5em;
 

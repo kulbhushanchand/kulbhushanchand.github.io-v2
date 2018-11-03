@@ -1,3 +1,5 @@
+<!--
+
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -7,7 +9,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link.url }}"><svg class="icon"><use xlink:href="{{ link.icon | prepend: 'assets/icons/icons.svg#' | absolute_url }}"></use></svg> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
@@ -17,3 +19,42 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+-->
+<!--
+<footer id="footer" class="site-footer">
+  <ul class="menu">
+    <li><a href="{{ site.url }}/about/">About</a></li>
+    <li><a href="{{ site.url }}/faqs/">FAQs</a></li>
+    <li><a href="{{ site.url }}/contact/">Contact</a></li>
+    <li><a href="{{ site.url }}/support/">Support Me</a></li>
+    <li><a href="{{ site.url }}/terms/">Terms &amp; Policies</a></li>
+    <li><a href="{{ site.url }}/sitemap/">Sitemap</a></li>
+  </ul>
+  <p class="copyright">&#169; {{ site.time | date: '%Y' }} {{ site.author.name }}. <a href="{{ site.author.twitter }}" rel="me"><svg class="icon" width="15px" height="15px"><use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | absolute_url }}"></use></svg>&nbsp;Twitter</a> / <a href="{{ site.author.instagram }}" rel="me"><svg class="icon" width="15px" height="15px"><use xlink:href="{{ 'icons.svg#icon-instagram' | prepend: 'assets/icons/' | absolute_url }}"></use></svg>&nbsp;Instagram</a> / <a href="{{ site.author.github }}" rel="me"><svg class="icon" width="15px" height="15px"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | absolute_url }}"></use></svg>&nbsp;GitHub</a></p>
+</footer>
+-->
+
+<footer id="footer" class="site-footer">
+  <ul class="menu">
+    <li><a href="/about/">About</a></li>
+    <li><a href="/faqs/">FAQs</a></li>
+    <li><a href="/contact/">Contact</a></li>
+    <li><a href="/support/">Support Me</a></li>
+    <li><a href="/terms/">Terms &amp; Policies</a></li>
+    <li><a href="/sitemap/">Sitemap</a></li>
+  </ul>
+  <div class="copyright">
+    {% if site.copyright %}
+      {{ site.copyright | markdownify }}
+    {% else %}
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name}}.
+        {% if site.author.twitter %}
+          <a href="{{ site.author.twitter }}" rel="me"><svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Twitter</a>
+        {% endif %}
+        {% if site.author.github %}
+          <a href="{{ site.author.github }}" rel="me"> <svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg>GitHub</a>
+        {% endif %}
+      </p>
+    {% endif %}
+  </div>
+</footer>

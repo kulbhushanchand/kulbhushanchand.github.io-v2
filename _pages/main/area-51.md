@@ -24,6 +24,11 @@ header:
 
 <svg class="icon--facebook" width="100px" height="100px"> <use xlink:href="{{ 'icons.svg#icon-visualstudiocode' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
+<!-- Examples showing larger font sizes: -->
+<span style="font-size: 1em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
+<span style="font-size: 2em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
+<span style="font-size: 3em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
+<span style="color: darkred; font-size: 4em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 
 [<svg class="icon icon--youtube"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
 

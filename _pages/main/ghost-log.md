@@ -17,6 +17,9 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-03" | date: dateFormat }}
+- Footer renovated on personal website
+
 ## {{ "2018-11-02" | date: dateFormat }}
 - Learning scss
 
