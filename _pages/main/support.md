@@ -1,6 +1,6 @@
 ---
-permalink: /support-me/
-title: Support Me
+permalink: /support/
+title: Show Your Support
 excerpt: "If you like the projects and content I have created, here's how to show your thanks and motivate me to create more of it."
 last_modified_at: 2018-10-24T10:30:00+05:30
 toc: # true

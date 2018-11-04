@@ -8,10 +8,10 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
-  - title: "About Me"
-    url: /about-me/
+  - title: "About"
+    url: /about/
   - title: "Support Me"
-    url: /support-me/    
+    url: /support/    
   - title: "Area-51"
     url: /area-51/
 

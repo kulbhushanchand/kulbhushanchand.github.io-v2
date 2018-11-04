@@ -24,9 +24,9 @@ feature_row:
     btn_label: 🖋
   - image_path: /assets/images/pages/main/about-me-small.jpg
     alt: "about"
-    title: About me
+    title: About
     excerpt: "To know more about me, keep going... There are a lot of topics from different fields, we can discuss about or collaborate on projects." 
-    url: "/about-me/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: 😄
 

@@ -61,8 +61,7 @@ Mostly I have used free and opensource tools. I will try to regularly publish ar
 - Jekyll
 - GitHub
 - Cloudflare
-- Theme used - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
-
+- Theme used - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) by [Michael Rose](https://twitter.com/mmistakes) and some designs are used from his [personal website](https://mademistakes.com)
 
 
 ## Screenshots

@@ -20,6 +20,19 @@ header:
 #  - chartjs
 ---
 
+<style>
+  .hearts{
+    display: inline-block;
+    color: hotpink;
+
+    animation: beat .4s infinite alternate;
+     
+    transform-origin: center;
+  }
+  </style>
+
+<div class="hearts">❤</div>
+
 <svg class="icon icon--facebook"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
 <svg class="icon--facebook" width="100px" height="100px"> <use xlink:href="{{ 'icons.svg#icon-visualstudiocode' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 

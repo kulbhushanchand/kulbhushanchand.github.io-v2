@@ -19,6 +19,7 @@ header:
 
 ## {{ "2018-11-03" | date: dateFormat }}
 - Footer renovated on personal website
+- Working on contact page on personal website
 
 ## {{ "2018-11-02" | date: dateFormat }}
 - Learning scss
