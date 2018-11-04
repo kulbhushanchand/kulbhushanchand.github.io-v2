@@ -58,7 +58,7 @@ For anything else, use the contact form below.
   </div>
 
 
-<script> function correctCaptcha() {document.getElementById("saveForm").classList.remove("btn--disabled"); </script>
+<script> function correctCaptcha() {document.getElementById("saveForm").classList.remove("btn--disabled");} </script>
 
 <!--
   <script> 
