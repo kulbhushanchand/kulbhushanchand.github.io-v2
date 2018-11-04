@@ -60,11 +60,12 @@ For anything else, use the contact form below.
 
   <script> 
   $("form").each(function() {
-    $(this).find(':input[type="submit"]').prop('btn--disabled', true);
+    document.getElementById("saveForm").classList.add("btn--disabled");
     });
   function correctCaptcha() {
     $("form").each(function() {
-        $(this).find(':input[type="submit"]').prop('btn--disabled', false);
+       document.getElementById("saveForm").classList.remove("btn--disabled");
     });
 }
-<script>
+</script>
+
