@@ -20,7 +20,8 @@ header:
 ## {{ "2018-11-04" | date: dateFormat }}
 - Contact page wufoo integration successful
 - Failed attempt to create red colored * sign in placeholder text
-- Failed attempt to create floating label over form input box 
+- Failed attempt to create floating label on contact form
+- Implemented google-recaptcha to the contact form 
 
 ## {{ "2018-11-03" | date: dateFormat }}
 - Footer renovated on personal website

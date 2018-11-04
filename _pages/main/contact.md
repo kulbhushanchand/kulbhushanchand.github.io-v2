@@ -38,6 +38,9 @@ For anything else, use the contact form below.
   </div>
   <small id="instruction" class="instruct">* required fields</small>
 
+  <div class="form-group">
+   <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
+  </div>
 
   <div class="form-group">
     <button id="saveForm" name="saveForm" class="btn btn--primary btn--large btn--disabled" type="submit"> ✉ Send Message</button>
@@ -50,15 +53,14 @@ For anything else, use the contact form below.
 </form>
 
 
- {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
-
+{% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
  
-  <div class="form-group">
-   <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
-  </div>
+<script>
+ function correctCaptcha(){
+    document.getElementById("saveForm").classList.remove("btn--disabled");
+    } 
+</script>
 
-
-<script> function correctCaptcha() {document.getElementById("saveForm").classList.remove("btn--disabled");} </script>
 
 <!--
   <script> 
