@@ -17,6 +17,11 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-04" | date: dateFormat }}
+- Contact page wufoo integration successful
+- Failed attempt to create red colored * sign in placeholder text
+- Failed attempt to create floating label over form input box 
+
 ## {{ "2018-11-03" | date: dateFormat }}
 - Footer renovated on personal website
 - Working on contact page on personal website

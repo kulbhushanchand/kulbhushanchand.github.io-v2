@@ -9,9 +9,9 @@ share: false
 ---
 Have questions about me, this website, or my projects?
 
-Short and succinct messages [via Twitter](https://twitter.com/ChandKulbhushan) is the way to ask. You can also find me [elsewhere on the web](/support/#follow-me-on-social-media)
+I am not very active on social media. However short and succinct messages [via Twitter](https://twitter.com/ChandKulbhushan) is the way to ask. You can also find me [elsewhere on the web](/support/#follow-me-on-social-media)
 
-If you have a question, please read my [frequently asked questions section](/faqs/) first to make sure I haven't already answered it. For doubt or help related to my projects, it's best to submit an issue on the appropriate GitHub repo:
+If you have a question, please read my [frequently asked questions section](/faqs/) first ( maybe I've already answered it). For doubt or help related to my projects, it's best to submit an issue on the appropriate GitHub repo:
 
 - [Personal website](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
 - [Ramayan hymns](https://github.com/Kulbhushan-Chand/ramayan-hymns)
@@ -26,7 +26,7 @@ For anything else, use the contact form below.
     <input id="Field18" name="Field18" type="text" maxlength="255" placeholder="Name">
   </div>
   <div class="form-group">
-    <label class="" id="title2" for="Field13"><strong>Email address</strong><span id="req_2" class="req">*</span> <small>(will remain private)</small></label>
+    <label class="sr-only" id="title2" for="Field13"><strong>Email address</strong><span id="req_2" class="req">*</span> <small>(will remain private)</small></label>
     <input id="Field13" name="Field13" type="email" spellcheck="false" maxlength="255" required placeholder="Email address* (will remain private)">
   </div>
   <div class="form-group">
@@ -39,7 +39,7 @@ For anything else, use the contact form below.
   </div>
   <small id="instruction" class="instruct">* required fields</small>
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large" type="submit">Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large" type="submit"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -49,3 +49,5 @@ For anything else, use the contact form below.
 </form>
 
 
+
+ 
