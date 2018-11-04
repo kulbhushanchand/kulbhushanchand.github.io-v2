@@ -304,7 +304,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      comments: true
+      comments: false
  
 
 

@@ -3,8 +3,9 @@ permalink: /contact/
 title: "Contact"
 last_modified_at: 2018-11-03T12:42:42-05:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
-comments: false
+comments: true
 ---
+
 ---
 Have questions about me, this website, or my projects?
 
@@ -37,6 +38,8 @@ For anything else, use the contact form below.
     <textarea id="Field14" name="Field14" spellcheck="true" rows="10" cols="50" required placeholder="Message*"></textarea>
   </div>
   <small id="instruction" class="instruct">* required fields</small>
+
+
   <div class="form-group">
     <button id="saveForm" name="saveForm" class="btn btn--primary btn--large" type="submit"> ✉ Send Message</button>
   </div>
@@ -48,5 +51,20 @@ For anything else, use the contact form below.
 </form>
 
 
+ {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
 
  
+  <div class="form-group">
+   <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
+  </div>
+
+  <script> 
+  $("form").each(function() {
+    $(this).find(':input[type="submit"]').prop('btn--disabled', true);
+    });
+  function correctCaptcha() {
+    $("form").each(function() {
+        $(this).find(':input[type="submit"]').prop('btn--disabled', false);
+    });
+}
+<script>
