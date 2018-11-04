@@ -3,7 +3,6 @@ permalink: /contact/
 title: "Contact"
 last_modified_at: 2018-11-03T12:42:42-05:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
-comments: true
 ---
 
 ---
@@ -58,6 +57,10 @@ For anything else, use the contact form below.
    <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
   </div>
 
+
+<script> function correctCaptcha() {document.getElementById("saveForm").classList.remove("btn--disabled"); </script>
+
+<!--
   <script> 
   $("form").each(function() {
     document.getElementById("saveForm").classList.add("btn--disabled");
@@ -68,4 +71,4 @@ For anything else, use the contact form below.
     });
 }
 </script>
-
+-->
