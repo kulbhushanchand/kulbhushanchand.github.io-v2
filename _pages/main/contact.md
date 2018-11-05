@@ -42,7 +42,7 @@ enctype="multipart/form-data"
   <small id="instruction" class="instruct">* required fields</small>
 
 
-  <div id="kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha">
+  <div id = "kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha">
    
   </div>
   
@@ -58,13 +58,17 @@ enctype="multipart/form-data"
 </form>
 
 
+
 {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
  
 <script>
  function correctCaptcha(){
     document.getElementById("saveForm").classList.remove("btn--disabled");
+    document.getElementById("kbc").remove();
     } 
 </script>
+
+
 
 
 <!--
