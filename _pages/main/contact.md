@@ -64,7 +64,7 @@ enctype="multipart/form-data"
 <script>
  function correctCaptcha(){
     document.getElementById("saveForm").classList.remove("btn--disabled");
-    document.getElementById("kbc").classList.add("hidden");
+    document.getElementById("kbc").remove();
     } 
 </script>
 
