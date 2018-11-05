@@ -19,7 +19,7 @@ If you have a question, please read my [frequently asked questions section](/faq
 ---
 For anything else, use the contact form below.
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" method="post" novalidate action="https://www.hashemian.com/tools/form-post-tester.php/kbtest">
   <div class="form-group">
     <label class="sr-only" id="title7" for="Field18"><strong>Name</strong></label>
     <input id="Field18" name="Field18" type="text" maxlength="255" placeholder="Name">
@@ -38,10 +38,10 @@ For anything else, use the contact form below.
   </div>
   <small id="instruction" class="instruct">* required fields</small>
 
-  <div id="kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
+  <div class="form-group g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
    
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--danger btn--x-large btn--disabled" type="submit"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--x-large btn--disabled" type="submit"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -56,7 +56,7 @@ For anything else, use the contact form below.
  
 <script>
  function correctCaptcha(){
-    document.getElementById("g-recaptcha-response").classList.add("hidden");
+    document.getElementById("g-recaptcha-response").removeAttribute("name");
     document.getElementById("saveForm").classList.remove("btn--disabled");
     document.getElementById("saveForm").classList.remove("btn--danger");
     document.getElementById("saveForm").classList.add("btn--success");
@@ -68,15 +68,24 @@ For anything else, use the contact form below.
 
 1. Remove the attribute - enctype="multipart/form-data" then
 2. To test POST - https://www.hashemian.com/tools/form-post-tester.php/kbtest
-3. Useful time delay script
+3. Wufoo url - https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/
+4. Useful time delay script
 
 <script> 
 setTimeout(function(){
        document.getElementById("saveForm").classList.remove("btn--disabled");
-       document.getElementById("saveForm").classList.remove("btn--danger");
-       document.getElementById("saveForm").classList.add("btn--success");
-     }, 3000); 
+       }, 3000); 
 </script>
 
+5. Google recaptcha hack script backup 
+
+<script>
+ function correctCaptcha(){
+    document.getElementById("g-recaptcha-response").removeAttribute("name");
+    document.getElementById("saveForm").classList.remove("btn--disabled");
+    document.getElementById("saveForm").classList.remove("btn--danger");
+    document.getElementById("saveForm").classList.add("btn--success");
+   } 
+</script>
 
 -->
