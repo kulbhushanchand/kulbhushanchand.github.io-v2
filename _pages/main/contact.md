@@ -22,7 +22,7 @@ https://www.hashemian.com/tools/form-post-tester.php/kbtest
 https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/
 enctype="multipart/form-data"
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" method="post" novalidate action="https://www.hashemian.com/tools/form-post-tester.php/kbtest">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" method="post" novalidate action="https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/">
   <div class="form-group">
     <label class="sr-only" id="title7" for="Field18"><strong>Name</strong></label>
     <input id="Field18" name="Field18" type="text" maxlength="255" placeholder="Name">
