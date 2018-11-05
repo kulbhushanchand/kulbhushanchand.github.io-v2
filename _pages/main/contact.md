@@ -18,11 +18,8 @@ If you have a question, please read my [frequently asked questions section](/faq
 
 ---
 For anything else, use the contact form below.
-https://www.hashemian.com/tools/form-post-tester.php/kbtest
-https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/
-enctype="multipart/form-data"
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" method="post" novalidate action="https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/">
   <div class="form-group">
     <label class="sr-only" id="title7" for="Field18"><strong>Name</strong></label>
     <input id="Field18" name="Field18" type="text" maxlength="255" placeholder="Name">
@@ -41,14 +38,10 @@ enctype="multipart/form-data"
   </div>
   <small id="instruction" class="instruct">* required fields</small>
 
-
-  <div id="kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha">
+  <div id="kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
    
-  </div>
-  
- 
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large btn--disabled" type="submit"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--danger btn--x-large btn--disabled" type="submit"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -63,23 +56,27 @@ enctype="multipart/form-data"
  
 <script>
  function correctCaptcha(){
+    document.getElementById("g-recaptcha-response").classList.add("hidden");
     document.getElementById("saveForm").classList.remove("btn--disabled");
-    document.getElementById("g-recaptcha-response").removeAttribute("name");
-    } 
+    document.getElementById("saveForm").classList.remove("btn--danger");
+    document.getElementById("saveForm").classList.add("btn--success");
+   } 
 </script>
 
 
+<!-- For debugging of form
 
+1. Remove the attribute - enctype="multipart/form-data" then
+2. To test POST - https://www.hashemian.com/tools/form-post-tester.php/kbtest
+3. Useful time delay script
 
-<!--
-  <script> 
-  $("form").each(function() {
-    document.getElementById("saveForm").classList.add("btn--disabled");
-    });
-  function correctCaptcha() {
-    $("form").each(function() {
+<script> 
+setTimeout(function(){
        document.getElementById("saveForm").classList.remove("btn--disabled");
-    });
-}
+       document.getElementById("saveForm").classList.remove("btn--danger");
+       document.getElementById("saveForm").classList.add("btn--success");
+     }, 3000); 
 </script>
+
+
 -->
