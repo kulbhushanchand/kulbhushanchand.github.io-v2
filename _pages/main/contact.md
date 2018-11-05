@@ -61,14 +61,6 @@ For anything else, use the contact form below.
     } 
 </script>
 
-<script> 
-setTimeout(function(){
-       document.getElementById("g-recaptcha-response").removeAttribute("name");
-       document.getElementById("saveForm").classList.remove("btn--disabled");
-       }, 3000); 
-</script>
-
-
 
 <!-- For debugging of form
 
