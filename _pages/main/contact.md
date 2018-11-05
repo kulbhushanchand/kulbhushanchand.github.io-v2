@@ -18,8 +18,11 @@ If you have a question, please read my [frequently asked questions section](/faq
 
 ---
 For anything else, use the contact form below.
+https://www.hashemian.com/tools/form-post-tester.php/kbtest
+https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/
+enctype="multipart/form-data"
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://kulbhushanchand.wufoo.com/forms/z1t05z0i1wmglxe/">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" method="post" novalidate action="https://www.hashemian.com/tools/form-post-tester.php/kbtest">
   <div class="form-group">
     <label class="sr-only" id="title7" for="Field18"><strong>Name</strong></label>
     <input id="Field18" name="Field18" type="text" maxlength="255" placeholder="Name">
@@ -38,10 +41,14 @@ For anything else, use the contact form below.
   </div>
   <small id="instruction" class="instruct">* required fields</small>
 
-  <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
+
+  <div id="kbc" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha">
+   
+  </div>
+  
  
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large btn--disabled" type="submit"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large " type="submit"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
