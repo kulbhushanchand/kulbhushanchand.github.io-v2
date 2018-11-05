@@ -1,5 +1,5 @@
 ---
-permalink: /ghost-log/
+permalink: /log/
 title: Ghost Log
 excerpt: 'log of my small steps of learning...'  
 comments: false
@@ -17,11 +17,14 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-05" | date: dateFormat }}
+- Hours of debugging & finally made the recapcha working with wofoo service 👍
+
 ## {{ "2018-11-04" | date: dateFormat }}
 - Contact page wufoo integration successful
 - Failed attempt to create red colored * sign in placeholder text
 - Failed attempt to create floating label on contact form
-- Implemented google-recaptcha to the contact form 
+- Implemented google-recaptcha to the contact form (with a bug present)
 
 ## {{ "2018-11-03" | date: dateFormat }}
 - Footer renovated on personal website
