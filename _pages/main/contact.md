@@ -48,7 +48,7 @@ enctype="multipart/form-data"
   
  
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large " type="submit"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--large btn--disabled" type="submit"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
