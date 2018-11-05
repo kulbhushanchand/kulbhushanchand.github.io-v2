@@ -41,7 +41,7 @@ For anything else, use the contact form below.
   <div class="form-group g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
    
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--x-large btn--disabled" type="submit" onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--x-large btn--disabled" type="submit" onclick="this.disabled=true; this.form.submit();"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -71,7 +71,8 @@ For anything else, use the contact form below.
 
 <script> 
 setTimeout(function(){
-       document.getElementById("saveForm").classList.remove("btn--disabled");
+    document.getElementById("g-recaptcha-response").removeAttribute("name");
+    document.getElementById("saveForm").classList.remove("btn--disabled");
        }, 3000); 
 </script>
 
@@ -85,6 +86,6 @@ setTimeout(function(){
 </script>
 
 
-<button ... onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();">
+6. Buttom multiple submission solved by adding this attrib to button -  onclick="this.disabled=true; this.form.submit();">
 
 -->
