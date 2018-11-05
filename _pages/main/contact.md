@@ -41,7 +41,7 @@ For anything else, use the contact form below.
   <div class="form-group g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="correctCaptcha"></div>
    
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn btn--primary btn--x-large btn--disabled" type="submit"> ✉ Send Message</button>
+    <button id="saveForm" name="saveForm" class="btn btn--primary btn--x-large btn--disabled" type="submit" onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();"> ✉ Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
@@ -60,6 +60,14 @@ For anything else, use the contact form below.
     document.getElementById("saveForm").classList.remove("btn--disabled");
     } 
 </script>
+
+<script> 
+setTimeout(function(){
+       document.getElementById("g-recaptcha-response").removeAttribute("name");
+       document.getElementById("saveForm").classList.remove("btn--disabled");
+       }, 3000); 
+</script>
+
 
 
 <!-- For debugging of form
@@ -83,5 +91,8 @@ setTimeout(function(){
     document.getElementById("saveForm").classList.remove("btn--disabled");
     } 
 </script>
+
+
+<button ... onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();">
 
 -->
