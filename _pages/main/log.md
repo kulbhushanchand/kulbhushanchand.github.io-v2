@@ -18,7 +18,7 @@ header:
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-11-05" | date: dateFormat }}
-- Hours of debugging & finally made the recapcha working with wofoo service 👍
+- Hours of debugging & finally made the recapcha working with wufoo service 👍
 
 ## {{ "2018-11-04" | date: dateFormat }}
 - Contact page wufoo integration successful

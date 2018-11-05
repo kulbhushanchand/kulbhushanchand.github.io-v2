@@ -1,0 +1,77 @@
+curl -u "ZGOL-DG96-2F4L-CPQF":"kulbhushanchand" "https://kulbhushanchand.wufoo.com/api/v3/forms/z1t05z0i1wmglxe/fields.json"
+
+curl -X POST -d "Field18=kbcmd" -d "Field13=kulbhushan.chand@gmail.com" -d "Field19=online" -d "Field14=msg" -u "ZGOL-DG96-2F4L-CPQF":"footastic" "https://kulbhushanchand.wufoo.com/api/v3/forms/z1t05z0i1wmglxe/entries.json"
+
+curl -X POST -d "Field18=kb&Field13=kulbhushan.chand@gmail.com&Field19=online&Field14=msg&saveForm=&comment=&idstamp=xj10Oa6TbXDisydZEs+qvnkNObdbM0p8GKpBw2XyllY=" -u "ZGOL-DG96-2F4L-CPQF":"footastic" "https://kulbhushanchand.wufoo.com/api/v3/forms/z1t05z0i1wmglxe/entries.json"
+
+
+
+{
+    "Fields": [
+        {
+            "Title": "Entry Id",
+            "Type": "text",
+            "ID": "EntryId"
+        },
+        {
+            "Title": "Name",
+            "Instructions": "",
+            "IsRequired": "0",
+            "ClassNames": "",
+            "DefaultVal": "",
+            "Page": "1",
+            "Type": "text",
+            "ID": "Field18"
+        },
+        {
+            "Title": "Email address",
+            "Instructions": "",
+            "IsRequired": "1",
+            "ClassNames": "",
+            "DefaultVal": "",
+            "Page": "1",
+            "Type": "email",
+            "ID": "Field13"
+        },
+        {
+            "Title": "Message",
+            "Instructions": "",
+            "IsRequired": "1",
+            "ClassNames": "",
+            "DefaultVal": "",
+            "Page": "1",
+            "Type": "textarea",
+            "ID": "Field14"
+        },
+        {
+            "Title": "How'd you hear about my website?",
+            "Instructions": "",
+            "IsRequired": "0",
+            "ClassNames": "",
+            "DefaultVal": "",
+            "Page": "1",
+            "Type": "text",
+            "ID": "Field19"
+        },
+        {
+            "Title": "Date Created",
+            "Type": "date",
+            "ID": "DateCreated"
+        },
+        {
+            "Title": "Created By",
+            "Type": "text",
+            "ID": "CreatedBy"
+        },
+        {
+            "Title": "Last Updated",
+            "Type": "date",
+            "ID": "LastUpdated"
+        },
+        {
+            "Title": "Updated By",
+            "Type": "text",
+            "ID": "UpdatedBy"
+        }
+    ]
+}

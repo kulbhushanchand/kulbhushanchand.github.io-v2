@@ -58,9 +58,7 @@ For anything else, use the contact form below.
  function correctCaptcha(){
     document.getElementById("g-recaptcha-response").removeAttribute("name");
     document.getElementById("saveForm").classList.remove("btn--disabled");
-    document.getElementById("saveForm").classList.remove("btn--danger");
-    document.getElementById("saveForm").classList.add("btn--success");
-   } 
+    } 
 </script>
 
 
@@ -83,9 +81,7 @@ setTimeout(function(){
  function correctCaptcha(){
     document.getElementById("g-recaptcha-response").removeAttribute("name");
     document.getElementById("saveForm").classList.remove("btn--disabled");
-    document.getElementById("saveForm").classList.remove("btn--danger");
-    document.getElementById("saveForm").classList.add("btn--success");
-   } 
+    } 
 </script>
 
 -->
