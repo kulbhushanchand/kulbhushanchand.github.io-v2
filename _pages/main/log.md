@@ -17,6 +17,12 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-07" | date: dateFormat }}
+- NULL
+
+## {{ "2018-11-06" | date: dateFormat }}
+- NULL
+
 ## {{ "2018-11-05" | date: dateFormat }}
 - Hours of debugging & finally made the recapcha working with wufoo service 👍
 
