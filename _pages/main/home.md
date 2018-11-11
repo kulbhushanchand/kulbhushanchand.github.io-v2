@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/pages/main/home-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.4)
 title: Hi... I am Kulbhushan Chand
-excerpt: 'This is my personal website and blog.
+excerpt: 'just a few momentary pixels within an infinite internet.
 <br>'
 feature_row:
   - image_path: /assets/images/pages/misc/biofeedback-trials-small.jpg
