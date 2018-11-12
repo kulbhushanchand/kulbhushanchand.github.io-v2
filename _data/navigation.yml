@@ -8,12 +8,14 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
-  - title: "About"
-    url: /about/
   - title: "Support Me"
     url: /support/    
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/  
   - title: "Area-51"
-    url: /area-51/
+    url: /test/
 
   #- title: "Sitemap"
   #  url: /sitemap/

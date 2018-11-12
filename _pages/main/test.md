@@ -1,5 +1,5 @@
 ---
-permalink: /area-51/
+permalink: /test/
 title: Area-51
 excerpt: 👾 A rough page to test the code
 author_profile: false
