@@ -2,5 +2,5 @@
 layout: null
 ---
 User-agent: *
-Disallow:
+Disallow: /cdn-cgi/
 Sitemap: {{ site.url }}/sitemap.xml
