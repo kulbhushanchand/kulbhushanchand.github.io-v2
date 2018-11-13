@@ -1,5 +1,3 @@
----
----
 User-agent: *
 Disallow:
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://kulbhushan-chand.com//sitemap.xml
