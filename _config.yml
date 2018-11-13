@@ -57,8 +57,8 @@ staticman:
 reCaptcha:
   siteKey                : "6LfxC3AUAAAAAHtS4AnkcMm1WPqOY0wVzQBqMJBd"
   secret                 : "dPL2DG9v/k28wLgYPXYopf2TDwPHM/uYT05s9YE/RgadXbFrYrgW1KDPYligT4xEqvv4kELEg6Ak7B1SV9QRXhiyK/DfEVGwF2H0z6ouAKndUNm/wb6Kwtb/l6Lu1oZnpBAIosuVKVZ1E4YrdAM2dPv1tY1rVcPu8G/aY7U3yws="
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+feed:
+  path                   : "feed.xml" # blank (default) uses feed.xml
 search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
@@ -115,6 +115,7 @@ author:
   email            :
   twitter          : "https://twitter.com/ChandKulbhushan"  # for showing in footer
   github           : "https://github.com/Kulbhushan-Chand"   # for showing in footer
+  linkedin         : "https://www.linkedin.com/in/kulbhushan-chand"  # for showing in footer
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

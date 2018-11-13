@@ -20,18 +20,16 @@ header:
 #  - chartjs
 ---
 
-<style>
-  .hearts{
-    display: inline-block;
-    color: hotpink;
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn}
 
-    animation: beat .4s infinite alternate;
-     
-    transform-origin: center;
-  }
-  </style>
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
 
-<div class="hearts">❤</div>
+
+
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--light-outline}
+
+
+<span style="color: darkred; font-size: 4em;">❤</span>
 
 <svg class="icon icon--facebook"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
@@ -43,7 +41,7 @@ header:
 <span style="font-size: 3em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 <span style="color: darkred; font-size: 4em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 
-[<svg class="icon icon--youtube"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
+
 
 
 <a href="https://farm9.staticflickr.com/8642/16455005578_0fdfc6c3da_b.jpg" data-lity data-lity-desc="Photo of a flower">Image</a>

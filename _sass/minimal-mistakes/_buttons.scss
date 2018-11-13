@@ -8,25 +8,47 @@
 
 .btn {
   /* default */
+
+  background-color: $text-color;
+  border-radius: $border-radius;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
   display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
-  font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-family: $monospace;
+  font-size: 0.8em;
   font-weight: bold;
+  line-height: 1.5;
+  padding: 0.5em 1em;
   text-align: center;
   text-decoration: none;
-  border-width: 0;
-  border-radius: $border-radius;
-  cursor: pointer;
+  
+  //margin-bottom: 0.25em;
+
+  &:hover {
+    @include yiq-contrasted(mix(#fff, $text-color, 20%));
+    color: #fff;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #fff;
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
 
   .icon {
     margin-right: 0.5em;
   }
 
+
   .icon + .hidden {
     margin-left: -0.5em; /* override for hidden text*/
   }
+
+  
 
   /* button colors */
   $buttoncolors:
@@ -47,17 +69,19 @@
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
-      @include yiq-contrasted($color);
+     
+      @include yiq-contrasted($color);  // background-color is set by this mixin
       @if ($buttoncolor == inverse) {
         border: 1px solid $border-color;
+        background-color: #fff;
+        color: $text-color !important;
+
       }
       @if ($buttoncolor == light-outline) {
         border: 1px solid #fff;
+        background-color: transparent;        
       }
-      &:visited {
-        @include yiq-contrasted($color);
-      }
-
+     
       &:hover {
         @include yiq-contrasted(mix(#000, $color, 20%));
       }
@@ -76,11 +100,12 @@
 
   /* disabled */
   &--disabled {
-    pointer-events: none;
-    cursor: not-allowed;
-    filter: alpha(opacity=65);
     box-shadow: none;
+    cursor: not-allowed;
     opacity: 0.65;
+    pointer-events: none;
+    filter: alpha(opacity=65);
+    
   }
 
   /* extra large button */
