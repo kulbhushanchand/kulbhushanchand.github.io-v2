@@ -60,7 +60,7 @@ Inline content
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes upto commits-29-Oct-2018
+Theme updated from master branch of minimal-mistakes upto commits--06-Nov-2018
 
 test[^kb]
 

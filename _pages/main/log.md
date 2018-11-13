@@ -17,6 +17,9 @@ header:
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-13" | date: dateFormat }}
+
+
 ## {{ "2018-11-12" | date: dateFormat }}
 - buttons style updated on personal website
 
