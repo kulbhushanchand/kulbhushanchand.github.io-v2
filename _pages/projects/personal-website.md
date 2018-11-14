@@ -75,15 +75,22 @@ Mostly I have used free and opensource tools. I will try to regularly publish ar
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 An impressive score of 93 and 96 for mobile and desktop benchmarking respectively was obtained on Google PageSpeed Insight 
 
-<figure class="half">
-    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.jpg"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.jpg"></a>
-    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.jpg"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.jpg"></a>
+<figure class="">
+    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.png"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-mobile.png"></a>
+    <a href="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.png"><img src="/assets/images/pages/projects/personal-website/google-pagespeed-insights-desktop.png"></a>
     <figcaption>Google PageSpeed Insights mobile and desktop benchmarks.</figcaption>
 </figure>
        
+
 - [GTmetrix](https://gtmetrix.com/)
 Gtmetrix is another widely used website performance becnhmarking tool. The website loads under half second with 99% PageSpeed score.
 
-![Gtmetrix]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/gtmetrix.jpg){: .align-center}
+[![Gtmetrix]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/gtmetrix.jpg){: .align-center}](/assets/images/pages/projects/personal-website/gtmetrix.jpg)
+
+
+- Lighthouse audit
+Results from the Lighthouse in Chrome DevTools
+
+[![Lighthouse audit]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/lighthouse-audit.jpg "title" "caption"){: .align-center}](/assets/images/pages/projects/personal-website/lighthouse-audit.jpg)
 
 ---
