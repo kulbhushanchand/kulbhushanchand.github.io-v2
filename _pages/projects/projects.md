@@ -2,10 +2,8 @@
 permalink: /projects/
 title: Projects
 excerpt: Some of the projects I have worked on and/or currently working
-comments: false
 last_modified_at: 2018-10-23T10:00:00+05:30
 classes: wide
-author_profile: false
 layout: #splash
 entries_layout: grid
 header:
@@ -35,7 +33,6 @@ feature_row3:
     url: "/projects/arduino-workshop-for-kids"
     btn_class: "btn--primary"
     btn_label: 🔌 
-
 ---
 
 {% include feature_row id="feature_row1" type="left" %}

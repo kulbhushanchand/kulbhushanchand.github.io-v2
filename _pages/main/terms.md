@@ -6,7 +6,7 @@ excerpt: "terms & conditions, privacy policy, license, and other legal stuff you
 toc: false
 classes: wide
 header:
-  overlay_image: /assets/images/pages/main/terms.jpg
+  overlay_image: /assets/images/pages/main/terms-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
