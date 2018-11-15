@@ -8,23 +8,26 @@ author_profile: false
 comments: false
 last_modified_at: # 2018-09-01T10:00:04+05:30
 toc: false
-header:
-  overlay_image: /assets/images/pages/main/unsplash-image-1.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+#header:
+#  overlay_image: /assets/images/pages/main/unsplash-image-1.jpg
+#  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
 
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-15" | date: dateFormat }}
+- Added support notice to end of posts & theme improvements on personal website
+
 ## {{ "2018-11-14" | date: dateFormat }}
-- faqs added on personal website
+- Faqs added on personal website
 
 ## {{ "2018-11-13" | date: dateFormat }}
-- terms and policies updated on personal website
+- Terms and policies updated on personal website
 
 ## {{ "2018-11-12" | date: dateFormat }}
-- buttons style updated on personal website
+- Buttons style updated on personal website
 
 ## {{ "2018-11-11" | date: dateFormat }}
 - NULL

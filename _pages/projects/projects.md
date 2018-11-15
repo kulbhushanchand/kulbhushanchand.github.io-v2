@@ -4,11 +4,9 @@ title: Projects
 excerpt: Some of the projects I have worked on and/or currently working
 last_modified_at: 2018-10-23T10:00:00+05:30
 classes: wide
-layout: #splash
-entries_layout: grid
-header:
-  overlay_image: /assets/images/pages/main/projects-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.6)
+#header:
+#  overlay_image: /assets/images/pages/main/projects-header.jpg
+#  overlay_filter: rgba(0, 0, 0, 0.6)
 feature_row1:
   - image_path: /assets/images/pages/projects/personal-website/personal-website-small.jpg
     alt: "personal website"
@@ -34,6 +32,7 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: 🔌 
 ---
+
 
 {% include feature_row id="feature_row1" type="left" %}
 

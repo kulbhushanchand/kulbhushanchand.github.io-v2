@@ -5,9 +5,9 @@ excerpt: 👾 A rough page to test the code
 author_profile: false
 last_modified_at: 2018-10-23T04:15:00+05:30
 classes: wide
-header:
-  overlay_image: /assets/images/pages/main/area-51-header.jpg
-  overlay_filter: rgba(0, 37, 0, 0.7)
+#header:
+#  overlay_image: /assets/images/pages/main/area-51-header.jpg
+#  overlay_filter: rgba(0, 37, 0, 0.7)
 
 #published: true
 #ext-lib:
@@ -26,7 +26,7 @@ header:
 
 
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--light-outline}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--primary}
 
 
 <span style="color: darkred; font-size: 4em;">❤</span>

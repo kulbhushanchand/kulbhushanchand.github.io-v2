@@ -7,9 +7,9 @@ toc: # true
 classes: wide
 author_profile: true
 comments: false
-header:
- overlay_image: /assets/images/pages/main/about-me-header.jpg
- overlay_filter: rgba(0, 0, 0, 0.5)
+#header:
+# overlay_image: /assets/images/pages/main/about-me-header.jpg
+# overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
 ## Brief profile

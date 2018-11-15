@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "air" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Kulbhushan Chand"
 title_separator          : "-"
 name                     : &name "Kulbhushan Chand"
 description              : &description "just a few momentary pixels within an infinite internet."
@@ -303,9 +303,11 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive
       author_profile: false
       comments: false
+      share: false
+      
  
 
 

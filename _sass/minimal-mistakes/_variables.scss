@@ -62,11 +62,11 @@ $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #1c76d6 !default; 
-$success-color: #1a882e !default; 
-$warning-color: #92710c !default;
-$danger-color: #b11313 !default;
-$info-color: #1c7cd6 !default; 
+$primary-color: #007bff !default; 
+$success-color: #28a745 !default; 
+$warning-color: #ffc107 !default;
+$danger-color: #dc3545 !default;
+$info-color: #17a2b8 !default; 
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -139,13 +139,16 @@ $youtube-color: #FF0000 !default;
 
 
 
+
+
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
+$link-color: #165b83 !default; // #C0392B;
+//$link-color: mix(#000, $info-color, 15%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
-$masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$link-color-visited: mix(#fff, $link-color, 10%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
