@@ -44,16 +44,18 @@ layout: default
         {% endif %}
 
         {% if page.project-link %}
-         {% include project-links.html %}
+         {% include_cached project-links.html %}
+        {% endif %}
+
+        {% if page.support == true %}
+         {% include_cached support-project.html %}
         {% endif %}
 
         {{ content }}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       
-        {% if page.support == true %}
-         {% include support-project.html %}
-        {% endif %}
+
 
       </section>
 

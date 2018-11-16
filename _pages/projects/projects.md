@@ -34,7 +34,7 @@ feature_row3:
     btn_label: 🔌 
 ---
 
-These are some of the projects I have made. These are OpenSource and available on GitHub. Hope you'll find them useful.
+These are some of the projects I have made. These are free, open source and available on GitHub. Hope you'll find them useful.
 
 ---
 {% include feature_row id="feature_row1" type="left" %}
