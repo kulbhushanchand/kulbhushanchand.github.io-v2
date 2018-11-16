@@ -14,8 +14,8 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/  
-  - title: "Area-51"
-    url: /test/
+#- title: "Area-51"
+#  url: /test/
 
   #- title: "Sitemap"
   #  url: /sitemap/

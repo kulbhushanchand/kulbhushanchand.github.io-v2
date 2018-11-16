@@ -307,6 +307,17 @@ defaults:
       author_profile: false
       comments: false
       share: false
+
+  # projects
+  - scope:
+      path: "_pages/projects"
+      type: pages
+    values:
+      layout: project
+      author_profile: false
+      comments: false
+      share: false
+      support: true
       
  
 

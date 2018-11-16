@@ -52,12 +52,15 @@
 
   /* button colors */
   $buttoncolors:
+  (apple, $apple-color),
+  (android, $android-color),
   (primary, $primary-color),
   (inverse, #fff),
   (light-outline, transparent),
   (success, $success-color),
   (warning, $warning-color),
   (danger, $danger-color),
+  (github, $github-color),
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
