@@ -40,39 +40,32 @@
     <li><a href="/faqs/">FAQs</a></li>
     <li><a href="/terms/">Terms &amp; Policies</a></li>
     <li><a href="/sitemap/">Sitemap</a></li>
-    {% if site.author.twitter %}
-      <li><a href="{{ site.author.twitter }}" rel="me">
-        <svg class="icon" width="16px" height="16px">
-          <use xlink:href="{{ 'icons.svg#icon-twitter' | prepend: 'assets/icons/' | relative_url }}"></use>
-        </svg>
-        <span class="visually-hidden">Twitter</span>
-      </a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="{{ site.author.github }}" rel="me">
-        <svg class="icon" width="16px" height="16px">
-          <use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use>
-        </svg>
-        <span class="visually-hidden">GitHub</span>
-      </a></li>
-    {% endif %}
-    {% if site.author.linkedin %}
-    <li><a href="{{ site.author.linkedin }}" rel="me">
-      <svg class="icon" width="16px" height="16px">
-        <use xlink:href="{{ 'icons.svg#icon-linkedin' | prepend: 'assets/icons/' | relative_url }}"></use>
-      </svg>
-      <span class="visually-hidden">GitHub</span>
-    </a></li>
+   
+    {% if site.footer.links %}
+     {% for link in site.footer.links %}
+      {% if link.label and link.url %}
+       <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+         <svg class="icon">
+           <use xlink:href="{{ 'icons.svg#icon-' | prepend: 'assets/icons/' | relative_url }}{{ link.icon }}">
+           </use>
+         </svg>
+         <span class="visually-hidden">{{ link.label }}</span>
+         </a></li>
+     {% endif %}
+    {% endfor %}
+   {% endif %}
+
+  {% if site.feed.path %}
+   <li><a href="{{ site.url }}/{{ site.feed.path }}" title="Atom Feed">
+    <svg class="icon" width="16px" height="16px">
+     <use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use>
+    </svg>
+    <span class="visually-hidden">Feed</span>
+   </a></li>
   {% endif %}
-    {% if site.feed.path %}
-    <li><a href="{{ site.url }}/{{ site.feed.path }}" title="Atom Feed">
-      <svg class="icon" width="16px" height="16px">
-        <use xlink:href="{{ 'icons.svg#icon-rss' | prepend: 'assets/icons/' | relative_url }}"></use>
-      </svg>
-      <span class="visually-hidden">Feed</span>
-    </a></li>
-  {% endif %}
+
   </ul>
+
   <div class="copyright">
     {% if site.copyright %}
       {{ site.copyright | markdownify }}

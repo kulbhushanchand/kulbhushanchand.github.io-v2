@@ -40,7 +40,7 @@ If you're really interested in the specifics of how the site is built I've made 
 - Site hosting and deployment via [**GitHub**][github].
 - Domain name registered with [**Google Domains**][google-domains].
 - CDN[^cdn] and SSL certificate provided via [**Cloudflare**][cloudflare]
-- Icons from [**Simple Icons**][simple-icons], [**SimpleIcon**][simpleicon] and [**Noun Project**][nounproject].
+- Icons from [**Simple Icons**][simple-icons], [**Iconmonstr**][iconmonstr].
 
 [^ide]: Interactive development Environment
 [^files]: HTML, CSS, and JavaScript files along with images and other assets needed to render a web page.
@@ -49,9 +49,8 @@ If you're really interested in the specifics of how the site is built I've made 
 [github]: https://www.github.com/
 [cloudflare]: https://www.cloudflare.com
 [google-domains]: https://domains.google
-[simpleicon]: http://www.flaticon.com
 [simple-icons]: https://simpleicons.org/
-[nounproject]: https://thenounproject.com
+[iconmonstr]: https://iconmonstr.com
 [jemoji]: https://github.com/jekyll/jemoji
 [seo]: https://github.com/jekyll/jekyll-seo-tag
 [bigfoot]: http://www.bigfootjs.com/

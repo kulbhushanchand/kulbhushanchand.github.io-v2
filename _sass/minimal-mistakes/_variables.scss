@@ -74,6 +74,9 @@ $yiq-contrasted-light-default: #fff !default;
 $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
 
+
+
+
 /* brands */
 $amazon-color: #FF9900 !default;
 $apple-color: #999999 !default;
@@ -137,6 +140,30 @@ $xbox-color: #107C10 !default;
 $youtube-color: #FF0000 !default;
 
 
+$colors-var: 
+ (primary, $primary-color),
+ (success, $success-color),
+ (warning, $warning-color),
+ (danger, $danger-color),
+ (info, $info-color),
+ (inverse, #fff),
+ (light-outline, transparent),
+
+ (email, #000),
+ (apple, $apple-color),
+ (android, $android-color),
+ (amazon, $amazon-color),
+ (facebook, $facebook-color),
+ (flickr, $flickr-color),
+ (github, $github-color),
+ (googleplus, $googleplus-color),
+ (instagram, $instagram-color),
+ (rss, $rss-color),
+ (twitter, $twitter-color),
+ (youtube, $youtube-color),
+ (paypal, $paypal-color),
+ (linkedin, $linkedin-color),
+ (reddit, $reddit-color);
 
 
 

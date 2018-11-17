@@ -16,19 +16,9 @@
       animation: spin 2s infinite linear;
     }
   
-    $iconcolors: (
-       (email, #000),
-       (facebook, $facebook-color),
-       (flickr, $flickr-color),
-       (github, $github-color),
-       (googleplus, $googleplus-color),
-       (instagram, $instagram-color),
-       (rss, $rss-color),
-       (twitter, $twitter-color),
-       (youtube, $youtube-color)
-    );
+   /* icon colors - derived from _variables.scss*/       
   
-    @each $iconcolor, $color in $iconcolors {
+    @each $iconcolor, $color in $colors-var {
       &--#{$iconcolor} {
         fill: $color;
       }

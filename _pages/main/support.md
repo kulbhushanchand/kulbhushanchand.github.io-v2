@@ -20,16 +20,16 @@ However taking `time` out of my research work and `no source of funding` only sl
 
 If you'd like to send a donation my way to fuel my work --- hit the button below.  
 
-[<svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
+[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
 
 
 ## Buy Something
 
 If you shop on [Amazon.in](https://amzn.to/2ONlHAO), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous.
 
-[<svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon](https://amzn.to/2ONlHAO){: .btn .btn--amazon}
+[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon](https://amzn.to/2ONlHAO){: .btn .btn--amazon}
 &nbsp; &nbsp; &nbsp;
-[<svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List](https://amzn.to/2QFTQEw){: .btn .btn--amazon}
+[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List](https://amzn.to/2QFTQEw){: .btn .btn--amazon}
 
 
 ## Spread the Word

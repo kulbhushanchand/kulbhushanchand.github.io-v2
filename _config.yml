@@ -95,7 +95,7 @@ social:
     - "https://plus.google.com/+KulbhushanChand"
     - "https://www.linkedin.com/in/kulbhushan-chand"
     - "https://github.com/Kulbhushan-Chand"
-    - "https://www.youtube.com/user/erkulbhushan"
+    - "https://www.youtube.com/c/KulbhushanChand"
 
 
 # Analytics
@@ -112,84 +112,79 @@ author:
   avatar           : "/assets/images/pages/main/site-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "You can follow me on some of the channels mentioned below -"
   location         : "India"
-  email            :
-  twitter          : "https://twitter.com/ChandKulbhushan"  # for showing in footer
-  github           : "https://github.com/Kulbhushan-Chand"   # for showing in footer
-  linkedin         : "https://www.linkedin.com/in/kulbhushan-chand"  # for showing in footer
+ 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: # mailto:your.name@email.com
+      icon: "email"
+      url:  #mailto:your.name@email.com
 
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: # "http://kulbhushan-chand.github.io/"
+      icon: "website"
+      url:  #"http://kulbhushan-chand.github.io/"
 
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "github"
       url: "https://github.com/Kulbhushan-Chand"
 
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "linkedin"
       url: "https://www.linkedin.com/in/kulbhushan-chand"
 
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "twitter"
       url: "https://twitter.com/ChandKulbhushan"
 
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "facebook"
       url: "https://facebook.com/kulbhushan.chand.007"
 
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "instagram"
       url: # "https://instagram.com/"  
 
     - label: "Google+"
-      icon: "fab fa-fw fa-google-plus-square"
+      icon: "googleplus"
       url: # "https://plus.google.com/+KulbhushanChand"
 
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/user/erkulbhushan"  
+      icon: "youtube"
+      url: "https://www.youtube.com/c/KulbhushanChand"  
 
     - label: "Quora"
-      icon: "fab fa-fw fa-quora"
-      url: # "https://www.quora.com/profile/Kulbhushan-Chand"
+      icon: "quora"
+      url: "https://www.quora.com/profile/Kulbhushan-Chand"
 
     - label: "Reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: # "https://www.reddit.com/user/KulbhushanChand"
+      icon: "reddit"
+      url: "https://www.reddit.com/user/KulbhushanChand"
 
     - label: "ORCID"
-      icon: "orcid-icon-temp fas fa-fw fa-id-badge"
-      url: # "https://orcid.org/0000-0001-6502-0748"  
+      icon: "orcid"
+      url: "https://orcid.org/0000-0001-6502-0748"  
 
     - label: "OSF"
-      icon: "osf-icon-temp fas fa-fw fa-snowflake"
+      icon: "osf"
       url: # "https://osf.io/wxqdj"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+      icon: "twitter"
+      url: "https://twitter.com/ChandKulbhushan"
+
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "facebook"
       # url:
+
     - label: "GitHub"
-      icon: "icon-github"
+      icon: "github"
       url: "https://github.com/Kulbhushan-Chand"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
+    - label: "LinkedIn"
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/kulbhushan-chand"
+
 
 
 # Reading Files
