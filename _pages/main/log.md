@@ -17,6 +17,12 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-17" | date: dateFormat }}
+
+
+## {{ "2018-11-16" | date: dateFormat }}
+- Creted includes for support notice on personal website
+
 ## {{ "2018-11-15" | date: dateFormat }}
 - Added support notice to end of posts & theme improvements on personal website
 
