@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-18" | date: dateFormat }}
+- NULL
+
 ## {{ "2018-11-17" | date: dateFormat }}
 - Downloaded icons, scss colors for icons and buttons on personal website
 
