@@ -21,6 +21,10 @@ toc: false
 - NULL
 
 ## {{ "2018-11-17" | date: dateFormat }}
+- Updated support page buttons on personal website
+- Learning YouTube monetization
+
+## {{ "2018-11-17" | date: dateFormat }}
 - Downloaded icons, scss colors for icons and buttons on personal website
 
 ## {{ "2018-11-16" | date: dateFormat }}

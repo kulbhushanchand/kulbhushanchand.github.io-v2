@@ -16,20 +16,36 @@ Presently I am a student and ❤️ to create open-source projects and wish to k
 
 However taking `time` out of my research work and `no source of funding` only slows me down. So, I'm reaching out to you for support. If you are using and found any of my content useful here's how to show your thanks and motivate me to create more.
 
+
 ## Send a Donation
 
 If you'd like to send a donation my way to fuel my work --- hit the button below.  
 
-[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money](https://www.paypal.me/KulbhushanChand){: .btn .btn--success}
+<div markdown="0" class="btn--group">
+  <a href="https://www.paypal.me/KulbhushanChand" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" class="btn">
+    <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Send PayPal Money
+  </a>
+</div>
 
 
 ## Buy Something
 
-If you shop on [Amazon.in](https://amzn.to/2ONlHAO), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous.
+If you shop on [Amazon.in](https://amzn.to/2QTINra) or [Amazon.com](https://amzn.to/2DKtT3E), using my referral link below will earn me a small commission if you end up buying something. I also maintain an Amazon Wish List if you are feeling extra generous.
 
-[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon](https://amzn.to/2ONlHAO){: .btn .btn--amazon}
-&nbsp; &nbsp; &nbsp;
-[<svg class="icon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon Wish List](https://amzn.to/2QFTQEw){: .btn .btn--amazon}
+<div markdown="0" class="btn--group">
+  <a href="https://amzn.to/2QTINra" onclick="ga('send', 'event', 'link', 'click', 'Shop Amazon');" class="btn">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon India
+  </a>
+  <a href="https://amzn.to/2OQ9M5o" onclick="ga('send', 'event', 'link', 'click', 'Amazon Wish List');" class="btn">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon India Wish List
+  </a>
+  <a href="https://amzn.to/2DKtT3E" onclick="ga('send', 'event', 'link', 'click', 'Shop Amazon');" class="btn">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> Shop Amazon US
+  </a>
+  <a href="https://amzn.to/2DKtT3E" onclick="ga('send', 'event', 'link', 'click', 'Amazon Wish List');" class="btn">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg> My Amazon US Wish List
+  </a>
+</div>
 
 
 ## Spread the Word
