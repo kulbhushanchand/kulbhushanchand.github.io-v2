@@ -52,7 +52,7 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <li><a href="{{ link.url }}">
+            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">
               <svg class="icon icon--{{ link.icon }}"><use xlink:href="{{ 'icons.svg#icon-' | prepend: 'assets/icons/' | relative_url }}{{ link.icon }}"></use></svg>
                {{ link.label }}
               </a></li>

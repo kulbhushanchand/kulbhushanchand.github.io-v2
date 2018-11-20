@@ -17,8 +17,11 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-21" | date: dateFormat }}
+
+
 ## {{ "2018-11-20" | date: dateFormat }}
-- Updated style on personal website
+- Updated style and breadcrumbs-logic on personal website
 
 ## {{ "2018-11-19" | date: dateFormat }}
 - Updated support page buttons on personal website

@@ -1,5 +1,6 @@
 ---
 title: test post
+excerpt: this is exc
 toc: false
 classes: #wide
 toc_sticky: true
