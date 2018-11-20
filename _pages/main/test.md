@@ -21,9 +21,7 @@ classes: wide
 ---
 
 
-
-
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}){: .btn}
 
 [<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
 
