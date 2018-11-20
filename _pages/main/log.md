@@ -17,12 +17,15 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-## {{ "2018-11-18" | date: dateFormat }}
-- NULL
+## {{ "2018-11-20" | date: dateFormat }}
+- Updated style on personal website
 
-## {{ "2018-11-17" | date: dateFormat }}
+## {{ "2018-11-19" | date: dateFormat }}
 - Updated support page buttons on personal website
 - Learning YouTube monetization
+
+## {{ "2018-11-18" | date: dateFormat }}
+- NULL
 
 ## {{ "2018-11-17" | date: dateFormat }}
 - Downloaded icons, scss colors for icons and buttons on personal website

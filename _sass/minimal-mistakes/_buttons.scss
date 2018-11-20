@@ -22,7 +22,7 @@
   padding: 0.5em 1em;
   text-align: center;
   text-decoration: none;
-  //margin-bottom: 0.25em;
+  margin-bottom: 0.25em;
 
   &:hover {
     @include yiq-contrasted(mix(#fff, $text-color, 20%));
@@ -39,7 +39,7 @@
   }
 
   .icon {
-    margin-right: 0.5em;
+//    margin-right: 0.5em;   // Disabled to make icon centered on button on mobile screen
   }
 
 
