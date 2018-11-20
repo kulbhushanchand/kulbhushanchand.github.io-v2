@@ -255,7 +255,8 @@ collections:
 #    permalink: /blog/:categories/:title/
 
 
-# Front Matter Defaults
+# Front Matter Defaults 
+# - support is only available in these layouts - single and  project
 defaults:
   # _posts
   - scope:
@@ -268,6 +269,8 @@ defaults:
       comments: true
       share: true
       related: true
+      support: true
+      breadcrumbs: true
 
 # articles
   - scope:
@@ -276,6 +279,10 @@ defaults:
       permalink: # /blog/articles/:title/
       categories:
         - articles
+      support: true
+      breadcrumbs: 
+        - label: "Blog articles"
+          url: /articles/
   
     # deltaX
   - scope:
@@ -284,6 +291,8 @@ defaults:
       permalink: # /blog/deltaX/:title/
       categories:
         - deltaX
+      support: true
+      breadcrumbs: true
 
     # tutorials
   - scope:
@@ -292,6 +301,8 @@ defaults:
       permalink: # /blog/tutorials/:title/
       categories:
         - tutorials
+      support: true
+      breadcrumbs: true
   
   # _pages
   - scope:
@@ -302,6 +313,7 @@ defaults:
       author_profile: false
       comments: false
       share: false
+      breadcrumbs: false
 
   # projects
   - scope:
@@ -313,8 +325,18 @@ defaults:
       comments: false
       share: false
       support: true
+      breadcrumbs: true
       
- 
+  # faqs
+  - scope:
+      path: "_pages/faqs"
+      type: pages
+    values:
+      layout: archive
+      author_profile: false
+      comments: false
+      share: false
+      breadcrumbs: true 
 
 
 

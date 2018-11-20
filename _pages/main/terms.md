@@ -5,9 +5,9 @@ last_modified_at: 2018-11-14T10:30:45+05:30
 excerpt: "terms & conditions, privacy policy, license, and other legal stuff you won't read."
 toc: false
 classes: wide
-header:
-  overlay_image: /assets/images/pages/main/terms-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.6)
+#header:
+#  overlay_image: /assets/images/pages/main/terms-header.jpg
+#  overlay_filter: rgba(0, 0, 0, 0.6)
 ---
 
 This is my personal website. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
