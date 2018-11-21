@@ -18,10 +18,11 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-11-21" | date: dateFormat }}
-
+- Added punjabi translation of ui-text [PR to minimal-mistaked repo](https://github.com/mmistakes/minimal-mistakes/pull/1962)
 
 ## {{ "2018-11-20" | date: dateFormat }}
 - Updated style and breadcrumbs-logic on personal website
+- Added rel attribute to authors-profile.html [PR to minimal-mistaked repo](https://github.com/mmistakes/minimal-mistakes/pull/1959)
 
 ## {{ "2018-11-19" | date: dateFormat }}
 - Updated support page buttons on personal website

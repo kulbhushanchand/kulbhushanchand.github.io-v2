@@ -270,7 +270,10 @@ defaults:
       share: true
       related: true
       support: true
-      breadcrumbs: true
+      breadcrumbs:
+        - label: "Blog"
+          url: /blog/
+
 
 # articles
   - scope:
@@ -279,9 +282,9 @@ defaults:
       permalink: # /blog/articles/:title/
       categories:
         - articles
-      support: true
-      breadcrumbs: true
-  
+
+
+
     # deltaX
   - scope:
       path: "_posts/deltaX"
@@ -289,8 +292,7 @@ defaults:
       permalink: # /blog/deltaX/:title/
       categories:
         - deltaX
-      support: true
-      breadcrumbs: true
+       
 
     # tutorials
   - scope:
@@ -299,8 +301,7 @@ defaults:
       permalink: # /blog/tutorials/:title/
       categories:
         - tutorials
-      support: true
-      breadcrumbs: true
+        
   
   # _pages
   - scope:
@@ -311,7 +312,8 @@ defaults:
       author_profile: false
       comments: false
       share: false
-      breadcrumbs: false
+      breadcrumbs:
+     
 
   # projects
   - scope:
@@ -323,7 +325,9 @@ defaults:
       comments: false
       share: false
       support: true
-      breadcrumbs: true
+      breadcrumbs: 
+        - label: "Projects"
+          url: /projects/
       
   # faqs
   - scope:
@@ -334,7 +338,9 @@ defaults:
       author_profile: false
       comments: false
       share: false
-      breadcrumbs: true 
+      breadcrumbs:  
+        - label: "Frequently asked questions"
+          url: /faqs/
 
 
 
