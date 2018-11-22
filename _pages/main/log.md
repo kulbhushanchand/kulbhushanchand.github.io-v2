@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-22" | date: dateFormat }}
+
+
 ## {{ "2018-11-21" | date: dateFormat }}
 - Added punjabi translation of ui-text [PR to minimal-mistaked repo](https://github.com/mmistakes/minimal-mistakes/pull/1962)
 
