@@ -118,11 +118,11 @@ author:
   links:
     - label: "Email"
       icon: "email"
-      url:  #mailto:your.name@email.com
+      url: #mailto:your.name@email.com
 
     - label: "Website"
-      icon: "website"
-      url:  #"http://kulbhushan-chand.github.io/"
+      icon: "link"
+      url: #"https://kulbhushan-chand.com"
 
     - label: "GitHub"
       icon: "github"
@@ -314,6 +314,7 @@ defaults:
       author_profile: false
       comments: false
       share: false
+      list: false
       breadcrumbs:
      
 

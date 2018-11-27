@@ -10,6 +10,7 @@ layout: single
 classes: wide
 comments: false
 published: true
+list: true
 last_modified_at: 2018-09-07T04:15:00+05:30
 toc: # true
 toc_label: #"Table of Contents"

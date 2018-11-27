@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-27" | date: dateFormat }}
+- Updated icons, npm script (security issue) on personal website
+
 ## {{ "2018-11-26" | date: dateFormat }}
 - Updated theme on personal website
 
