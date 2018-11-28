@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-28" | date: dateFormat }}
+- Learning using Google APIs
+
 ## {{ "2018-11-27" | date: dateFormat }}
 - Updated icons, npm script (security issue) on personal website
 
