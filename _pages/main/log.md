@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-11-29" | date: dateFormat }}
+- NULL
+
 ## {{ "2018-11-28" | date: dateFormat }}
 - Learning using Google APIs
 
