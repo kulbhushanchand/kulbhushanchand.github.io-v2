@@ -64,6 +64,7 @@ I am an introvert and barely posts on social media. But now this website gives m
 The main feed[^feed] for everything on this website.
 
 - RSS Feed: [{{ 'feed.xml' | relative_url }}]({{ 'feed.xml' | relative_url }})
+- JSON: [{{ 'feed.json' | relative_url }}]({{ 'feed.json' | relative_url }})
 
 
 [^feed]: Right click any of the feed links found on this page and add to your feed reader of choice. My favorite is [feedly](https://feedly.com), which syncs your subscriptions across all browsers and mobile devices.
