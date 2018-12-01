@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About Kulbhushan Chand
+title: About me...
 excerpt: 'Jack of all trades, Master of some'
 last_modified_at: 2018-10-24T10:30:00+05:30
 toc: # true

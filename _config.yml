@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Kulbhushan Chand"
 title_separator          : "-"
 name                     : &name "Kulbhushan Chand"
-description              : &description "just a few momentary pixels within an infinite internet."
+description              : &description "Just another tiny, momentary speck in an indifferent universe"
 url                      : https://kulbhushan-chand.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kulbhushan-Chand/Kulbhushan-Chand.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "Kulbhushan Chand"
   avatar           : "/assets/images/pages/main/site-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "You can follow me on some of the channels mentioned below -"
+  bio              : "Just another tiny, momentary speck in an indifferent universe"
   location         : "India"
  
   links:
