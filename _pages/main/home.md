@@ -37,3 +37,5 @@ feature_row:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+<script> $('.archive__item').click(e => { $(e.preventDefault).find('a.btn').click();})</script>

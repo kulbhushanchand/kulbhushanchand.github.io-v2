@@ -17,8 +17,18 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+
+## {{ "2018-12-01" | date: dateFormat }}
+
+
+## {{ "2018-11-30" | date: dateFormat }}
+- Completed PIS and ICF
+
 ## {{ "2018-11-29" | date: dateFormat }}
-- NULL
+- Working on PIS[^n5] and ICF[^n6]
+
+[^n5]: Participant Information Sheet
+[^n6]: Informed Consent Form
 
 ## {{ "2018-11-28" | date: dateFormat }}
 - Learning using Google APIs
