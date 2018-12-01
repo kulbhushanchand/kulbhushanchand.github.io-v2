@@ -24,7 +24,7 @@ layout: compress
     "author": {
       "name": "{{ site.author.name }}"
       {% if site.author.url %}, "url": "{{ site.author.url }}"{% endif %}
-      {% if site.author.picture %}, "avatar": "{{ site.author.picture | absolute_url }}"{% endif %}
+      {% if site.author.avatar %}, "avatar": "{{ site.author.avatar | absolute_url }}"{% endif %}
     },
   {% endif %}
   "expired": false,

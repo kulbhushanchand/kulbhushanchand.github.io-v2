@@ -19,7 +19,7 @@ toc: false
 
 
 ## {{ "2018-12-01" | date: dateFormat }}
-
+- added feed.json to personal website
 
 ## {{ "2018-11-30" | date: dateFormat }}
 - Completed PIS and ICF
