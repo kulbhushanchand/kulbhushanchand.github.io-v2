@@ -5,23 +5,67 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | relative_url }}) available for digesting as well.
+A hierarchical list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | relative_url }}) available for digesting as well.
 
 ---
-<h2> 📃 Pages </h2>
+## 📃 Main Pages 
 
----
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+- [About](/about/)
+- [Contact](/contact/)
+- [Frequently asked questions](/faqs/)
+- [Show your support](/support/)
+- [Terms and policies](/terms/)
+- [Tag index](/blog/tags/)
 
----
-<h2> 🖋 Posts </h2>
 
----
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+## 📌 Important Pages 
+<ul>
+  {% for post in site.pages %}
+    {% if post.list == "imp" %}   
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+## ⚙️ [Projects](/projects/)
+<ul>
+  {% for post in site.pages %}
+    {% if post.list == "projects" %}   
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+{% if site.categories.articles %}
+## 🖋️ [Articles](/blog/categories/#articles)
+<ul>
+  {% for post in site.categories.articles %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+
+{% if site.categories.deltaX %}
+## 📋 [deltaX](/blog/categories/#deltax)
+<ul>
+  {% for post in site.categories.deltaX %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+
+{% if site.categories.tutorials %}
+## 👨‍🏫 [Tutorials](/blog/categories/#tutorials)
+<ul>
+  {% for post in site.categories.tutorials %}
+    {% include post-list.html %}
+  {% endfor %}
+</ul>
+{% endif %}
 
 
 {% capture written_label %}'None'{% endcapture %}

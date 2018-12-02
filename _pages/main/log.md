@@ -17,6 +17,8 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-02" | date: dateFormat }}
+- Reworked on sitemap on personal website
 
 ## {{ "2018-12-01" | date: dateFormat }}
 - added feed.json to personal website

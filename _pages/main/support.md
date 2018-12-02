@@ -54,7 +54,7 @@ I am an introvert and barely posts on social media. But now this website gives m
 - [Twitter](https://twitter.com/ChandKulbhushan)
 - [GitHub](https://github.com/Kulbhushan-Chand)
 - [YouTube](https://www.youtube.com/user/erkulbhushan)
-- [Facebook](https://facebook.com/kulbhushan.chand.007)
+- [Facebook](https://facebook.com/chandkulbhushan)
 - [Google+](https://plus.google.com/+KulbhushanChand)
 - [LinkedIn](https://www.linkedin.com/in/kulbhushan-chand)
 

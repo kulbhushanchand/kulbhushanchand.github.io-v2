@@ -21,11 +21,7 @@ classes: wide
 ---
 
 
-  🇮🇳  
-
-
-
-
+[Pay using UPI](upi://pay?pa=kulbhushan@upi&pn=KULBHUSHAN&cu=INR){: .btn}
 
 
 

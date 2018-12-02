@@ -1,5 +1,5 @@
 ---
-title: test post
+title: article post
 excerpt: this is exc
 toc: false
 classes: #wide
@@ -7,7 +7,6 @@ toc_sticky: true
 toc_label: #"Unique Title"
 toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 categories:
-  - articles
 tags:
   - arduino
   - project

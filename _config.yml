@@ -82,7 +82,7 @@ naver_site_verification  :
 twitter:
   username               : &twitter "ChandKulbhushan"
 facebook:
-  username               : &facebook "kulbhushan.chand.007"
+  username               : &facebook "chandkulbhushan"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/pages/main/site-logo.jpg" # Open Graph/Twitter default site image
@@ -140,7 +140,7 @@ author:
 
     - label: "Facebook"
       icon: "facebook"
-      url: "https://facebook.com/kulbhushan.chand.007"
+      url: "https://facebook.com/chandkulbhushan"
 
     - label: "Instagram"
       icon: "instagram"
@@ -316,8 +316,8 @@ defaults:
       author_profile: false
       comments: false
       share: false
-      list: false
-      breadcrumbs:
+      support: false
+      breadcrumbs: false
      
 
   # projects
@@ -333,6 +333,7 @@ defaults:
       breadcrumbs: 
         - label: "Projects"
           url: /projects/
+      list: projects
       
   # faqs
   - scope:
@@ -346,6 +347,7 @@ defaults:
       breadcrumbs:  
         - label: "Frequently asked questions"
           url: /faqs/
+      list: faqs
 
 
 

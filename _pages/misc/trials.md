@@ -7,10 +7,10 @@ excerpt: '**What**, **Why**, **Where** and other doubts?... then this page is fo
 In short, we will record your heart rate, breathing rate etc. and give you some puzzles to solve. We analyse the data and later share some **awesome facts** about you'
 author_profile: false
 layout: single
+list: imp
 classes: wide
 comments: false
 published: true
-list: true
 last_modified_at: 2018-09-07T04:15:00+05:30
 toc: # true
 toc_label: #"Table of Contents"
