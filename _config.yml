@@ -83,7 +83,6 @@ algolia:
     - blog/index.html
     - blog/category-archive.md
     - blog/tag-archive.md
- 
 
 google:
   search_engine_id       : 018411968981221450858:fni_re0wfh8 # YOUR_SEARCH_ENGINE_ID

@@ -41,7 +41,7 @@ gallery:
 ---
 
 
-Mostly I have used free and opensource tools. I will try to regularly publish articles on my arduino, MATLAB, electronics and some of my ever-evolving interests.
+Mostly I have used free and opensource tools. I will try to regularly publish articles on arduino, MATLAB, electronics and some of my ever-evolving interests.
 
 
 

@@ -18,7 +18,7 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-12-03" | date: dateFormat }}
-
+- Fixed algolia search on personal website
 
 ## {{ "2018-12-02" | date: dateFormat }}
 - Reworked on sitemap on personal website

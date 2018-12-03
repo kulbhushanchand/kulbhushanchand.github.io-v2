@@ -231,10 +231,4 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
  
 </script>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODk4OTkxMCw4NTMwNTk0MTAsLTE4Nj
-czMTUwODZdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1NDg0NDksLTc3Njc5MzM2N119
--->
+<a href="#site-nav" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
