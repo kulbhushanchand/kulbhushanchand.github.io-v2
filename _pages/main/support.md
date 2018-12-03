@@ -63,7 +63,7 @@ I am an introvert and barely posts on social media. But now this website gives m
 
 The main feed[^feed] for everything on this website.
 
-- RSS Feed: [{{ 'feed.xml' | relative_url }}]({{ 'feed.xml' | relative_url }})
+- Atom: [{{ 'atom.xml' | relative_url }}]({{ 'atom.xml' | relative_url }})
 - JSON: [{{ 'feed.json' | relative_url }}]({{ 'feed.json' | relative_url }})
 
 
