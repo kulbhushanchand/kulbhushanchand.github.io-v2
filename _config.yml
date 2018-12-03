@@ -74,15 +74,16 @@ algolia:
     - index.html
     - index.md
     - _pages/main/404.md
+    - _pages/main/faqs.md
+    - _pages/main/home.md
+    - _pages/main/log.md
     - _pages/main/projects.md
+    - _pages/main/sitemap.md
+    - _pages/main/test.md
     - blog/index.html
-    - _pages/faqs.md
-    - _pages/mastering-paper.md
-    - _pages/portraits.md
-    - _pages/sitemap.md
-    - _pages/tag.md
-    - _pages/til.md
-    - _pages/work.md
+    - blog/category-archive.md
+    - blog/tag-archive.md
+ 
 
 google:
   search_engine_id       : 018411968981221450858:fni_re0wfh8 # YOUR_SEARCH_ENGINE_ID
