@@ -15,8 +15,16 @@ feature_row1:
     excerpt: "Presentation, schematics and the arduino code for conducting the arduino workshop for kids." 
     url: "/projects/arduino-workshop-for-kids"
     btn_class: ""
-    btn_label: 
+    btn_label:
 feature_row2:
+  - image_path: /assets/images/pages/projects/classroom-gamification/classroom-gamification-small.jpg
+    alt: "classroom gamification"
+    title: Classroom gamification
+    excerpt: "Tool to gamify your classroom with an online leaderboard." 
+    url: "/projects/classroom-gamification"
+    btn_class: ""
+    btn_label: 
+feature_row3:
   - image_path: /assets/images/pages/projects/personal-website/personal-website-small.jpg
     alt: "personal website"
     title: Personal website
@@ -24,7 +32,7 @@ feature_row2:
     url: "/projects/personal-website"
     btn_class: ""
     btn_label: 
-feature_row3:
+feature_row4:
   - image_path: /assets/images/pages/projects/ramayan-hymns/shree-ram-and-sita-small.jpg
     alt: "ramayan hymns"
     title: Ramayan hymns
@@ -43,3 +51,5 @@ These are some of the projects I have made. These are free, open source and avai
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="left" %}

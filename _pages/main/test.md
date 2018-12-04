@@ -21,6 +21,11 @@ classes: wide
 ---
 
 
+<a href="/test/">
+  <img border="0" alt="site-logo" src="/assets/images/pages/main/site-logo.png" width="50" height="50" style="width: 50px; height: 50px;">
+</a>
+
+
 [Pay using UPI](upi://pay?pa=kulbhushan@upi&pn=KULBHUSHAN&cu=INR){: .btn}
 
 

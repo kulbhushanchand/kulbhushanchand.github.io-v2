@@ -79,7 +79,7 @@ An impressive score of 93 and 96 for mobile and desktop benchmarking respectivel
        
 
 - [GTmetrix](https://gtmetrix.com/)
-Gtmetrix is another widely used website performance becnhmarking tool. The website loads under half second with 99% PageSpeed score.
+Gtmetrix is another widely used website performance benchmarking tool. The website loads under half second with 99% PageSpeed score.
 
 [![Gtmetrix]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/gtmetrix.jpg){: .align-center}](/assets/images/pages/projects/personal-website/gtmetrix.jpg)
 <figcaption>Results from the GTmetrix.</figcaption>

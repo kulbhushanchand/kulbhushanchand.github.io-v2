@@ -1,15 +1,17 @@
 ---
-title: <i class="fab fa-readme"></i> Post template
-toc: true
+title: post template
+excerpt: this is exc
+toc: false
+classes: #wide
 toc_sticky: true
 toc_label: #"Unique Title"
 toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 categories:
-  - articles
 tags:
   - arduino
   - project
 author_profile: #false
+link: "http://www.nitj.ac.in"
 last_modified_at: 2018-09-05T10:00:04+05:30  #datetime in ISO8601 format
 header:
   overlay_image: /assets/images/pages/main/unsplash-image-1.jpg
@@ -20,10 +22,4 @@ header:
       url: "https://unsplash.com"
 ---
 
-
-## Heading 
-
-```javascript
-var kb = chand;
-```
 
