@@ -20,9 +20,12 @@ classes: wide
 #  - chartjs
 ---
 
+[Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+Theme updated from master branch of minimal-mistakes upto commits--05-Dec-2018
 
 <a href="/test/">
-  <img border="0" alt="site-logo" src="/assets/images/pages/main/site-logo.png" width="50" height="50" style="width: 50px; height: 50px;">
+  <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-colored.png" width="50" height="50" style="width: 50px; height: 50px;">
 </a>
 
 
@@ -71,9 +74,7 @@ Inline content
 
 # [visited](https://www.google.com)
 
-[Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes upto commits--22-Nov-2018
 
 test[^kb]
 

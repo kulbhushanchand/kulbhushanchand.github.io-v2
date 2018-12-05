@@ -323,6 +323,12 @@
   .navicon:after {
     background: mix(#000, $primary-color, 25%);
   }
+
+  &.close {
+    .navicon {
+      background: transparent;
+    }
+  }
 }
 
 
