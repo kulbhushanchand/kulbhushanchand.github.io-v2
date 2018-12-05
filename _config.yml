@@ -122,6 +122,9 @@ analytics:
     tracking_id          : "UA-123577698-1" #"UA-123577698-1" #"GTM-MFRMJTK"
     anonymize_ip         : # true, false (default)
 
+# Google Adsense Advertisement
+advertisement: false
+  
 
 # Site Author
 author:
