@@ -24,6 +24,10 @@ classes: wide
 
 Theme updated from master branch of minimal-mistakes upto commits--05-Dec-2018
 
+
+<svg width="33px" height="33px"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
+
+
 <a href="/test/">
   <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-colored.png" width="50" height="50" style="width: 50px; height: 50px;">
 </a>
@@ -36,13 +40,12 @@ Theme updated from master branch of minimal-mistakes upto commits--05-Dec-2018
 <a href="https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp" class="btn btn--whatsapp"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-whatsapp' | prepend: 'assets/icons/' | absolute_url }}"></use></svg><span> WhatsApp</span></a>
 
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}){: .btn}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}){: .btn}
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
 
 
-
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--primary}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--primary}
 
 
 <span style="color: darkred; font-size: 4em;">❤</span>
