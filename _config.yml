@@ -100,7 +100,7 @@ facebook:
   username               : &facebook "chandkulbhushan"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/pages/main/site-logo.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/pages/main/kbc-logo-colored.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
