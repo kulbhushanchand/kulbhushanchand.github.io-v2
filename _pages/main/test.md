@@ -25,8 +25,6 @@ classes: wide
 Theme updated from master branch of minimal-mistakes upto commits--05-Dec-2018
 
 
-<svg width="33px" height="33px"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
-
 
 <a href="/test/">
   <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-colored.png" width="50" height="50" style="width: 50px; height: 50px;">

@@ -18,7 +18,7 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-12-05" | date: dateFormat }}
-
+- Created logo for personal website
 
 ## {{ "2018-12-04" | date: dateFormat }}
 - Made Classroom Gamification project open source

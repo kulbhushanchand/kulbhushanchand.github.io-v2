@@ -29,6 +29,10 @@
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
+    
+    <aside class="sidebar__top">
+      <a href="#site-nav"><svg class="" width="33px" height="33px" ><use xlink:href="{{ 'icons.svg#icon-back-to-top' | prepend: 'assets/icons/' | relative_url }}"></use></svg></a>
+    </aside>
 
     <div class="page__footer">
       <footer>

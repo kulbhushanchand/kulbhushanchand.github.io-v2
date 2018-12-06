@@ -71,6 +71,14 @@
   }
 }
 
+.sidebar__top {
+  position: fixed;
+  bottom: 1em;
+  right: 1.5em;
+  z-index: 10;
+  fill: $link-color;
+}
+
 .sidebar__right {
   margin-bottom: 1em;
 
