@@ -18,7 +18,7 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2018-12-06" | date: dateFormat }}
-- Added back to top functionality on personal website
+- Added back to top functionality and development notice (for post and project) on personal website
 
 ## {{ "2018-12-05" | date: dateFormat }}
 - Created logo for personal website
@@ -83,7 +83,7 @@ toc: false
 - Downloaded icons, scss colors for icons and buttons on personal website
 
 ## {{ "2018-11-16" | date: dateFormat }}
-- Creted includes for support notice on personal website
+- Created includes for support notice on personal website
 
 ## {{ "2018-11-15" | date: dateFormat }}
 - Added support notice to end of posts & theme improvements on personal website

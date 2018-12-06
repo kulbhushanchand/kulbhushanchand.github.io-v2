@@ -5,6 +5,7 @@ excerpt: 'Tool to gamify your classroom with an online leaderboard.'
 comments: false
 layout: #splash
 classes: wide
+development: true
 author_profile: false
 comments: false
 last_modified_at: 2018-12-04T10:30:00+05:30
@@ -16,19 +17,25 @@ project-link:
 #  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
-This project is the simple application of gamification in the classroom, with a sole purpose of making attending and learning in class enjoyable and fun. 
+## ℹ️ About this project
 
-## Features
+This project is the simple application of gamification in the classroom, with a sole purpose of making attending and learning in class enjoyable and fun. However classroom is not the only place which can be gamified. You can gamify any activity for which tool is made adaptable as per need. Some of the features are -
+
 - Easy and simple implementation
 - No knowledge of any programming language required
 - Static, light weight and fast leaderboard
 - Deploy without any cost
 
-## Technologies used
+
+## ⚙️ Tools used for this project
+
+All tools and tecnologies are free and thus no cost incurs in deployment or making of this project. The important ones are -
+
 - GitHub
 - Google Sheets and Google Drive
 
-## Screenshots
+
+## 📷 Screenshots
 
 <figure class="half">
     <a href="/assets/images/pages/projects/classroom-gamification/leaderboard-webpage.jpg">
@@ -40,6 +47,8 @@ This project is the simple application of gamification in the classroom, with a 
 </figure>
 
 
+## ❓ How to use?
+
 The points are awarded to students on the basis of - 
  - Lectures attended
  - Surprise questions answered
@@ -48,4 +57,6 @@ The points are awarded to students on the basis of -
  - Being unlucky
 
 The output is a live leaderboard of students with their overall points. Students (or anyone) can see the leaderboard and thus their and other's position by visiting a link, which was shared among them. 
+
+
   

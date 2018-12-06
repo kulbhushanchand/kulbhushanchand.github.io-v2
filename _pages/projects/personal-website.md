@@ -40,25 +40,28 @@ gallery:
     title: "404 page"        
 ---
 
+## ℹ️ About this project
 
-Mostly I have used free and opensource tools. I will try to regularly publish articles on arduino, MATLAB, electronics and some of my ever-evolving interests.
+This is my personal website and blog created using Jekyll, hosted on GitHub pages and served via cloudflare. I will try to regularly publish articles on arduino, MATLAB, electronics and some of my ever-evolving interests. Some of the feature are -
 
-
-
-## Features
 - Static website
 - Light weight
 - Fast
 - Minimal expense
 
-## Technologies used
+
+## ⚙️ Tools used for this project
+
+Mostly I have used free and opensource tools. Following is the list of important tools and technologies used -
+
 - Jekyll
 - GitHub
 - Cloudflare
+- Algolia
 - Theme used - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) by [Michael Rose](https://twitter.com/mmistakes) and some designs are used from his [personal website](https://mademistakes.com)
 
 
-## Screenshots
+## 📷 Screenshots
 
 {% include gallery caption="The screenshots of the personal website taken on chrome on windows 10 at 1920x1200 resolution" %}
 
@@ -66,7 +69,8 @@ Mostly I have used free and opensource tools. I will try to regularly publish ar
 ---
 ## Performance report
 
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
 An impressive score of 93 and 96 for mobile and desktop benchmarking respectively was obtained on Google PageSpeed Insight 
 
 <figure class="">
@@ -78,14 +82,16 @@ An impressive score of 93 and 96 for mobile and desktop benchmarking respectivel
 </figure>
        
 
-- [GTmetrix](https://gtmetrix.com/)
-Gtmetrix is another widely used website performance benchmarking tool. The website loads under half second with 99% PageSpeed score.
+### [GTmetrix](https://gtmetrix.com/) 
+
+Another widely used website performance benchmarking tool. The website loads under half second with 99% PageSpeed score.
 
 [![Gtmetrix]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/gtmetrix.jpg){: .align-center}](/assets/images/pages/projects/personal-website/gtmetrix.jpg)
 <figcaption>Results from the GTmetrix.</figcaption>
 
 
-- Lighthouse audit
+### Lighthouse audit
+
 Results from the Lighthouse in Chrome DevTools
 
 [![Lighthouse audit]({{ site.url }}{{ site.baseurl }}/assets/images/pages/projects/personal-website/lighthouse-audit.jpg "title" "caption"){: .align-center}](/assets/images/pages/projects/personal-website/lighthouse-audit.jpg)

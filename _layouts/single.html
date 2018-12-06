@@ -45,8 +45,10 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       
-        {% if page.support == true %}
-         {% include_cached support-post.html %}
+        {% if page.development == true %}
+          {% include_cached under-development.html %}
+        {% elsif page.support == true %}
+          {% include_cached support-post.html %}
         {% endif %}
       </section>
 

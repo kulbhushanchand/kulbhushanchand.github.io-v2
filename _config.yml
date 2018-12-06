@@ -291,6 +291,7 @@ defaults:
       share: true
       related: true
       support: true
+      development: false
       breadcrumbs:
         - label: "Blog"
           url: /blog/
@@ -347,6 +348,7 @@ defaults:
       comments: false
       share: false
       support: true
+      development: false
       breadcrumbs: 
         - label: "Projects"
           url: /projects/
