@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-10" | date: dateFormat }}
+- GIAN course on Autism and Assisted Technologies, started
+
 ## {{ "2018-12-09" | date: dateFormat }}
 - NULL
 
