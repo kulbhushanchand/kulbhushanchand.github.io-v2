@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_image: /assets/images/pages/main/home-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.4)
-title: Hi... I am Kulbhushan Chand
+title: '' # Hi... I am Kulbhushan Chand
 excerpt: 'Just another tiny, momentary speck in an indifferent universe.
 <br>'
 feature_row:

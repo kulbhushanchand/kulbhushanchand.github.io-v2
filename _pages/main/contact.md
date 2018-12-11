@@ -6,15 +6,13 @@ excerpt: "Preferred methods of sending your questions, inquires, messages, and l
 ---
 
 ---
-Have questions about me, this website, or my projects?
+Do you have any questions about me, this website, or my projects?
 
-I am not very active on social media. However short and succinct messages [via Twitter](https://twitter.com/ChandKulbhushan) is the way to ask. You can also find me [elsewhere on the web](/support/#follow-me-on-social-media)
+If you have a question, please read my [frequently asked questions section](/faqs/) first ( maybe I've already answered it). For doubt or help related to my projects, it's best to submit an issue on the appropriate GitHub repo[^1].
 
-If you have a question, please read my [frequently asked questions section](/faqs/) first ( maybe I've already answered it). For doubt or help related to my projects, it's best to submit an issue on the appropriate GitHub repo:
+[^1]: GitHub repo link is provided on the each of projects pages
 
-- [Personal website](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io)
-- [Ramayan hymns](https://github.com/Kulbhushan-Chand/ramayan-hymns)
-- [Arduino workshop for kids](https://github.com/Kulbhushan-Chand/arduino-workshop-for-kids)
+I am not very active on social media, but still you can also find me [elsewhere on the web](/support/#follow-me-on-social-media)
 
 ---
 For anything else, use the contact form below.

@@ -27,7 +27,7 @@ Theme updated from master branch of minimal-mistakes up to commits--05-Dec-2018
 
 
 <a href="/test/">
-  <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-colored.png" width="50" height="50" style="width: 50px; height: 50px;">
+  <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-masthead.png">
 </a>
 
 
