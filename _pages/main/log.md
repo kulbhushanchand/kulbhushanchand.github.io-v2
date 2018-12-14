@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-14" | date: dateFormat }}
+- GIAN course on Autism and Assisted Technologies, Day-5
+
 ## {{ "2018-12-13" | date: dateFormat }}
 - GIAN course on Autism and Assisted Technologies, Day-4
 
