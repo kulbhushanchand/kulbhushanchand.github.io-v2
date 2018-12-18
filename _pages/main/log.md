@@ -17,8 +17,10 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-## {{ "2018-12-17" | date: dateFormat }}
+## {{ "2018-12-18" | date: dateFormat }}
 
+## {{ "2018-12-17" | date: dateFormat }}
+- NULL
 
 ## {{ "2018-12-16" | date: dateFormat }}
 - NULL
