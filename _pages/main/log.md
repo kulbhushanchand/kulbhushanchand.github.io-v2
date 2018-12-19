@@ -17,6 +17,8 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-20" | date: dateFormat }}
+
 ## {{ "2018-12-19" | date: dateFormat }}
 - Sucessfully controlled FCEUX via MATLAB
   - Listener in .lua
