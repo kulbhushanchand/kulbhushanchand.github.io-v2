@@ -17,7 +17,14 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-19" | date: dateFormat }}
+- Sucessfully controlled FCEUX via MATLAB
+  - Listener in .lua
+  - Server in Python
+  - Running Python commands in MATLAB
+
 ## {{ "2018-12-18" | date: dateFormat }}
+- Drawing on Oscilloscope Screen
 
 ## {{ "2018-12-17" | date: dateFormat }}
 - NULL
