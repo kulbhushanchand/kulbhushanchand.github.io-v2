@@ -17,7 +17,11 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2018-12-21" | date: dateFormat }}
+
+
 ## {{ "2018-12-20" | date: dateFormat }}
+- Checking the important functions of FCEUX in MATLAB 
 
 ## {{ "2018-12-19" | date: dateFormat }}
 - Sucessfully controlled FCEUX via MATLAB
