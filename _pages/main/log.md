@@ -18,7 +18,7 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2019-01-01" | date: dateFormat }}
-- NULL
+- Installed and configured RetroArch
 
 ## {{ "2018-12-31" | date: dateFormat }}
 - NULL
