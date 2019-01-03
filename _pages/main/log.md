@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2019-02-03" | date: dateFormat }}
+- Deciding on using FCEUX or BizHawk (Go for FCEUX for now)
+
 ## {{ "2019-02-02" | date: dateFormat }}
 - Configuring RetroArch
 
