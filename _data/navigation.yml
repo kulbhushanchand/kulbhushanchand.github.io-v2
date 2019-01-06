@@ -24,4 +24,86 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+
+
+# projects sidebar
+
+arduino-workshop-for-kids:
+  - title: "ℹ️ About"
+    url: /projects/arduino-workshop-for-kids#about-this-project
+  - title: "⚙️ Tools used"
+    url: /projects/arduino-workshop-for-kids#tools-used-for-this-project
+  - title: "❓ How to use"
+    url: /projects/arduino-workshop-for-kids#how-to-use    
+
+classroom-gamification:
+  - title: "ℹ️ About"
+    url: /projects/classroom-gamification#about-this-project
+  - title: "⚙️ Tools used"
+    url: /projects/classroom-gamification#tools-used-for-this-project
+  - title: "📷 Screenshots"
+    url: /projects/classroom-gamification#screenshots
+  - title: "❓ How to use"
+    url: /projects/classroom-gamification#how-to-use
+
+personal-website:
+  - title: "ℹ️ About"
+    url: /projects/personal-website#about-this-project
+  - title: "⚙️ Tools used"
+    url: /projects/personal-website#tools-used-for-this-project
+  - title: "📷 Screenshots"
+    url: /projects/personal-website#screenshots
+  - title: "❓ How to use"
+    url: /projects/personal-website#how-to-use
+
+ramayan-hymns:
+  - title: "ℹ️ About"
+    url: /projects/ramayan-hymns#about-this-project
+  - title: "⚙️ Tools used"
+    url: /projects/ramayan-hymns#tools-used-for-this-project
+  - title: "❓ How to use"
+    url: /projects/ramayan-hymns#how-to-use 
  
+
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
+

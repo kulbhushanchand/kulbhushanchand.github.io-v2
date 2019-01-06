@@ -12,6 +12,12 @@ last_modified_at: 2018-10-31T10:30:00+05:30
 toc: false
 project-link:
   github-repo: arduino-workshop-for-kids
+sidebar:
+  - title: "Arduino workshop for kids"
+    image: /assets/images/pages/projects/arduino-workshop-for-kids/arduino-workshop-for-kids-small.jpg
+    image_alt: "arduino workshop for kids"
+    text: "Presentation, schematics and the arduino code for conducting the arduino workshop for kids."
+    nav: arduino-workshop-for-kids
 #header:
 #  overlay_image: /assets/images/pages/projects/arduino-workshop-for-kids/arduino-workshop-for-kids-header.jpg
 #  overlay_filter: rgba(0, 0, 0, 0.5)

@@ -10,6 +10,12 @@ last_modified_at: #2018-10-05T10:30:00+05:30
 toc: false
 project-link:
   github-repo: Kulbhushan-Chand.github.io
+sidebar:
+  - title: "Personal website"
+    image: /assets/images/pages/projects/personal-website/personal-website-small.jpg
+    image_alt: "personal website"
+    text: "An ultra fast, light weight static website that I am actively developing and maintaning as my personal website."
+    nav: personal-website
 header:
   overlay_image: #/assets/images/pages/projects/personal-website/personal-website-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
@@ -40,7 +46,7 @@ gallery:
     title: "404 page"        
 ---
 
-## ℹ️ About this project
+## About this project
 
 This is my personal website and blog created using Jekyll, hosted on GitHub pages and served via cloudflare. I will try to regularly publish articles on arduino, MATLAB, electronics and some of my ever-evolving interests. Some of the feature are -
 
@@ -50,7 +56,7 @@ This is my personal website and blog created using Jekyll, hosted on GitHub page
 - Minimal expense
 
 
-## ⚙️ Tools used for this project
+## Tools used for this project
 
 Mostly I have used free and opensource tools. Following is the list of important tools and technologies used -
 
@@ -61,7 +67,7 @@ Mostly I have used free and opensource tools. Following is the list of important
 - Theme used - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) by [Michael Rose](https://twitter.com/mmistakes) and some designs are used from his [personal website](https://mademistakes.com)
 
 
-## 📷 Screenshots
+## Screenshots
 
 {% include gallery caption="The screenshots of the personal website taken on chrome on windows 10 at 1920x1200 resolution" %}
 

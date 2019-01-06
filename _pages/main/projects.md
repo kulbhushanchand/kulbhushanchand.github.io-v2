@@ -36,7 +36,7 @@ feature_row4:
   - image_path: /assets/images/pages/projects/ramayan-hymns/shree-ram-and-sita-small.jpg
     alt: "ramayan hymns"
     title: Ramayan hymns
-    excerpt: "Collection of mesmerizing hymns from the serial Sampoorna Ramayan by Ramananda Sagar. "
+    excerpt: "Collection of mesmerizing hymns from the serial Sampoorna Ramayan by Ramananda Sagar."
     url: "/projects/ramayan-hymns"
     btn_class: ""
     btn_label: 

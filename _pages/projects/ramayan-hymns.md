@@ -11,17 +11,23 @@ toc: true
 toc_sticky: true
 project-link:
   github-repo: ramayan-hymns
+sidebar:
+  - title: "Ramayan hymns"
+    image: /assets/images/pages/projects/ramayan-hymns/shree-ram-and-sita-small.jpg
+    image_alt: "ramayan hymns"
+    text: "Collection of mesmerizing hymns from the serial Sampoorna Ramayan by Ramananda Sagar."
+    nav: ramayan-hymns
 ---
 
 
-## ℹ️ About this project
+## About this project
 
 These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sampoorna Ramayan" by Ramananda Sagar'.
 - The hymns are available in high quality (320kbps) mp3 format
 - The hyms are also available in text form in devnagri script
 
 
-## ❓ Workflow and tools used for this project
+## Workflow and tools used for this project
 - Sampoorna Ramayan video episodes from youtube
 - Online youtube to mp3
 - mp3dc software for cuing, cutting and lossless extraction

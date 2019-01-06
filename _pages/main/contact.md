@@ -12,7 +12,7 @@ If you have a question, please read my [frequently asked questions section](/faq
 
 [^1]: GitHub repo link is provided on the each of projects pages
 
-I am not very active on social media, but still you can also find me [elsewhere on the web](/support/#follow-me-on-social-media)
+I am not very active on social media, but still you can also [find me here](/support/#follow-me-on-social-media)
 
 ---
 For anything else, use the contact form below.

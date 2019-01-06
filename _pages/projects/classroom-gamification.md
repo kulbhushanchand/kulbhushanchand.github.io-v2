@@ -12,12 +12,19 @@ last_modified_at: 2018-12-04T10:30:00+05:30
 toc: false
 project-link:
   github-repo: classroom-gamification
-#header:
+sidebar:
+  - title: "Classroom Gamification"
+    image: /assets/images/pages/projects/classroom-gamification/classroom-gamification-small.jpg
+    image_alt: "classroom gamification"
+    text: "Tool to gamify your classroom with an online leaderboard."
+    nav: classroom-gamification
+   
+ 
 #  overlay_image: /assets/images/pages/projects/classroom-gamification/classroom-gamification-header.jpg
 #  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
 
-## ℹ️ About this project
+## About this project
 
 This project is the simple application of gamification in the classroom, with a sole purpose of making attending and learning in class enjoyable and fun. However classroom is not the only place which can be gamified. You can gamify any activity for which tool is made adaptable as per need. Some of the features are -
 
@@ -27,7 +34,7 @@ This project is the simple application of gamification in the classroom, with a 
 - Deploy without any cost
 
 
-## ⚙️ Tools used for this project
+## Tools used for this project
 
 All tools and tecnologies are free and thus no cost incurs in deployment or making of this project. The important ones are -
 
@@ -35,7 +42,7 @@ All tools and tecnologies are free and thus no cost incurs in deployment or maki
 - Google Sheets and Google Drive
 
 
-## 📷 Screenshots
+## Screenshots
 
 <figure class="half">
     <a href="/assets/images/pages/projects/classroom-gamification/leaderboard-webpage.jpg">
@@ -47,7 +54,7 @@ All tools and tecnologies are free and thus no cost incurs in deployment or maki
 </figure>
 
 
-## ❓ How to use?
+## How to use
 
 The points are awarded to students on the basis of - 
  - Lectures attended
