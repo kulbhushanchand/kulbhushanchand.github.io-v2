@@ -18,6 +18,9 @@ toc: false
 {% assign dateFormat = '%B %d, %Y' %}
 
 ## {{ "2019-02-07" | date: dateFormat }}
+-
+
+## {{ "2019-02-07" | date: dateFormat }}
 - Working on breathing rate estimation algorithm
 
 ## {{ "2019-02-06" | date: dateFormat }}
