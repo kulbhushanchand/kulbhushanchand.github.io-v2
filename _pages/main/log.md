@@ -17,25 +17,29 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-## {{ "2019-02-07" | date: dateFormat }}
--
+## {{ "2019-02-09" | date: dateFormat }}
+- Developing Breathing Sensor
+- DIY photography backdrop
 
-## {{ "2019-02-07" | date: dateFormat }}
+## {{ "2019-02-08" | date: dateFormat }}
+- Developing Breathing Sensor
+
+## {{ "2019-01-07" | date: dateFormat }}
 - Working on breathing rate estimation algorithm
 
-## {{ "2019-02-06" | date: dateFormat }}
+## {{ "2019-01-06" | date: dateFormat }}
 - NULL
 
-## {{ "2019-02-05" | date: dateFormat }}
+## {{ "2019-01-05" | date: dateFormat }}
 - NULL
 
-## {{ "2019-02-04" | date: dateFormat }}
+## {{ "2019-01-04" | date: dateFormat }}
 - NULL
 
-## {{ "2019-02-03" | date: dateFormat }}
+## {{ "2019-01-03" | date: dateFormat }}
 - Deciding on using FCEUX or BizHawk (Go for FCEUX for now)
 
-## {{ "2019-02-02" | date: dateFormat }}
+## {{ "2019-01-02" | date: dateFormat }}
 - Configuring RetroArch
 
 ## {{ "2019-01-01" | date: dateFormat }}
