@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2019-02-10" | date: dateFormat }}
+- Developing Breathing Sensor
+
 ## {{ "2019-02-09" | date: dateFormat }}
 - Developing Breathing Sensor
 - DIY photography backdrop
