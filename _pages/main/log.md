@@ -17,38 +17,41 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
-## {{ "2019-02-18" | date: dateFormat }}
-- 
-
-## {{ "2019-02-17" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-16" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-15" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-14" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-13" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-12" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-11" | date: dateFormat }}
-- NULL
-
-## {{ "2019-02-10" | date: dateFormat }}
+## {{ "2019-02-19" | date: dateFormat }}
 - Developing Breathing Sensor
 
-## {{ "2019-02-09" | date: dateFormat }}
+## {{ "2019-01-18" | date: dateFormat }}
+- Developing Breathing Sensor
+
+## {{ "2019-01-17" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-16" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-15" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-14" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-13" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-12" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-11" | date: dateFormat }}
+- NULL
+
+## {{ "2019-01-10" | date: dateFormat }}
+- Developing Breathing Sensor
+
+## {{ "2019-01-09" | date: dateFormat }}
 - Developing Breathing Sensor
 - DIY photography backdrop
 
-## {{ "2019-02-08" | date: dateFormat }}
+## {{ "2019-01-08" | date: dateFormat }}
 - Developing Breathing Sensor
 
 ## {{ "2019-01-07" | date: dateFormat }}
