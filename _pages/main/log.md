@@ -17,6 +17,9 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2019-01-21" | date: dateFormat }}
+- Developing Breathing Sensor
+
 ## {{ "2019-01-20" | date: dateFormat }}
 - Developing Breathing Sensor
 
