@@ -22,8 +22,7 @@ classes: wide
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes up to commits--05-Dec-2018
-
+Theme updated from master branch of minimal-mistakes up to commits--22-Jan-2019
 
 
 <a href="/test/">

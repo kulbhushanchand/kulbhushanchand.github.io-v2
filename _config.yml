@@ -24,6 +24,8 @@ url                      : https://kulbhushan-chand.com # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kulbhushan-Chand/Kulbhushan-Chand.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/pages/main/dummy.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 100
 comments:
@@ -39,6 +41,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 utterances:
   theme                : # "github-light" (default), "github-dark"
+  issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "master"
