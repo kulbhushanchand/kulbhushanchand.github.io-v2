@@ -22,7 +22,7 @@ classes: wide
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes up to commits--22-Jan-2019
+Theme updated from master branch of minimal-mistakes up to commits--24-Jan-2019
 
 
 <a href="/test/">
@@ -49,7 +49,7 @@ Theme updated from master branch of minimal-mistakes up to commits--22-Jan-2019
 
 <svg class="icon icon--facebook"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
-<svg class="icon--reddit" width="100px" height="100px"> <use xlink:href="{{ 'icons.svg#icon-reddit' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
+<svg class="" fill="#165b83" width="100px" height="100px"> <use xlink:href="{{ 'icons.svg#icon-reddit' | prepend: 'assets/icons/' | relative_url }}"></use></svg> 
 
 <!-- Examples showing larger font sizes: -->
 <span style="font-size: 1em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
