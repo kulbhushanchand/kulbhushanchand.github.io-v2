@@ -1,6 +1,7 @@
 ---
 title: article post
 excerpt: this is exc
+comments: true
 toc: false
 classes: #wide
 toc_sticky: true
