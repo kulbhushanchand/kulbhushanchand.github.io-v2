@@ -50,7 +50,7 @@ staticman:
   format                 : # "yml"
   moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : # "md5"
   generatedFields:
@@ -58,7 +58,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : https://dev.staticman.net/v3/entry/github/ # URL of your own deployment with trailing slash, will fallback to the public instance
+  endpoint               : "https://dev.staticman.net/v3/entry/github/" # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                : "6LfxC3AUAAAAAHtS4AnkcMm1WPqOY0wVzQBqMJBd"
   secret                 : "dPL2DG9v/k28wLgYPXYopf2TDwPHM/uYT05s9YE/RgadXbFrYrgW1KDPYligT4xEqvv4kELEg6Ak7B1SV9QRXhiyK/DfEVGwF2H0z6ouAKndUNm/wb6Kwtb/l6Lu1oZnpBAIosuVKVZ1E4YrdAM2dPv1tY1rVcPu8G/aY7U3yws="
