@@ -5,7 +5,7 @@ excerpt: 'Mesmerising hymns from Ramayan'
 comments: false
 classes: #wide
 author_profile: false
-comments: true
+comments: false
 last_modified_at: 2018-10-31T10:30:00+05:30
 toc: true
 toc_sticky: true
