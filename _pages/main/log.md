@@ -17,6 +17,62 @@ toc: false
 
 {% assign dateFormat = '%B %d, %Y' %}
 
+## {{ "2019-02-22" | date: dateFormat }}
+- Designing amplifier for breathing rate sensor
+
+## {{ "2019-02-21" | date: dateFormat }}
+- Designing amplifier for breathing rate sensor
+
+## {{ "2019-02-20" | date: dateFormat }}
+- Designing amplifier for breathing rate sensor
+
+## {{ "2019-02-19" | date: dateFormat }}
+- NULL
+
+## {{ "2019-02-18" | date: dateFormat }}
+- NULL
+
+## {{ "2019-02-17" | date: dateFormat }}
+- NULL
+
+## {{ "2019-02-16" | date: dateFormat }}
+- NULL
+
+## {{ "2019-02-15" | date: dateFormat }}
+- NULL
+
+## {{ "2019-02-14" | date: dateFormat }}
+- Designing belt for breathing rate sensor
+
+## {{ "2019-02-13" | date: dateFormat }}
+- Designing belt for breathing rate sensor
+
+## {{ "2019-02-12" | date: dateFormat }}
+- Designing belt for breathing rate sensor
+
+## {{ "2019-02-11" | date: dateFormat }}
+- Designing belt for breathing rate sensor
+
+## {{ "2019-02-10" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-09" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-08" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-07" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-06" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-05" | date: dateFormat }}
+- gta5 scripting
+
+## {{ "2019-02-04" | date: dateFormat }}
+- gta5 scripting
 
 ## {{ "2019-02-03" | date: dateFormat }}
 - gta5 scripting
