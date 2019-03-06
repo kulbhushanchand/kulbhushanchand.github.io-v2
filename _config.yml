@@ -29,7 +29,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 100
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -166,10 +166,6 @@ author:
     - label: "Instagram"
       icon: "instagram"
       url: # "https://instagram.com/"  
-
-    - label: "Google+"
-      icon: "googleplus"
-      url: # "https://plus.google.com/+KulbhushanChand"
 
     - label: "YouTube"
       icon: "youtube"
