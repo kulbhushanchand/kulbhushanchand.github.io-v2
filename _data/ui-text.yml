@@ -245,23 +245,23 @@ pt-BR:
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 :
-  search_label               :
+  search_label               : "Buscar"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
   less_than                  : "menos que"
   minute_read                : "minuto(s) de leitura"
-  share_on_label             : "Compartilhe em"
+  share_on_label             : "Compartilhe:"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
   date_label                 : "Atualizado em:"
   comments_label             : "Deixe um comentário"
-  comments_title             :
+  comments_title             : "Comentários"
   more_label                 : "Aprenda mais"
-  related_label              : "Talvez você goste também"
+  related_label              : "Talvez você goste também goste"
   follow_label               : "Acompanhe em"
   feed_label                 : "Feed"
-  powered_by                 : "Feito com"
+  powered_by                 : "Desenvolvido com"
   website_label              : "Site"
   email_label                : "Email"
   recent_posts               : "Postagens recentes"
@@ -277,6 +277,8 @@ pt-BR:
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
   comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
+  back_to_top                : "Voltar para o topo"
+  search_placeholder_text    : "Pesquisar..."
 
 # Italian
 # -------
@@ -1346,7 +1348,52 @@ hi: &DEFAULT_HI
 hi-IN:
   <<: *DEFAULT_HI
 
-
+# Thailand
+# --------------
+th: &DEFAULT_TH
+  page                       : "หน้า"
+  pagination_previous        : "ก่อนหน้า"
+  pagination_next            : "ถัดไป"
+  breadcrumb_home_label      : "หน้าแรก"
+  breadcrumb_separator       : "/"
+  menu_label                 : "พับเมนู"
+  search_label               : "พับการค้นหา"
+  toc_label                  : "บนหน้านี้"
+  ext_link_label             : "ลิงก์โดยตรง"
+  less_than                  : "น้อยกว่า"
+  minute_read                : "นาที ในการอ่าน"
+  share_on_label             : "แชร์ไปที่"
+  meta_label                 :
+  tags_label                 : "แท็ก:"
+  categories_label           : "หมวดหมู่:"
+  date_label                 : "อัพเดตล่าสุด:"
+  comments_label             : "แสดงความคิดเห็น"
+  comments_title             : "ความคิดเห็น"
+  more_label                 : "อ่านต่อ"
+  related_label              : "คุณอาจจะชอบสิ่งนี้"
+  follow_label               : "ติดตาม:"
+  feed_label                 : "ฟืดข่าว"
+  powered_by                 : "ขับเคลื่อนโดย"
+  website_label              : "เว็บไซต์"
+  email_label                : "อีเมล"
+  recent_posts               : "โพสล่าสุด"
+  undefined_wpm              : "ไม่สามารถระบุพารามิเตอร์ words_per_minute ได้ใน _config.yml"
+  comment_form_info          : "อีเมลของคุณไม่สามารถโพสสาธารณะได้ กรุณากรอกช่องที่ระบุด้วยเครื่องหมายดอกจันไว้"
+  comment_form_comment_label : "แสดงความคิดเห็น"
+  comment_form_md_info       : "มาร์กดาวน์ได้รับการสนับสนุน"
+  comment_form_name_label    : "ชื่อ"
+  comment_form_email_label   : "ที่อยู่อีเมล"
+  comment_form_website_label : "เว็บไซต์ (ตัวเลือก)"
+  comment_btn_submit         : "ส่งความคิดเห็น"
+  comment_btn_submitted      : "ส่งเรียบร้อยแล้ว"
+  comment_success_msg        : "ขอบคุณสำหรับการแสดงความคิดเห็น! ความคิดเห็นจะได้รับการแสดงหลังจากได้รับการยืนยัน"
+  comment_error_msg          : "ขออภัย, มีบางอย่างผิดพลาดจากการส่งแบบฟอร์ม กรุณาตรวจทานทุกช่อง และลองส่งใหม่อีกครั้ง"
+  loading_label              : "กำลังโหลด..."
+  search_placeholder_text    : "ใส่คำค้นหาของคุณ..."
+  results_found              : "ผลการค้นหา พบ"
+  back_to_top                : "กลับด้านบน"
+th-TH:
+  <<: *DEFAULT_TH
 
 # Another locale
 # --------------
