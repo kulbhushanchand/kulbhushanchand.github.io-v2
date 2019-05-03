@@ -22,11 +22,27 @@ classes: wide
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes up to commits--30-Apr-2019
+Theme updated from master branch of minimal-mistakes up to commits--02-May-2019
+
+
+ JavaScript listing - 
+- assets/js/vendor/jquery/jquery-3.4.1.js 
+- assets/js/vendor/bigfoot/bigfoot.js 
+- assets/js/vendor/svg4everybody/svg4everybody.js 
+- assets/js/vendor/lity/lity.js 
+- assets/js/plugins/jquery.fitvids.js 
+- assets/js/plugins/jquery.greedy-navigation.js 
+- assets/js/plugins/jquery.ba-throttle-debounce.js 
+- assets/js/plugins/smooth-scroll.js 
+- assets/js/plugins/gumshoe.js 
+- assets/js/_main.js
+- jquery.magnific-popup (using lity as lightbox instead of this plugin)
+
+   
 
 
 <a href="/test/">
-  <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo-masthead.png">
+  <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo.png">
 </a>
 
 
@@ -146,10 +162,6 @@ test[^kb]
 
 - [x] a task list item
 - [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-
 
 
 <div class="item" data-aos="fade-up"> kulbhushan AOS animation </div>
