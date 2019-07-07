@@ -41,6 +41,11 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
    
 
 
+
+
+
+
+
 <a href="/test/">
   <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo.png">
 </a>
