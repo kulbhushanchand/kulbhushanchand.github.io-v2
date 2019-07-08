@@ -30,11 +30,11 @@ main:
 
 arduino-workshop-for-kids:
   - title: "ℹ️ About"
-    url: /projects/arduino-workshop-for-kids/#about-this-project
+    url: /projects/arduino-workshop-for-kids#about-this-project
   - title: "⚙️ Tools used"
-    url: /projects/arduino-workshop-for-kids/#tools-used-for-this-project
+    url: /projects/arduino-workshop-for-kids#tools-used-for-this-project
   - title: "❓ How to use"
-    url: /projects/arduino-workshop-for-kids/#how-to-use      
+    url: /projects/arduino-workshop-for-kids#how-to-use      
 
 classroom-gamification:
   - title: "ℹ️ About"
