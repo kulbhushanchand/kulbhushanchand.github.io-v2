@@ -45,7 +45,6 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
 
 
 
-
 <a href="/test/">
   <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo.png">
 </a>
@@ -204,3 +203,37 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 </script>
 
 <a href="#site-nav" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+
+
+
+### Challenge 1 : Blinking LED
+{: style="text-align: center;"}
+{: .btn .btn--primary .btn--large}
+
+ 
+**Aim**  
+The LED is made to blink continuously. The on-off time of the LED can be changed by changing the delay value in the code.
+
+**Schematic**
+![Challenge_1_led_blinking](https://raw.githubusercontent.com/Kulbhushan-Chand/arduino-workshop-for-kids/master/Challenges/Challenge_1_led_blinking/Challenge_1_led_blinking.png){: .align-center}{: width="70%"}
+<figcaption>Schematic for Challenge 1 : Blinking LED</figcaption>{: style="text-align: center;"}
+
+**Code**
+{% highlight CPP linenos %}
+
+int ledPin   = 9;   // Red LED,   connected to digital pin 9
+
+void setup() {
+  pinMode(ledPin,   OUTPUT);   // sets the pins as output
+  digitalWrite(ledPin, LOW);
+  }
+
+void loop() {
+  digitalWrite(ledPin, HIGH);
+  delay(1000);
+  digitalWrite(ledPin, LOW);
+  delay(1000);
+}
+
+{% endhighlight %}

@@ -6,6 +6,6 @@ last_modified_at: 2018-10-23T10:00:00+05:30
 classes: wide
 ---
 
-I've started my website project in Aug-2018. It is open-source and availabel on my GitHub public repository. A variety of tools and software are used to build this website. Full list of tools and other information is available on [**Personal website project page**](/projects/personal-website)
+The source code of my website is open-source and is available on my GitHub public repository. A variety of tools and software are used to build this website. Full list of tools and other information is available on [**Personal website project page**](/projects/personal-website)
 
 

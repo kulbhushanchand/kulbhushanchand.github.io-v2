@@ -30,44 +30,11 @@ main:
 
 arduino-workshop-for-kids:
   - title: "ℹ️ About"
-    url: /projects/arduino-workshop-for-kids#about-this-project
+    url: /projects/arduino-workshop-for-kids/#about-this-project
   - title: "⚙️ Tools used"
-    url: /projects/arduino-workshop-for-kids#tools-used-for-this-project
+    url: /projects/arduino-workshop-for-kids/#about-this-project
   - title: "❓ How to use"
-    url: /projects/arduino-workshop-for-kids#how-to-use  
-  - title: "🔬 Experiments"    
-    url: /projects/arduino-workshop-for-kids#experiments   
-    children:
-      - title: "#️⃣ 1 : Blinking LED"
-        url: /projects/arduino-workshop-for-kids/#challenge-1--blinking-led 
-      - title: "#️⃣ 2 : Fading LED"
-        url: /projects/arduino-workshop-for-kids/#challenge-2--fading-led     
-      - title: "#️⃣ 3 : Coloured LED"
-        url: /projects/arduino-workshop-for-kids/#challenge-3--coloured-led
-      - title: "#️⃣ 4 : Color Wheel"
-        url: /projects/arduino-workshop-for-kids/#challenge-4--color-wheel
-      - title: "#️⃣ 5 : Color Control Button"
-        url: /projects/arduino-workshop-for-kids/#challenge-5--color-control-button
-      - title: "#️⃣ 6 : Color Mixer"
-        url: /projects/arduino-workshop-for-kids/#challenge-6--color-mixer
-      - title: "#️⃣ 7 : Toss a Coin"
-        url: /projects/arduino-workshop-for-kids/#challenge-7--toss-a-coin
-      - title: "#️⃣ 8 : Roll a Dice"
-        url: /projects/arduino-workshop-for-kids/#challenge-8--roll-a-dice
-      - title: "#️⃣ 9 : Rock Paper Scissor"
-        url: /projects/arduino-workshop-for-kids/#challenge-9--rock-paper-scissor
-      - title: "#️⃣ 10 : Automatic Light Control"
-        url: /projects/arduino-workshop-for-kids/#challenge-10--automatic-light-control
-      - title: "#️⃣ 11 : Burgler Alarm"
-        url: /projects/arduino-workshop-for-kids/#challenge-11--burgler-alarm
-      - title: "#️⃣ 12 : Laser Shooter"
-        url: /projects/arduino-workshop-for-kids/#challenge-12--laser-shooter
-      - title: "#️⃣ 13 : Piano"
-        url: /projects/arduino-workshop-for-kids/#challenge-13--piano
-      - title: "#️⃣ 14 : Theremin"
-        url: /projects/arduino-workshop-for-kids/#challenge-14--theremin
-      - title: "#️⃣ 15 : Ghost Detector"
-        url: /projects/arduino-workshop-for-kids/#challenge-15--ghost-detector
+    url: /projects/arduino-workshop-for-kids/#how-to-use      
 
 classroom-gamification:
   - title: "ℹ️ About"

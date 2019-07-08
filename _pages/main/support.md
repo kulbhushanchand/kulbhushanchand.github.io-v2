@@ -12,9 +12,7 @@ header:
  overlay_filter: #rgba(0, 0, 0, 0.5)
 ---
 
-Presently I am a student and ❤️ to create open-source projects and wish to keep doing as long as I get fuelled with **insatiable thirst for knowledge** and **tea**.
-
-However taking `time` out of my research work and `no source of funding` only slows me down. So, I'm reaching out to you for support. If you are using and found any of my content useful here's how to show your thanks and motivate me to create more.
+Presently I am a student and ❤️ to create open-source projects. However taking `time` out of my research work and `no source of funding for my extra work` only slows me down. So, I'm reaching out to you for support. If you are using and found any of my content useful here's how to show your thanks and motivate me to create more.
 
 
 ## Send a Donation
