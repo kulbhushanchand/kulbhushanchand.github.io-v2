@@ -20,6 +20,9 @@ classes: wide
 #  - chartjs
 ---
 
+<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
+
+
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
@@ -39,7 +42,6 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
 - jquery.magnific-popup (using lity as lightbox instead of this plugin)
 
    
-
 
 
 
