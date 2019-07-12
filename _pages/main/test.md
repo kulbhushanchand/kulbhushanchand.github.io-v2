@@ -20,8 +20,7 @@ classes: wide
 #  - chartjs
 ---
 
-<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg>
-
+  
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
@@ -45,11 +44,10 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
 
 
 
-
-
 <a href="/test/">
   <img border="0" alt="site-logo" src="/assets/images/pages/main/kbc-logo.png">
 </a>
+
 
 
 [Pay using UPI](upi://pay?pa=kulbhushan@upi&pn=KULBHUSHAN&cu=INR){: .btn}
@@ -59,12 +57,12 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
 <a href="https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp" class="btn btn--whatsapp"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-whatsapp' | prepend: 'assets/icons/' | absolute_url }}"></use></svg><span> WhatsApp</span></a>
 
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}){: .btn}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}){: .btn}
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--inverse}
 
 
-[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-kbc-logo' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--primary}
+[<svg class="icon"><use xlink:href="{{ 'icons.svg#icon-facebook' | prepend: 'assets/icons/' | relative_url }}"></use></svg> I'm groot](#){: .btn .btn--primary}
 
 
 <span style="color: darkred; font-size: 4em;">❤</span>
@@ -77,7 +75,7 @@ Theme updated from master branch of minimal-mistakes up to commits--28-June-2019
 <span style="font-size: 1em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 <span style="font-size: 2em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 <span style="font-size: 3em;"><svg class="icon"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
-<span style="font-size: 4em;"><svg class="icon icon--reddit"><use xlink:href="{{ 'icons.svg#icon-reddit' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
+<span style="font-size: 4em;"><svg class="icon icon--reddit"><use xlink:href="{{ 'icons.svg#icon-github' | prepend: 'assets/icons/' | relative_url }}"></use></svg></span>
 
 
 

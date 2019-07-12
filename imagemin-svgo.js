@@ -8,7 +8,8 @@ imagemin(['assets/icons/svg/**/*.svg'], 'dist/svg', {
         {cleanupIDs: {remove: false}},
         {cleanupNumericValues: {floatPrecision: 2}},
         {removeStyleElement: true},
-        {removeTitle: true}
+        {removeTitle: true},
+        {removeViewBox: true}
       ],
       multipass: true
     })
