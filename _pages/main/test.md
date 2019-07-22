@@ -26,7 +26,7 @@ classes: wide
 
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-Theme updated from master branch of minimal-mistakes up to commits--18-July-2019
+Theme updated from master branch of minimal-mistakes up to commits--19-July-2019
 
 
  JavaScript listing - 
