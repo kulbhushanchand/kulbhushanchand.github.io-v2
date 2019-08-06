@@ -33,11 +33,11 @@
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <p class="author__bio" itemprop="description">
-        {{ author.bio }}
-      </p>
+     <div class="author__bio" itemprop="description">
+       {{ author.bio | markdownify }}
+     </div>
     {% endif %}
-  </div>
+    </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>

@@ -134,7 +134,7 @@ advertisement: false
 author:
   name             : "Kulbhushan Chand"
   avatar           : "/assets/images/pages/main/kulbhushan-chand.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just another tiny, momentary speck in an indifferent universe"
+  bio              : "Just another **tiny**, **momentary** speck in an indifferent universe"
   location         : "India"
   uri              : &uri "https://kulbhushan-chand.com/about/"
   url              : *uri
