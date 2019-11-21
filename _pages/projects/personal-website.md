@@ -9,7 +9,7 @@ comments: false
 last_modified_at: #2018-10-05T10:30:00+05:30
 toc: false
 project-link:
-  github-repo: Kulbhushan-Chand.github.io
+  github-repo: kulbhushanchand.github.io
 sidebar:
   - title: "Personal website"
     image: /assets/images/pages/projects/personal-website/personal-website-small.jpg
@@ -144,7 +144,7 @@ If your intention is to make a similar website like this, I would recommend to u
 - **Method 2 -**  
 I have made some changes to the theme and if you want the exact website like this project, then follow the mentioned steps -
   
-  * Download the [repository](https://github.com/Kulbhushan-Chand/Kulbhushan-Chand.github.io) 
+  * Download the [repository](https://github.com/kulbhushanchand/kulbhushanchand.github.io) 
   
   * Change the name to your GitHub username (required for hosting on GitHub)
   
