@@ -37,7 +37,7 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 ---
 ## Ramayan Title Hymn
 रामायण शीर्षक-भजन
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-title.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-title.mp3" controls preload></audio>
 ```
 सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
 पुनि पुनि कितनेहू सुने सुनाये। हिय की प्यास भुजत न भुजाये॥
@@ -48,38 +48,38 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 
 ### By Balmiki in sanskrit
 वाल्मीकि द्वारा संस्कृत में
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-sanskrit.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-sanskrit.mp3" controls preload></audio>
 ```
 यावत्स्थास्यन्ति गिरयः सरितश्च महीतले | 
 तावद्रामायणकथा लोकेषु प्रचरिष्यति || 
 ```
 ### By Tulsidas in avadhi
 तुलसीदास द्वारा अवधी में
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-awadhi-1.mp3" controls preload></audio>  
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-awadhi-1.mp3" controls preload></audio>  
 ```
 सारद सेस महेस बिधि आगम निगम पुरान।
 नेति नेति कहि जासु गुन करहिं निरंतर गान॥
 ```
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-awadhi-2.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-awadhi-2.mp3" controls preload></audio>
 ```
 सब जानत प्रभु प्रभुता सोई। तदपि कहें बिनु रहा न कोई॥
 सीता राम चरित अति पावन। मधुर सरस अरु अति मनभावन॥
 ```
 ### By Ranganatha in telegu
 रंगनाथ द्वारा तेलुगू में
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-telegu.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-telegu.mp3" controls preload></audio>
 
 ### By Krittibas in bengali
 कृत्तिवास द्वारा बंगाली में
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-bengali.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-bengali.mp3" controls preload></audio>
 
 ### By ?? (in marathi language)
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-stuti-marathi.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-stuti-marathi.mp3" controls preload></audio>
 
 ---
 ## Shree Ram birth
 श्री राम जन्म
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-shree-ram-birth.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-shree-ram-birth.mp3" controls preload></audio>
 ```
 नौमी तिथि मधु मास पुनीता। सुकल पच्छ अभिजित हरिप्रीता॥
 मध्यदिवस अति सीत न घामा। पावन काल लोक बिश्रामा॥
@@ -88,12 +88,12 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 ---
 ## Shree Ram birth celebrations in ayodhya
 श्री राम जन्म का अयोध्या में उत्सव
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-shree-ram-birth-celebrations.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-shree-ram-birth-celebrations.mp3" controls preload></audio>
 
 ---
 ## Shree Ram childhood
 श्री राम का बचपन
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-shree-ram-childhood.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-shree-ram-childhood.mp3" controls preload></audio>
 ```
 ठुमक चलत, चलत ठुमक...
 ठुमक चलत रामचंद्र, बाजत पैंजनियां | ठुमक चलत रामचंद्र...
@@ -119,7 +119,7 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 ---
 ## Ahlilya's salvation
 अहल्या उद्धार
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-ahilya-udhaar.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-ahilya-udhaar.mp3" controls preload></audio>
 ```
 परसत पद पावन सोकनसावन प्रगट भई तपपुंज सही।
 देखत रघुनायक जन सुखदायक सनमुख होइ कर जोरि रही॥
@@ -137,7 +137,7 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 ---
 ## Vishvamitra's command
 विश्वामित्रजी का श्री राम को धनुषभंग के लिए आदेश
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-vishwamitra-asked-shree-ram-to-break-the-bow.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-vishwamitra-asked-shree-ram-to-break-the-bow.mp3" controls preload></audio>
 ```
 बिस्वामित्र समय सुभ जानी। बोले अति सनेहमय बानी॥
 उठहु राम भंजहु भवचापा। मेटहु तात जनक परितापा॥
@@ -153,7 +153,7 @@ These are some of the hymns (bhanjan) /quatrain (chaupais) played in serial "Sam
 ---
 ## Shree Ram breaks the bow
 श्री राम द्वारा धनुषभंग
-<audio src="https://raw.githubusercontent.com/Kulbhushan-Chand/ramayan-hymns/master/hymns/ramayan-shree-ram-breaks-the-bow.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/kulbhushanchand/ramayan-hymns/master/hymns/ramayan-shree-ram-breaks-the-bow.mp3" controls preload></audio>
 ```
 राम बिलोके लोग सब चित्र लिखे से देखि।
 चितई सीय कृपायतन जानी बिकल बिसेषि॥
