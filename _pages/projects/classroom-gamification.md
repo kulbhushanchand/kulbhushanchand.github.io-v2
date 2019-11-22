@@ -5,9 +5,7 @@ excerpt: 'Tool to gamify your classroom with an online leaderboard.'
 comments: false
 layout: #splash
 classes: wide
-development: true
 author_profile: false
-comments: false
 last_modified_at: 2018-12-04T10:30:00+05:30
 toc: false
 project-link:
@@ -36,7 +34,7 @@ This project is the simple application of gamification in the classroom, with a 
 
 ## Tools used for this project
 
-All tools and tecnologies are free and thus no cost incurs in deployment or making of this project. The important ones are -
+All tools and tecnologies are free and thus no cost incurs in deployment of this project. The important ones are -
 
 - GitHub
 - Google Sheets and Google Drive

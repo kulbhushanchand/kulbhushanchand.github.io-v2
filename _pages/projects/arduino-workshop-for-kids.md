@@ -5,7 +5,6 @@ excerpt: 'This project contains the presentation, schematics and the arduino cod
 comments: false
 layout: #splash
 classes: wide
-development: false
 author_profile: false
 comments: false
 last_modified_at: 2019-07-08
