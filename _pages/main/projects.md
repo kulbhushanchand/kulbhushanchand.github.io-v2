@@ -46,10 +46,11 @@ feature_row4:
 These are some of the projects I have made. These are free, open source and available on GitHub. Hope you'll find them useful.
 
 ---
-{% include feature_row id="feature_row1" type="left" %}
+<!-- {% include feature_row id="feature_row1" type="left" %} -->
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+<!-- {% include feature_row id="feature_row4" type="left" %} -->
+
