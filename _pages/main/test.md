@@ -21,6 +21,13 @@ classes: wide
 ---
 
 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnLML-Rf4GfMw57yPrsHltfP7bs4zLO4IpdXlgTiGNp5LgZpcdnfctbVAzRmyrKlHbgHIdrN6YSvC1/pubhtml?gid=495947404&amp;single=true&amp;widget=true&amp;headers=false" style='height: 100%; width: 100%;' frameborder="0" scrolling="no" id="iframe"></iframe> 
+  
+  
+  
+  
+
 [Theme Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 Theme updated from master branch of minimal-mistakes up to commits--09-Aug-2019
