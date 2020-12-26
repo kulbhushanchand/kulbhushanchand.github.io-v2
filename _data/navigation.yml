@@ -8,8 +8,8 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
-  - title: "Support Me"
-    url: /support/    
+#  - title: "Support Me"
+#    url: /support/    
   - title: "About"
     url: /about/
   - title: "Contact"
